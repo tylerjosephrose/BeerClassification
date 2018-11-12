@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<root>
+  <currentPage>23</currentPage>
+  <numberOfPages>23</numberOfPages>
+  <totalResults>1109</totalResults>
+  <data>
+    <item>
+      <id>ndBEW0</id>
+      <name>Xtra Time</name>
+      <nameDisplay>Xtra Time</nameDisplay>
+      <description>A light, easy-drinking beer perfect for life&amp;apos;s adventures-- or a relaxing day off. Xtra Time&amp;apos;s crisp, refreshing taste will keep up with you, no matter your pace.</description>
+      <abv>4.4</abv>
+      <ibu>11</ibu>
+      <srmId>3</srmId>
+      <styleId>108</styleId>
+      <isOrganic>N</isOrganic>
+      <isRetired>N</isRetired>
+      <labels>
+        <icon>https://brewerydb-images.s3.amazonaws.com/beer/ndBEW0/upload_s044Vn-icon.png</icon>
+        <medium>https://brewerydb-images.s3.amazonaws.com/beer/ndBEW0/upload_s044Vn-medium.png</medium>
+        <large>https://brewerydb-images.s3.amazonaws.com/beer/ndBEW0/upload_s044Vn-large.png</large>
+        <contentAwareIcon>https://brewerydb-images.s3.amazonaws.com/beer/ndBEW0/upload_s044Vn-contentAwareIcon.png</contentAwareIcon>
+        <contentAwareMedium>https://brewerydb-images.s3.amazonaws.com/beer/ndBEW0/upload_s044Vn-contentAwareMedium.png</contentAwareMedium>
+        <contentAwareLarge>https://brewerydb-images.s3.amazonaws.com/beer/ndBEW0/upload_s044Vn-contentAwareLarge.png</contentAwareLarge>
+      </labels>
+      <status>verified</status>
+      <statusDisplay>Verified</statusDisplay>
+      <createDate>2018-09-20 18:36:52</createDate>
+      <updateDate>2018-11-02 02:15:14</updateDate>
+      <srm>
+        <id>3</id>
+        <name>3</name>
+        <hex>FFCA5A</hex>
+      </srm>
+      <style>
+        <id>108</id>
+        <categoryId>11</categoryId>
+        <category>
+          <id>11</id>
+          <name>Hybrid/mixed Beer</name>
+          <createDate>2012-03-21 20:06:46</createDate>
+        </category>
+        <name>Session Beer</name>
+        <shortName>Session</shortName>
+        <description>Any style of beer can be made lower in strength than described in the classic style guidelines. The goal should be to reach a balance between the style&amp;apos;s character and the lower alcohol content. Drinkability is a character in the overall balance of these beers. Beers in this category must not exceed 4.1% alcohol by weight (5.1% alcohol by volume).</description>
+        <ibuMin>10</ibuMin>
+        <ibuMax>30</ibuMax>
+        <abvMin>4</abvMin>
+        <abvMax>5.1</abvMax>
+        <srmMin>2</srmMin>
+        <srmMax>2</srmMax>
+        <ogMin>1.034</ogMin>
+        <fgMin>1.004</fgMin>
+        <fgMax>1.01</fgMax>
+        <createDate>2012-03-21 20:06:46</createDate>
+        <updateDate>2015-04-07 15:42:20</updateDate>
+      </style>
+    </item>
+    <item>
+      <id>BKi6Ss</id>
+      <name>Yadig? Berliner Hopfenweissen</name>
+      <nameDisplay>Yadig? Berliner Hopfenweissen</nameDisplay>
+      <description>A wheat ale with a generous amount of Medusa hops and a tart, dry finish. Brewed in collaboration with Oskar Blues for 2014 Cleveland Beer Week.</description>
+      <abv>4.3</abv>
+      <ibu>35</ibu>
+      <availableId>2</availableId>
+      <styleId>35</styleId>
+      <isOrganic>N</isOrganic>
+      <isRetired>N</isRetired>
+      <status>verified</status>
+      <statusDisplay>Verified</statusDisplay>
+      <createDate>2015-04-14 14:12:06</createDate>
+      <updateDate>2018-11-02 02:15:14</updateDate>
+      <available>
+        <id>2</id>
+        <name>Limited</name>
+        <description>Limited availability.</description>
+      </available>
+      <style>
+        <id>35</id>
+        <categoryId>3</categoryId>
+        <category>
+          <id>3</id>
+          <name>North American Origin Ales</name>
+          <createDate>2012-03-21 20:06:45</createDate>
+        </category>
+        <name>American-Style Wheat Wine Ale</name>
+        <shortName>Wheatwine</shortName>
+        <description>American style wheat wines range from gold to deep amber and are brewed with 50% or more wheat malt. They have full body and high residual malty sweetness. Perception of bitterness is moderate to medium -high. Fruity-ester characters are often high and counterbalanced by complexity of alcohols and high alcohol content. Hop aroma and flavor are at low to medium levels. Very low levels of diacetyl may be acceptable. Bready, wheat, honey-like and/or caramel aroma and flavor are often part of the character. Phenolic yeast character, sulfur, and/or sweet corn-like dimethylsulfide (DMS) should not be present. Oxidized, stale and aged characters are not typical of this style. Chill haze is allowable.</description>
+        <ibuMin>45</ibuMin>
+        <ibuMax>85</ibuMax>
+        <abvMin>8.4</abvMin>
+        <abvMax>12</abvMax>
+        <srmMin>8</srmMin>
+        <srmMax>15</srmMax>
+        <ogMin>1.088</ogMin>
+        <fgMin>1.024</fgMin>
+        <fgMax>1.032</fgMax>
+        <createDate>2012-03-21 20:06:46</createDate>
+        <updateDate>2015-04-07 15:27:17</updateDate>
+      </style>
+    </item>
+    <item>
+      <id>EqgmWc</id>
+      <name>Year of the Dog - Release #1</name>
+      <nameDisplay>Year of the Dog - Release #1</nameDisplay>
+      <description>Small amounts of crystal malt has been added for color and sweetness. Heavy use of Galena, Simcoe and Citra Hops gives the beer a nice earthy citrus kick.</description>
+      <abv>7.2</abv>
+      <ibu>73</ibu>
+      <styleId>33</styleId>
+      <isOrganic>N</isOrganic>
+      <isRetired>N</isRetired>
+      <status>verified</status>
+      <statusDisplay>Verified</statusDisplay>
+      <createDate>2018-06-28 20:33:20</createDate>
+      <updateDate>2018-11-02 02:15:14</updateDate>
+      <style>
+        <id>33</id>
+        <categoryId>3</categoryId>
+        <category>
+          <id>3</id>
+          <name>North American Origin Ales</name>
+          <createDate>2012-03-21 20:06:45</createDate>
+        </category>
+        <name>Imperial Red Ale</name>
+        <shortName>Imperial Red</shortName>
+        <description>Imperial Red Ales are deep amber to dark copper/reddish brown. A small amount of chill haze is allowable at cold temperatures. Fruity-ester aroma is medium. Hop aroma is intense, arising from any variety of hops. Medium to high caramel malt character is present. Hop flavor is intense, and balanced with other beer characters. They may use any variety of hops. Hop bitterness is intense. Alcohol content is very high and of notable character. Complex alcohol flavors may be evident. Fruity-ester flavors are medium. Diacetyl should not be perceived. Body is full.</description>
+        <ibuMin>55</ibuMin>
+        <ibuMax>85</ibuMax>
+        <abvMin>7.9</abvMin>
+        <abvMax>10.5</abvMax>
+        <srmMin>10</srmMin>
+        <srmMax>15</srmMax>
+        <ogMin>1.08</ogMin>
+        <fgMin>1.02</fgMin>
+        <fgMax>1.028</fgMax>
+        <createDate>2012-03-21 20:06:46</createDate>
+        <updateDate>2015-04-07 17:05:43</updateDate>
+      </style>
+    </item>
+    <item>
+      <id>ruYTf6</id>
+      <name>Yippe Rye Aye!</name>
+      <nameDisplay>Yippe Rye Aye!</nameDisplay>
+      <abv>5.9</abv>
+      <glasswareId>5</glasswareId>
+      <styleId>112</styleId>
+      <isOrganic>N</isOrganic>
+      <isRetired>N</isRetired>
+      <labels>
+        <icon>https://brewerydb-images.s3.amazonaws.com/beer/ruYTf6/upload_uy8UMQ-icon.png</icon>
+        <medium>https://brewerydb-images.s3.amazonaws.com/beer/ruYTf6/upload_uy8UMQ-medium.png</medium>
+        <large>https://brewerydb-images.s3.amazonaws.com/beer/ruYTf6/upload_uy8UMQ-large.png</large>
+        <contentAwareIcon>https://brewerydb-images.s3.amazonaws.com/beer/ruYTf6/upload_uy8UMQ-contentAwareIcon.png</contentAwareIcon>
+        <contentAwareMedium>https://brewerydb-images.s3.amazonaws.com/beer/ruYTf6/upload_uy8UMQ-contentAwareMedium.png</contentAwareMedium>
+        <contentAwareLarge>https://brewerydb-images.s3.amazonaws.com/beer/ruYTf6/upload_uy8UMQ-contentAwareLarge.png</contentAwareLarge>
+      </labels>
+      <status>verified</status>
+      <statusDisplay>Verified</statusDisplay>
+      <createDate>2012-01-03 02:44:34</createDate>
+      <updateDate>2018-11-02 02:15:14</updateDate>
+      <glass>
+        <id>5</id>
+        <name>Pint</name>
+        <createDate>2012-01-03 02:41:33</createDate>
+      </glass>
+      <style>
+        <id>112</id>
+        <categoryId>11</categoryId>
+        <category>
+          <id>11</id>
+          <name>Hybrid/mixed Beer</name>
+          <createDate>2012-03-21 20:06:46</createDate>
+        </category>
+        <name>Light American Wheat Ale or Lager with Yeast</name>
+        <shortName>Wheat Ale</shortName>
+        <description>This beer can be made using either ale or lager yeast. It can be brewed with 30 to 75 percent wheat malt, and hop rates may be low to medium. Hop characters may be light to moderate in bitterness, flavor and aroma. Fruity-estery aroma and flavor are typical but at low levels however, phenolic, clove-like characteristics should not be perceived. Color is usually straw to light amber, and the body should be light to medium in character. Diacetyl should not be perceived. Because this style is served with yeast the character should portray a full yeasty mouthfeel and appear hazy to very cloudy. Chill haze is also acceptable. Yeast flavor and aroma should be low to medium but not overpowering the balance and character of malt and hops. These beers are typically served with the yeast in the bottle, and are cloudy when served.</description>
+        <ibuMin>10</ibuMin>
+        <ibuMax>35</ibuMax>
+        <abvMin>3.5</abvMin>
+        <abvMax>5.5</abvMax>
+        <srmMin>4</srmMin>
+        <srmMax>10</srmMax>
+        <ogMin>1.036</ogMin>
+        <fgMin>1.006</fgMin>
+        <fgMax>1.018</fgMax>
+        <createDate>2012-03-21 20:06:46</createDate>
+        <updateDate>2015-04-07 15:42:48</updateDate>
+      </style>
+    </item>
+    <item>
+      <id>CScss3</id>
+      <name>Yonder Bock - Beer Camp Across America</name>
+      <nameDisplay>Yonder Bock - Beer Camp Across America (2014)</nameDisplay>
+      <description>Tampa is a long way from our home base in Chico, but the guys down yonder in Florida sure can brew a great beer. Our friends at Cigar City find inspiration in the Cuban roots of their hometown, and that Latin-inspired flair is evident in Yonder Bock. This tropical take on the Maibock adds a Latin island flair to this traditional German style beer.&#13;
+Enamored with the Latin roots of their Tampa home, Cigar City always tries to channel a bit of local history into their beers, e.g. the Humidor Series whose beers age on Spanish cedar as an homage to Tampa&#8217;s cigar making roots. Only five years old, this brewery deserves the fast praise that&#8217;s come its way.</description>
+      <abv>7.7</abv>
+      <ibu>45</ibu>
+      <glasswareId>5</glasswareId>
+      <availableId>2</availableId>
+      <styleId>89</styleId>
+      <isOrganic>N</isOrganic>
+      <isRetired>N</isRetired>
+      <year>2014</year>
+      <labels>
+        <icon>https://brewerydb-images.s3.amazonaws.com/beer/CScss3/upload_V4cqEJ-icon.png</icon>
+        <medium>https://brewerydb-images.s3.amazonaws.com/beer/CScss3/upload_V4cqEJ-medium.png</medium>
+        <large>https://brewerydb-images.s3.amazonaws.com/beer/CScss3/upload_V4cqEJ-large.png</large>
+        <contentAwareIcon>https://brewerydb-images.s3.amazonaws.com/beer/CScss3/upload_V4cqEJ-contentAwareIcon.png</contentAwareIcon>
+        <contentAwareMedium>https://brewerydb-images.s3.amazonaws.com/beer/CScss3/upload_V4cqEJ-contentAwareMedium.png</contentAwareMedium>
+        <contentAwareLarge>https://brewerydb-images.s3.amazonaws.com/beer/CScss3/upload_V4cqEJ-contentAwareLarge.png</contentAwareLarge>
+      </labels>
+      <status>verified</status>
+      <statusDisplay>Verified</statusDisplay>
+      <originalGravity>1.078</originalGravity>
+      <createDate>2014-05-14 12:20:07</createDate>
+      <updateDate>2018-11-02 02:15:14</updateDate>
+      <glass>
+        <id>5</id>
+        <name>Pint</name>
+        <createDate>2012-01-03 02:41:33</createDate>
+      </glass>
+      <available>
+        <id>2</id>
+        <name>Limited</name>
+        <description>Limited availability.</description>
+      </available>
+      <style>
+        <id>89</id>
+        <categoryId>7</categoryId>
+        <category>
+          <id>7</id>
+          <name>European-germanic Lager</name>
+          <createDate>2012-03-21 20:06:46</createDate>
+        </category>
+        <name>German-Style Heller Bock/Maibock</name>
+        <shortName>Maibock</shortName>
+        <description>The German word helle means light colored, and as such, a heller Bock is light straw to deep golden in color. Maibocks are also light-colored bocks. The sweet malty character should come through in the aroma and flavor. A lightly toasted and/or bready malt character is often evident. Roast or heavy toast/caramel malt character should be absent. Body is medium to full. Hop bitterness should be low, while noble-type hop aroma and flavor may be at low to medium levels. Bitterness increases with gravity. Fruity esters may be perceived at low levels. Diacetyl should be absent. Chill haze should not be perceived.</description>
+        <ibuMin>20</ibuMin>
+        <ibuMax>38</ibuMax>
+        <abvMin>6</abvMin>
+        <abvMax>8</abvMax>
+        <srmMin>4</srmMin>
+        <srmMax>10</srmMax>
+        <ogMin>1.066</ogMin>
+        <fgMin>1.012</fgMin>
+        <fgMax>1.02</fgMax>
+        <createDate>2012-03-21 20:06:46</createDate>
+        <updateDate>2015-04-07 15:39:04</updateDate>
+      </style>
+    </item>
+    <item>
+      <id>a8u4ic</id>
+      <name>Yvan The Great - Beer Camp Across America</name>
+      <nameDisplay>Yvan The Great - Beer Camp Across America (2014)</nameDisplay>
+      <description>As longtime friends, Russian River brewmaster Vinnie Cilurzo and our own Brian Grossman are no strangers to brewing experiments. While looking for inspiration for this collaboration, Vinnie and Brian decided to honor the creations of legendary Belgian brewer Yvan De Baets with their own hop-forward American-Belgian mash-up.&#13;
+&#13;
+From complex Belgian-inspired styles to American wild ales and hoppy Double IPA&#8217;s, Russian River always pushes boundaries while respecting technique and quality. Co-owners Vinnie and Natalie Cilurzo are longtime friends of Sierra Nevada and they always have a six-pack of Pale Ale in their fridge at home.</description>
+      <abv>6.3</abv>
+      <ibu>50</ibu>
+      <glasswareId>5</glasswareId>
+      <availableId>2</availableId>
+      <styleId>61</styleId>
+      <isOrganic>N</isOrganic>
+      <isRetired>N</isRetired>
+      <year>2014</year>
+      <labels>
+        <icon>https://brewerydb-images.s3.amazonaws.com/beer/a8u4ic/upload_2lpMTV-icon.png</icon>
+        <medium>https://brewerydb-images.s3.amazonaws.com/beer/a8u4ic/upload_2lpMTV-medium.png</medium>
+        <large>https://brewerydb-images.s3.amazonaws.com/beer/a8u4ic/upload_2lpMTV-large.png</large>
+        <contentAwareIcon>https://brewerydb-images.s3.amazonaws.com/beer/a8u4ic/upload_2lpMTV-contentAwareIcon.png</contentAwareIcon>
+        <contentAwareMedium>https://brewerydb-images.s3.amazonaws.com/beer/a8u4ic/upload_2lpMTV-contentAwareMedium.png</contentAwareMedium>
+        <contentAwareLarge>https://brewerydb-images.s3.amazonaws.com/beer/a8u4ic/upload_2lpMTV-contentAwareLarge.png</contentAwareLarge>
+      </labels>
+      <status>verified</status>
+      <statusDisplay>Verified</statusDisplay>
+      <originalGravity>1.053</originalGravity>
+      <createDate>2014-05-14 12:19:36</createDate>
+      <updateDate>2018-11-02 02:15:14</updateDate>
+      <glass>
+        <id>5</id>
+        <name>Pint</name>
+        <createDate>2012-01-03 02:41:33</createDate>
+      </glass>
+      <available>
+        <id>2</id>
+        <name>Limited</name>
+        <description>Limited availability.</description>
+      </available>
+      <style>
+        <id>61</id>
+        <categoryId>5</categoryId>
+        <category>
+          <id>5</id>
+          <name>Belgian And French Origin Ales</name>
+          <createDate>2012-03-21 20:06:46</createDate>
+        </category>
+        <name>Belgian-Style Blonde Ale</name>
+        <shortName>Belgian Blonde</shortName>
+        <description>Belgian-style blond ales are characterized by low yet evident hop bitterness, flavor, and sometimes aroma. Light to medium body and low malt aroma with a sweet, spiced and a low to medium fruity-ester character orchestrated in flavor and aroma. Sugar may be used to lighten perceived body. They are blonde to golden in color. Noble-type hops are commonly used. Low levels of phenolic spiciness from yeast byproducts may be perceived. Diacetyl should not be perceived. Acidic character should not be present. Chill haze is allowable at cold temperatures.</description>
+        <ibuMin>15</ibuMin>
+        <ibuMax>30</ibuMax>
+        <abvMin>6</abvMin>
+        <abvMax>7.8</abvMax>
+        <srmMin>4</srmMin>
+        <srmMax>7</srmMax>
+        <ogMin>1.054</ogMin>
+        <fgMin>1.008</fgMin>
+        <fgMax>1.014</fgMax>
+        <createDate>2012-03-21 20:06:46</createDate>
+        <updateDate>2015-04-07 15:32:01</updateDate>
+      </style>
+    </item>
+    <item>
+      <id>9GBACV</id>
+      <name>Zepher Ale</name>
+      <nameDisplay>Zepher Ale</nameDisplay>
+      <abv>7.5</abv>
+      <glasswareId>5</glasswareId>
+      <availableId>4</availableId>
+      <isOrganic>N</isOrganic>
+      <isRetired>N</isRetired>
+      <labels>
+        <icon>https://brewerydb-images.s3.amazonaws.com/beer/9GBACV/upload_qh7bbT-icon.png</icon>
+        <medium>https://brewerydb-images.s3.amazonaws.com/beer/9GBACV/upload_qh7bbT-medium.png</medium>
+        <large>https://brewerydb-images.s3.amazonaws.com/beer/9GBACV/upload_qh7bbT-large.png</large>
+      </labels>
+      <status>verified</status>
+      <statusDisplay>Verified</statusDisplay>
+      <createDate>2012-01-03 02:44:34</createDate>
+      <updateDate>2018-11-02 02:15:14</updateDate>
+      <glass>
+        <id>5</id>
+        <name>Pint</name>
+        <createDate>2012-01-03 02:41:33</createDate>
+      </glass>
+      <available>
+        <id>4</id>
+        <name>Seasonal</name>
+        <description>Available at the same time of year, every year.</description>
+      </available>
+    </item>
+    <item>
+      <id>nwNOxm</id>
+      <name>ZiegenBock Amber</name>
+      <nameDisplay>ZiegenBock Amber</nameDisplay>
+      <abv>4.9</abv>
+      <styleId>101</styleId>
+      <isOrganic>N</isOrganic>
+      <isRetired>N</isRetired>
+      <labels>
+        <icon>https://brewerydb-images.s3.amazonaws.com/beer/nwNOxm/upload_a3PCzZ-icon.png</icon>
+        <medium>https://brewerydb-images.s3.amazonaws.com/beer/nwNOxm/upload_a3PCzZ-medium.png</medium>
+        <large>https://brewerydb-images.s3.amazonaws.com/beer/nwNOxm/upload_a3PCzZ-large.png</large>
+        <contentAwareIcon>https://brewerydb-images.s3.amazonaws.com/beer/nwNOxm/upload_a3PCzZ-contentAwareIcon.png</contentAwareIcon>
+        <contentAwareMedium>https://brewerydb-images.s3.amazonaws.com/beer/nwNOxm/upload_a3PCzZ-contentAwareMedium.png</contentAwareMedium>
+        <contentAwareLarge>https://brewerydb-images.s3.amazonaws.com/beer/nwNOxm/upload_a3PCzZ-contentAwareLarge.png</contentAwareLarge>
+      </labels>
+      <status>verified</status>
+      <statusDisplay>Verified</statusDisplay>
+      <createDate>2012-01-03 02:44:34</createDate>
+      <updateDate>2018-11-02 02:15:14</updateDate>
+      <style>
+        <id>101</id>
+        <categoryId>8</categoryId>
+        <category>
+          <id>8</id>
+          <name>North American Lager</name>
+          <createDate>2012-03-21 20:06:46</createDate>
+        </category>
+        <name>American-Style Amber Lager</name>
+        <shortName>American Amber Lager</shortName>
+        <description>American-style amber lagers are light amber to amber or copper colored. They are medium bodied. There is a noticeable degree of caramel-type malt character in flavor and often in aroma. This is a broad category in which the hop bitterness, flavor, and aroma may be accentuated or may only be present at relatively low levels, yet noticeable. Fruity esters, diacetyl, and chill haze should be absent.</description>
+        <ibuMin>18</ibuMin>
+        <ibuMax>30</ibuMax>
+        <abvMin>4.8</abvMin>
+        <abvMax>5.4</abvMax>
+        <srmMin>6</srmMin>
+        <srmMax>14</srmMax>
+        <ogMin>1.042</ogMin>
+        <fgMin>1.01</fgMin>
+        <fgMax>1.018</fgMax>
+        <createDate>2012-03-21 20:06:46</createDate>
+        <updateDate>2015-04-07 15:41:26</updateDate>
+      </style>
+    </item>
+    <item>
+      <id>EBlZnE</id>
+      <name>Zoomer</name>
+      <nameDisplay>Zoomer</nameDisplay>
+      <description>A refreshing wheat ale, Zoomer is brewed to quench your summer thirst. American-grown wheat provides Zoomer&#8217;s straw color and its soft, clean body. With subtle, yet flavorful hints of citrus fruit in its finish, Zoomer is the perfect companion to all things summer.</description>
+      <abv>4.7</abv>
+      <availableId>6</availableId>
+      <styleId>112</styleId>
+      <isOrganic>N</isOrganic>
+      <isRetired>N</isRetired>
+      <labels>
+        <icon>https://brewerydb-images.s3.amazonaws.com/beer/EBlZnE/upload_4anyGF-icon.png</icon>
+        <medium>https://brewerydb-images.s3.amazonaws.com/beer/EBlZnE/upload_4anyGF-medium.png</medium>
+        <large>https://brewerydb-images.s3.amazonaws.com/beer/EBlZnE/upload_4anyGF-large.png</large>
+        <contentAwareIcon>https://brewerydb-images.s3.amazonaws.com/beer/EBlZnE/upload_4anyGF-contentAwareIcon.png</contentAwareIcon>
+        <contentAwareMedium>https://brewerydb-images.s3.amazonaws.com/beer/EBlZnE/upload_4anyGF-contentAwareMedium.png</contentAwareMedium>
+        <contentAwareLarge>https://brewerydb-images.s3.amazonaws.com/beer/EBlZnE/upload_4anyGF-contentAwareLarge.png</contentAwareLarge>
+      </labels>
+      <status>verified</status>
+      <statusDisplay>Verified</statusDisplay>
+      <foodPairings>Food pairings include artisan cheeses, fresh greens, fish and chicken.</foodPairings>
+      <createDate>2012-01-03 02:44:34</createDate>
+      <updateDate>2018-11-02 02:15:14</updateDate>
+      <available>
+        <id>6</id>
+        <name>Summer</name>
+        <description>Available during the summer months.</description>
+      </available>
+      <style>
+        <id>112</id>
+        <categoryId>11</categoryId>
+        <category>
+          <id>11</id>
+          <name>Hybrid/mixed Beer</name>
+          <createDate>2012-03-21 20:06:46</createDate>
+        </category>
+        <name>Light American Wheat Ale or Lager with Yeast</name>
+        <shortName>Wheat Ale</shortName>
+        <description>This beer can be made using either ale or lager yeast. It can be brewed with 30 to 75 percent wheat malt, and hop rates may be low to medium. Hop characters may be light to moderate in bitterness, flavor and aroma. Fruity-estery aroma and flavor are typical but at low levels however, phenolic, clove-like characteristics should not be perceived. Color is usually straw to light amber, and the body should be light to medium in character. Diacetyl should not be perceived. Because this style is served with yeast the character should portray a full yeasty mouthfeel and appear hazy to very cloudy. Chill haze is also acceptable. Yeast flavor and aroma should be low to medium but not overpowering the balance and character of malt and hops. These beers are typically served with the yeast in the bottle, and are cloudy when served.</description>
+        <ibuMin>10</ibuMin>
+        <ibuMax>35</ibuMax>
+        <abvMin>3.5</abvMin>
+        <abvMax>5.5</abvMax>
+        <srmMin>4</srmMin>
+        <srmMax>10</srmMax>
+        <ogMin>1.036</ogMin>
+        <fgMin>1.006</fgMin>
+        <fgMax>1.018</fgMax>
+        <createDate>2012-03-21 20:06:46</createDate>
+        <updateDate>2015-04-07 15:42:48</updateDate>
+      </style>
+    </item>
+  </data>
+  <status>success</status>
+</root>

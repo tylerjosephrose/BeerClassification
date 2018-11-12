@@ -1,0 +1,2432 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<root>
+  <currentPage>5</currentPage>
+  <numberOfPages>23</numberOfPages>
+  <totalResults>1109</totalResults>
+  <data>
+    <item>
+      <id>giziAd</id>
+      <name>Bourbon Barrel Aged Imperial Stout With Coffee</name>
+      <nameDisplay>Bourbon Barrel Aged Imperial Stout With Coffee</nameDisplay>
+      <abv>11.2</abv>
+      <ibu>40</ibu>
+      <styleId>43</styleId>
+      <isOrganic>N</isOrganic>
+      <isRetired>N</isRetired>
+      <labels>
+        <icon>https://brewerydb-images.s3.amazonaws.com/beer/giziAd/upload_cWUeL1-icon.png</icon>
+        <medium>https://brewerydb-images.s3.amazonaws.com/beer/giziAd/upload_cWUeL1-medium.png</medium>
+        <large>https://brewerydb-images.s3.amazonaws.com/beer/giziAd/upload_cWUeL1-large.png</large>
+        <contentAwareIcon>https://brewerydb-images.s3.amazonaws.com/beer/giziAd/upload_cWUeL1-contentAwareIcon.png</contentAwareIcon>
+        <contentAwareMedium>https://brewerydb-images.s3.amazonaws.com/beer/giziAd/upload_cWUeL1-contentAwareMedium.png</contentAwareMedium>
+        <contentAwareLarge>https://brewerydb-images.s3.amazonaws.com/beer/giziAd/upload_cWUeL1-contentAwareLarge.png</contentAwareLarge>
+      </labels>
+      <status>verified</status>
+      <statusDisplay>Verified</statusDisplay>
+      <createDate>2018-04-27 16:48:20</createDate>
+      <updateDate>2018-11-02 02:15:14</updateDate>
+      <style>
+        <id>43</id>
+        <categoryId>3</categoryId>
+        <category>
+          <id>3</id>
+          <name>North American Origin Ales</name>
+          <createDate>2012-03-21 20:06:45</createDate>
+        </category>
+        <name>American-Style Imperial Stout</name>
+        <shortName>American Imperial Stout</shortName>
+        <description>Black in color, American-style imperial stouts typically have a high alcohol content. Generally characterized as very robust. The extremely rich malty flavor and aroma are balanced with assertive hopping and fruity-ester characteristics. Bitterness should be moderately high to very high and balanced with full sweet malt character. Roasted malt astringency and bitterness can be moderately perceived but should not overwhelm the overall character. Hop aroma is usually moderately-high to overwhelmingly hop-floral, -citrus or -herbal. Diacetyl (butterscotch) levels should be absent.</description>
+        <ibuMin>50</ibuMin>
+        <ibuMax>80</ibuMax>
+        <abvMin>7</abvMin>
+        <abvMax>12</abvMax>
+        <srmMin>40</srmMin>
+        <srmMax>40</srmMax>
+        <ogMin>1.08</ogMin>
+        <fgMin>1.02</fgMin>
+        <fgMax>1.03</fgMax>
+        <createDate>2012-03-21 20:06:46</createDate>
+        <updateDate>2015-04-07 15:28:49</updateDate>
+      </style>
+    </item>
+    <item>
+      <id>5lW8HD</id>
+      <name>Bourbon Barrel Aged Maillard&amp;apos;s Odyssey</name>
+      <nameDisplay>Bourbon Barrel Aged Maillard&amp;apos;s Odyssey</nameDisplay>
+      <styleId>28</styleId>
+      <isOrganic>N</isOrganic>
+      <isRetired>N</isRetired>
+      <labels>
+        <icon>https://brewerydb-images.s3.amazonaws.com/beer/5lW8HD/upload_1PmHVZ-icon.png</icon>
+        <medium>https://brewerydb-images.s3.amazonaws.com/beer/5lW8HD/upload_1PmHVZ-medium.png</medium>
+        <large>https://brewerydb-images.s3.amazonaws.com/beer/5lW8HD/upload_1PmHVZ-large.png</large>
+        <contentAwareIcon>https://brewerydb-images.s3.amazonaws.com/beer/5lW8HD/upload_1PmHVZ-contentAwareIcon.png</contentAwareIcon>
+        <contentAwareMedium>https://brewerydb-images.s3.amazonaws.com/beer/5lW8HD/upload_1PmHVZ-contentAwareMedium.png</contentAwareMedium>
+        <contentAwareLarge>https://brewerydb-images.s3.amazonaws.com/beer/5lW8HD/upload_1PmHVZ-contentAwareLarge.png</contentAwareLarge>
+      </labels>
+      <status>verified</status>
+      <statusDisplay>Verified</statusDisplay>
+      <createDate>2015-09-01 15:13:18</createDate>
+      <updateDate>2018-11-02 02:15:14</updateDate>
+      <style>
+        <id>28</id>
+        <categoryId>3</categoryId>
+        <category>
+          <id>3</id>
+          <name>North American Origin Ales</name>
+          <createDate>2012-03-21 20:06:45</createDate>
+        </category>
+        <name>Dark American-Belgo-Style Ale</name>
+        <shortName>American/Belgian Dark</shortName>
+        <description>These beers must portray the unique characters imparted by yeasts typically used in fruity and big Belgian-Style ales - These beers are not traditional Belgian styles which are already defined. They are unique beers unto themselves. Notes of banana, berry, apple, sometimes coriander spice-like and/or smoky-phenolic characters should be portrayed with balance of hops and malt character when fermented with such yeast. Hop aroma, flavor and bitterness not usually found in the base style, can be medium to very high and must show the characters of American hop varieties. Dark color falls in the deep amber/brown to black range. Roasted malts or barley may have a range of character from subtle to robust, and should be reflected in the overall character and balance of the beer. Esters should be at medium to high levels. Diacetyl should not be evident. Chill haze may be evident. Sulfurlike yeast character should be absent. No Brettanomyces character should be present. An ale which exhibits Brettanomyces character would be classified as &amp;quot;American-style Brett Ale.&amp;quot;A statement by the brewer that could include information such as style being elaborated upon, and other information about the entry with regard to flavor, aroma or appearance, is essential for fair assessment in competitions. Beers with Brettanomyces may be subcategorized under this category</description>
+        <srmMin>16</srmMin>
+        <srmMax>16</srmMax>
+        <createDate>2012-03-21 20:06:45</createDate>
+        <updateDate>2015-04-07 15:26:14</updateDate>
+      </style>
+    </item>
+    <item>
+      <id>t28a6A</id>
+      <name>Brandy Barrel-Aged Ten Fidy</name>
+      <nameDisplay>Brandy Barrel-Aged Ten Fidy</nameDisplay>
+      <description>This is a collaboration between Appalachian Vintner and Oskar Blues Brevard. We brought them a fresh NC apple brandy barrel and they willingly filled with fresh Ten Fidy&#8230;Ten months ago! The resulting beer is absolutely tantalizing, world-class stuff.</description>
+      <abv>10.5</abv>
+      <ibu>65</ibu>
+      <styleId>43</styleId>
+      <isOrganic>N</isOrganic>
+      <isRetired>N</isRetired>
+      <status>verified</status>
+      <statusDisplay>Verified</statusDisplay>
+      <createDate>2016-12-24 19:53:23</createDate>
+      <updateDate>2018-11-02 02:15:14</updateDate>
+      <style>
+        <id>43</id>
+        <categoryId>3</categoryId>
+        <category>
+          <id>3</id>
+          <name>North American Origin Ales</name>
+          <createDate>2012-03-21 20:06:45</createDate>
+        </category>
+        <name>American-Style Imperial Stout</name>
+        <shortName>American Imperial Stout</shortName>
+        <description>Black in color, American-style imperial stouts typically have a high alcohol content. Generally characterized as very robust. The extremely rich malty flavor and aroma are balanced with assertive hopping and fruity-ester characteristics. Bitterness should be moderately high to very high and balanced with full sweet malt character. Roasted malt astringency and bitterness can be moderately perceived but should not overwhelm the overall character. Hop aroma is usually moderately-high to overwhelmingly hop-floral, -citrus or -herbal. Diacetyl (butterscotch) levels should be absent.</description>
+        <ibuMin>50</ibuMin>
+        <ibuMax>80</ibuMax>
+        <abvMin>7</abvMin>
+        <abvMax>12</abvMax>
+        <srmMin>40</srmMin>
+        <srmMax>40</srmMax>
+        <ogMin>1.08</ogMin>
+        <fgMin>1.02</fgMin>
+        <fgMax>1.03</fgMax>
+        <createDate>2012-03-21 20:06:46</createDate>
+        <updateDate>2015-04-07 15:28:49</updateDate>
+      </style>
+    </item>
+    <item>
+      <id>PRRZBx</id>
+      <name>Brass &amp; Blues</name>
+      <nameDisplay>Brass &amp; Blues</nameDisplay>
+      <description>Collaboration with The Brass Tap.</description>
+      <abv>6.4</abv>
+      <styleId>72</styleId>
+      <isOrganic>N</isOrganic>
+      <isRetired>N</isRetired>
+      <status>verified</status>
+      <statusDisplay>Verified</statusDisplay>
+      <createDate>2017-03-27 13:20:29</createDate>
+      <updateDate>2018-11-02 02:15:14</updateDate>
+      <style>
+        <id>72</id>
+        <categoryId>5</categoryId>
+        <category>
+          <id>5</id>
+          <name>Belgian And French Origin Ales</name>
+          <createDate>2012-03-21 20:06:46</createDate>
+        </category>
+        <name>French &amp; Belgian-Style Saison</name>
+        <shortName>Saison</shortName>
+        <description>Beers in this category are golden to deep amber in color. There may be quite a variety of characters within this style. Generally: They are light to medium in body. Malt aroma is low to medium-low. Esters are medium to high in  aroma, while, complex alcohols, herbs, spices, low Brettanomyces character and even clove and smoke-like phenolics may or may not be evident in the overall balanced beer. Hop aroma and flavor may be at low to medium levels. Malt flavor is low but provides foundation for the overall balance. Hop bitterness is moderate to moderately assertive. Herb and/or spice flavors, including black pepper-like notes, may or may not be evident. Fruitiness from fermentation is generally in character. A balanced small amount of sour or acidic flavors is acceptable when in balance with other components. Earthy, cellar-like, musty aromas are okay. Diacetyl should not be perceived. Chill or slight yeast haze is okay. Often bottle conditioned with some yeast character and high carbonation. French &amp; Belgian-Style Saison may have Brettanomyces characters that are slightly acidity, fruity, horsey, goaty and/or leather-like.</description>
+        <ibuMin>20</ibuMin>
+        <ibuMax>40</ibuMax>
+        <abvMin>4.5</abvMin>
+        <abvMax>8.5</abvMax>
+        <srmMin>4</srmMin>
+        <srmMax>14</srmMax>
+        <ogMin>1.055</ogMin>
+        <fgMin>1.004</fgMin>
+        <fgMax>1.016</fgMax>
+        <createDate>2012-03-21 20:06:46</createDate>
+        <updateDate>2015-04-07 15:34:55</updateDate>
+      </style>
+    </item>
+    <item>
+      <id>hImGQV</id>
+      <name>Braupakt</name>
+      <nameDisplay>Braupakt</nameDisplay>
+      <description>This naturally cloudy amber Hefeweissbier has a firm, creamy head and reveals fragrances of peach, apricot and citrus on the nose. The initial impression on the palate is of a bouquet of aromas, including subtle touches of banana plus refreshing grapefruit from the American Chinook hops. The fruity peach and apricot notes from the Amarillo hops are balanced by the gentle sweetness of the caramel malt. The beer has a delicate tartness that melds into a harmonious mouthfeel on the finish.</description>
+      <abv>6</abv>
+      <ibu>21</ibu>
+      <srmId>4</srmId>
+      <styleId>48</styleId>
+      <isOrganic>N</isOrganic>
+      <isRetired>N</isRetired>
+      <status>verified</status>
+      <statusDisplay>Verified</statusDisplay>
+      <originalGravity>1.059</originalGravity>
+      <createDate>2018-04-14 16:19:06</createDate>
+      <updateDate>2018-11-02 02:15:14</updateDate>
+      <srm>
+        <id>4</id>
+        <name>4</name>
+        <hex>FFBF42</hex>
+      </srm>
+      <style>
+        <id>48</id>
+        <categoryId>4</categoryId>
+        <category>
+          <id>4</id>
+          <name>German Origin Ales</name>
+          <createDate>2012-03-21 20:06:46</createDate>
+        </category>
+        <name>South German-Style Hefeweizen / Hefeweissbier</name>
+        <shortName>Hefeweizen</shortName>
+        <description>The aroma and flavor of a Weissbier with yeast is decidedly fruity and phenolic. The phenolic characteristics are often described as clove-, nutmeg-like, mildly smoke-like or even vanilla-like. Banana-like esters should be present at low to medium-high levels. These beers are made with at least 50 percent malted wheat, and hop rates are quite low. Hop flavor and aroma are absent or present at very low levels. Weissbier is well attenuated and very highly carbonated and a medium to full bodied beer. The color is very pale to pale amber. Because yeast is present, the beer will have yeast flavor and a characteristically fuller mouthfeel and may be appropriately very cloudy. No diacetyl should be perceived.</description>
+        <ibuMin>10</ibuMin>
+        <ibuMax>15</ibuMax>
+        <abvMin>4.9</abvMin>
+        <abvMax>5.5</abvMax>
+        <srmMin>3</srmMin>
+        <srmMax>9</srmMax>
+        <ogMin>1.047</ogMin>
+        <fgMin>1.008</fgMin>
+        <fgMax>1.016</fgMax>
+        <createDate>2012-03-21 20:06:46</createDate>
+        <updateDate>2015-04-07 15:29:27</updateDate>
+      </style>
+    </item>
+    <item>
+      <id>KuiKeS</id>
+      <name>Breakfast At Chicos</name>
+      <nameDisplay>Breakfast At Chicos</nameDisplay>
+      <description>Breakfast at Chico&#8217;s in a Imperial Nitro Milk Stout with Almonds, brewed using lactose to boost the sweetness as well as ground almonds for a nutty flavor- glimpses of milk chocolate and coffee also emerge for a decidedly robust, creamy brew for when the sun&#8217;s rising or making way for evening antics. Other ingredients include two row pale, Munich, Honey, Brown and Oat malts with experimental and mosaic hops.</description>
+      <abv>7.5</abv>
+      <ibu>32</ibu>
+      <styleId>44</styleId>
+      <isOrganic>N</isOrganic>
+      <isRetired>N</isRetired>
+      <labels>
+        <icon>https://brewerydb-images.s3.amazonaws.com/beer/KuiKeS/upload_SJXeuo-icon.png</icon>
+        <medium>https://brewerydb-images.s3.amazonaws.com/beer/KuiKeS/upload_SJXeuo-medium.png</medium>
+        <large>https://brewerydb-images.s3.amazonaws.com/beer/KuiKeS/upload_SJXeuo-large.png</large>
+        <contentAwareIcon>https://brewerydb-images.s3.amazonaws.com/beer/KuiKeS/upload_SJXeuo-contentAwareIcon.png</contentAwareIcon>
+        <contentAwareMedium>https://brewerydb-images.s3.amazonaws.com/beer/KuiKeS/upload_SJXeuo-contentAwareMedium.png</contentAwareMedium>
+        <contentAwareLarge>https://brewerydb-images.s3.amazonaws.com/beer/KuiKeS/upload_SJXeuo-contentAwareLarge.png</contentAwareLarge>
+      </labels>
+      <status>verified</status>
+      <statusDisplay>Verified</statusDisplay>
+      <createDate>2014-10-03 22:09:08</createDate>
+      <updateDate>2018-11-02 02:15:14</updateDate>
+      <style>
+        <id>44</id>
+        <categoryId>3</categoryId>
+        <category>
+          <id>3</id>
+          <name>North American Origin Ales</name>
+          <createDate>2012-03-21 20:06:45</createDate>
+        </category>
+        <name>Specialty Stouts</name>
+        <shortName>Stout</shortName>
+        <description>See British Origin American-Style Imperial Porter Imperial porters are very dark brown to black in color. No roast barley or strong burnt/astringent black malt character should be perceived. Medium malt, caramel and cocoa-like sweetness should be in harmony with medium-low to medium hop bitterness. This is a full bodied beer. Ale-like fruity esters should be evident but not overpowering and compliment malt derived sweetness and hop character. Hop flavor and aroma may vary from being low to medium-high. Diacetyl (butterscotch) levels should be absent.</description>
+        <ibuMin>35</ibuMin>
+        <ibuMax>50</ibuMax>
+        <abvMin>7</abvMin>
+        <abvMax>12</abvMax>
+        <srmMin>40</srmMin>
+        <srmMax>40</srmMax>
+        <ogMin>1.08</ogMin>
+        <fgMin>1.02</fgMin>
+        <fgMax>1.03</fgMax>
+        <createDate>2012-03-21 20:06:46</createDate>
+        <updateDate>2015-04-07 15:28:58</updateDate>
+      </style>
+    </item>
+    <item>
+      <id>pZEIiV</id>
+      <name>Breck IPA</name>
+      <nameDisplay>Breck IPA</nameDisplay>
+      <abv>6.3</abv>
+      <ibu>66</ibu>
+      <availableId>1</availableId>
+      <styleId>30</styleId>
+      <isOrganic>N</isOrganic>
+      <isRetired>N</isRetired>
+      <labels>
+        <icon>https://brewerydb-images.s3.amazonaws.com/beer/pZEIiV/upload_je8Nlv-icon.png</icon>
+        <medium>https://brewerydb-images.s3.amazonaws.com/beer/pZEIiV/upload_je8Nlv-medium.png</medium>
+        <large>https://brewerydb-images.s3.amazonaws.com/beer/pZEIiV/upload_je8Nlv-large.png</large>
+        <contentAwareIcon>https://brewerydb-images.s3.amazonaws.com/beer/pZEIiV/upload_je8Nlv-contentAwareIcon.png</contentAwareIcon>
+        <contentAwareMedium>https://brewerydb-images.s3.amazonaws.com/beer/pZEIiV/upload_je8Nlv-contentAwareMedium.png</contentAwareMedium>
+        <contentAwareLarge>https://brewerydb-images.s3.amazonaws.com/beer/pZEIiV/upload_je8Nlv-contentAwareLarge.png</contentAwareLarge>
+      </labels>
+      <status>verified</status>
+      <statusDisplay>Verified</statusDisplay>
+      <createDate>2015-04-27 22:51:57</createDate>
+      <updateDate>2018-11-02 02:15:14</updateDate>
+      <available>
+        <id>1</id>
+        <name>Year Round</name>
+        <description>Available year round as a staple beer.</description>
+      </available>
+      <style>
+        <id>30</id>
+        <categoryId>3</categoryId>
+        <category>
+          <id>3</id>
+          <name>North American Origin Ales</name>
+          <createDate>2012-03-21 20:06:45</createDate>
+        </category>
+        <name>American-Style India Pale Ale</name>
+        <shortName>American IPA</shortName>
+        <description>American-style India pale ales are perceived to have medium-high to intense hop bitterness, flavor and aroma with medium-high alcohol content. The style is further characterized by floral, fruity, citrus-like, piney, resinous, or sulfur-like American-variety hop character. Note that one or more of these American-variety hop characters is the perceived end, but the hop characters may be a result of the skillful use of hops of other national origins. The use of water with high mineral content results in a crisp, dry beer. This pale gold to deep copper-colored ale has a full, flowery hop aroma and may have a strong hop flavor (in addition to the perception of hop bitterness). India pale ales possess medium maltiness which contributes to a medium body. Fruity-ester flavors and aromas are moderate to very strong. Diacetyl can be absent or may be perceived at very low levels. Chill and/or hop haze is allowable at cold temperatures. (English and citrus-like American hops are considered enough of a distinction justifying separate American-style IPA and English-style IPA categories or subcategories. Hops of other origins may be used for bitterness or approximating traditional American or English character. See English-style India Pale Ale</description>
+        <ibuMin>50</ibuMin>
+        <ibuMax>70</ibuMax>
+        <abvMin>6.3</abvMin>
+        <abvMax>7.5</abvMax>
+        <srmMin>6</srmMin>
+        <srmMax>14</srmMax>
+        <ogMin>1.06</ogMin>
+        <fgMin>1.012</fgMin>
+        <fgMax>1.018</fgMax>
+        <createDate>2012-03-21 20:06:45</createDate>
+        <updateDate>2015-04-07 15:26:37</updateDate>
+      </style>
+    </item>
+    <item>
+      <id>IkgmFq</id>
+      <name>Breckenridge Christmas Ale</name>
+      <nameDisplay>Breckenridge Christmas Ale</nameDisplay>
+      <description>The chill of a Colorado high-country winter calls for a beer with extra flavor and warming characteristics. Here it is. Breck Brew&amp;apos;s Christmas Ale. At over 7% alcohol, with a sturdy texture and rich flavors of caramel and chocolate, our holiday seasonal is the fermented equivalent of a good fire.&#13;
+&#13;
+The ultimate winter warmer.&#13;
+&#13;
+Yeast:Top Fermenting Ale Yeast&#13;
+Malts:Two Row Pale, Caramel, Chocolate, Black&#13;
+Hops:Chinook, Mt. Hood</description>
+      <abv>7.4</abv>
+      <ibu>22</ibu>
+      <glasswareId>5</glasswareId>
+      <availableId>4</availableId>
+      <styleId>29</styleId>
+      <isOrganic>N</isOrganic>
+      <isRetired>N</isRetired>
+      <labels>
+        <icon>https://brewerydb-images.s3.amazonaws.com/beer/IkgmFq/upload_ad4qSZ-icon.png</icon>
+        <medium>https://brewerydb-images.s3.amazonaws.com/beer/IkgmFq/upload_ad4qSZ-medium.png</medium>
+        <large>https://brewerydb-images.s3.amazonaws.com/beer/IkgmFq/upload_ad4qSZ-large.png</large>
+        <contentAwareIcon>https://brewerydb-images.s3.amazonaws.com/beer/IkgmFq/upload_ad4qSZ-contentAwareIcon.png</contentAwareIcon>
+        <contentAwareMedium>https://brewerydb-images.s3.amazonaws.com/beer/IkgmFq/upload_ad4qSZ-contentAwareMedium.png</contentAwareMedium>
+        <contentAwareLarge>https://brewerydb-images.s3.amazonaws.com/beer/IkgmFq/upload_ad4qSZ-contentAwareLarge.png</contentAwareLarge>
+      </labels>
+      <status>verified</status>
+      <statusDisplay>Verified</statusDisplay>
+      <createDate>2012-01-03 02:42:59</createDate>
+      <updateDate>2018-11-02 02:15:14</updateDate>
+      <glass>
+        <id>5</id>
+        <name>Pint</name>
+        <createDate>2012-01-03 02:41:33</createDate>
+      </glass>
+      <available>
+        <id>4</id>
+        <name>Seasonal</name>
+        <description>Available at the same time of year, every year.</description>
+      </available>
+      <style>
+        <id>29</id>
+        <categoryId>3</categoryId>
+        <category>
+          <id>3</id>
+          <name>North American Origin Ales</name>
+          <createDate>2012-03-21 20:06:45</createDate>
+        </category>
+        <name>American-Style Strong Pale Ale</name>
+        <shortName>American Strong Pale</shortName>
+        <description>American strong pale ales range from deep golden to copper in color. The style is characterized by floral and citrus-like American-variety hops used to produce high hop bitterness, flavor, and aroma. Note that floral, fruity, citrus-like, piney, resinous, or sulfur-like American-variety hop character is the perceived end, but may be a result of the skillful use of hops of other national origins. American strong pale ales have medium body and low to medium maltiness. Low caramel character is allowable. Fruityester flavor and aroma should be moderate to strong. Diacetyl should be absent or present at very low levels. Chill haze is allowable at cold temperatures.</description>
+        <ibuMin>40</ibuMin>
+        <ibuMax>50</ibuMax>
+        <abvMin>5.5</abvMin>
+        <abvMax>6.3</abvMax>
+        <srmMin>6</srmMin>
+        <srmMax>14</srmMax>
+        <ogMin>1.05</ogMin>
+        <fgMin>1.008</fgMin>
+        <fgMax>1.016</fgMax>
+        <createDate>2012-03-21 20:06:45</createDate>
+        <updateDate>2015-04-07 15:26:32</updateDate>
+      </style>
+    </item>
+    <item>
+      <id>RcyKuX</id>
+      <name>Bretthead</name>
+      <nameDisplay>Bretthead</nameDisplay>
+      <description>We brewed our popular Conehead IPA with a wild twist. Single-hopped with Citra and fermented with Brettanomyces wild yeast, this beer stands at the crossroads of hoppy and funky.</description>
+      <abv>6.1</abv>
+      <ibu>49</ibu>
+      <styleId>30</styleId>
+      <isOrganic>N</isOrganic>
+      <isRetired>N</isRetired>
+      <status>verified</status>
+      <statusDisplay>Verified</statusDisplay>
+      <originalGravity>1.055</originalGravity>
+      <createDate>2015-04-06 18:14:18</createDate>
+      <updateDate>2018-11-02 02:15:14</updateDate>
+      <style>
+        <id>30</id>
+        <categoryId>3</categoryId>
+        <category>
+          <id>3</id>
+          <name>North American Origin Ales</name>
+          <createDate>2012-03-21 20:06:45</createDate>
+        </category>
+        <name>American-Style India Pale Ale</name>
+        <shortName>American IPA</shortName>
+        <description>American-style India pale ales are perceived to have medium-high to intense hop bitterness, flavor and aroma with medium-high alcohol content. The style is further characterized by floral, fruity, citrus-like, piney, resinous, or sulfur-like American-variety hop character. Note that one or more of these American-variety hop characters is the perceived end, but the hop characters may be a result of the skillful use of hops of other national origins. The use of water with high mineral content results in a crisp, dry beer. This pale gold to deep copper-colored ale has a full, flowery hop aroma and may have a strong hop flavor (in addition to the perception of hop bitterness). India pale ales possess medium maltiness which contributes to a medium body. Fruity-ester flavors and aromas are moderate to very strong. Diacetyl can be absent or may be perceived at very low levels. Chill and/or hop haze is allowable at cold temperatures. (English and citrus-like American hops are considered enough of a distinction justifying separate American-style IPA and English-style IPA categories or subcategories. Hops of other origins may be used for bitterness or approximating traditional American or English character. See English-style India Pale Ale</description>
+        <ibuMin>50</ibuMin>
+        <ibuMax>70</ibuMax>
+        <abvMin>6.3</abvMin>
+        <abvMax>7.5</abvMax>
+        <srmMin>6</srmMin>
+        <srmMax>14</srmMax>
+        <ogMin>1.06</ogMin>
+        <fgMin>1.012</fgMin>
+        <fgMax>1.018</fgMax>
+        <createDate>2012-03-21 20:06:45</createDate>
+        <updateDate>2015-04-07 15:26:37</updateDate>
+      </style>
+    </item>
+    <item>
+      <id>bMv56j</id>
+      <name>Brewery Lane Series: Biére De Garde</name>
+      <nameDisplay>Brewery Lane Series: Biére De Garde</nameDisplay>
+      <description>French farmhouse ale, caramel, toffee and bread-like malt aromas, complex fruity and dry.</description>
+      <abv>9</abv>
+      <styleId>71</styleId>
+      <isOrganic>N</isOrganic>
+      <isRetired>N</isRetired>
+      <labels>
+        <icon>https://brewerydb-images.s3.amazonaws.com/beer/bMv56j/upload_5TbFr5-icon.png</icon>
+        <medium>https://brewerydb-images.s3.amazonaws.com/beer/bMv56j/upload_5TbFr5-medium.png</medium>
+        <large>https://brewerydb-images.s3.amazonaws.com/beer/bMv56j/upload_5TbFr5-large.png</large>
+        <contentAwareIcon>https://brewerydb-images.s3.amazonaws.com/beer/bMv56j/upload_5TbFr5-contentAwareIcon.png</contentAwareIcon>
+        <contentAwareMedium>https://brewerydb-images.s3.amazonaws.com/beer/bMv56j/upload_5TbFr5-contentAwareMedium.png</contentAwareMedium>
+        <contentAwareLarge>https://brewerydb-images.s3.amazonaws.com/beer/bMv56j/upload_5TbFr5-contentAwareLarge.png</contentAwareLarge>
+      </labels>
+      <status>verified</status>
+      <statusDisplay>Verified</statusDisplay>
+      <createDate>2018-10-11 13:02:16</createDate>
+      <updateDate>2018-11-02 02:15:14</updateDate>
+      <style>
+        <id>71</id>
+        <categoryId>5</categoryId>
+        <category>
+          <id>5</id>
+          <name>Belgian And French Origin Ales</name>
+          <createDate>2012-03-21 20:06:46</createDate>
+        </category>
+        <name>French-Style Bière de Garde</name>
+        <shortName>Bière de Garde</shortName>
+        <description>Beers in this category are golden to deep copper or light brown in color. They are light to medium in body. This style of beer is characterized by a toasted malt aroma, slight malt sweetness in flavor, and low to medium hop bitterness. Noble-type hop aromas and flavors should be low to medium. Fruity esters can be light to medium in intensity. Flavor of alcohol is evident. Earthy, cellarlike, musty aromas are okay. Diacetyl should not be perceived but chill haze is okay. Often bottle conditioned with some yeast character. French-Style Biére de Garde may have Brettanomyces characters that are slightly acidity, fruity, horsey, goaty and/or leather-like.</description>
+        <ibuMin>20</ibuMin>
+        <ibuMax>30</ibuMax>
+        <abvMin>4.5</abvMin>
+        <abvMax>8</abvMax>
+        <srmMin>8</srmMin>
+        <srmMax>16</srmMax>
+        <ogMin>1.06</ogMin>
+        <fgMin>1.012</fgMin>
+        <fgMax>1.024</fgMax>
+        <createDate>2012-03-21 20:06:46</createDate>
+        <updateDate>2015-04-07 15:34:08</updateDate>
+      </style>
+    </item>
+    <item>
+      <id>9slIEB</id>
+      <name>Broken Vow</name>
+      <nameDisplay>Broken Vow</nameDisplay>
+      <styleId>158</styleId>
+      <isOrganic>N</isOrganic>
+      <isRetired>N</isRetired>
+      <status>verified</status>
+      <statusDisplay>Verified</statusDisplay>
+      <createDate>2015-12-15 23:50:47</createDate>
+      <updateDate>2018-11-02 02:15:14</updateDate>
+      <style>
+        <id>158</id>
+        <categoryId>3</categoryId>
+        <category>
+          <id>3</id>
+          <name>North American Origin Ales</name>
+          <createDate>2012-03-21 20:06:45</createDate>
+        </category>
+        <name>American-Style Imperial Porter</name>
+        <shortName>American Imperial Porter</shortName>
+        <description>American-style imperial porters are black in color. No roast barley or strong burnt/astringent black malt character should be perceived. Medium malt, caramel and cocoa-like sweetness. Hop bitterness is perceived at a medium-low to medium level. Hop flavor and aroma may vary from being low to medium-high. This is a full bodied beer. Ale-like fruity esters should be evident but not overpowering and compliment hop character and malt derived sweetness. Diacetyl (butterscotch) levels should be absent.</description>
+        <ibuMin>35</ibuMin>
+        <ibuMax>50</ibuMax>
+        <abvMin>5.5</abvMin>
+        <abvMax>9.5</abvMax>
+        <srmMin>40</srmMin>
+        <srmMax>40</srmMax>
+        <ogMin>1.08</ogMin>
+        <ogMax>1.1</ogMax>
+        <fgMin>1.02</fgMin>
+        <fgMax>1.03</fgMax>
+        <createDate>2013-08-10 12:42:51</createDate>
+        <updateDate>2015-04-07 15:49:32</updateDate>
+      </style>
+    </item>
+    <item>
+      <id>CRw8Gu</id>
+      <name>Brown Eyed Buckeye</name>
+      <nameDisplay>Brown Eyed Buckeye</nameDisplay>
+      <abv>8.6</abv>
+      <glasswareId>5</glasswareId>
+      <styleId>30</styleId>
+      <isOrganic>N</isOrganic>
+      <isRetired>N</isRetired>
+      <labels>
+        <icon>https://brewerydb-images.s3.amazonaws.com/beer/CRw8Gu/upload_nCy0vL-icon.png</icon>
+        <medium>https://brewerydb-images.s3.amazonaws.com/beer/CRw8Gu/upload_nCy0vL-medium.png</medium>
+        <large>https://brewerydb-images.s3.amazonaws.com/beer/CRw8Gu/upload_nCy0vL-large.png</large>
+        <contentAwareIcon>https://brewerydb-images.s3.amazonaws.com/beer/CRw8Gu/upload_nCy0vL-contentAwareIcon.png</contentAwareIcon>
+        <contentAwareMedium>https://brewerydb-images.s3.amazonaws.com/beer/CRw8Gu/upload_nCy0vL-contentAwareMedium.png</contentAwareMedium>
+        <contentAwareLarge>https://brewerydb-images.s3.amazonaws.com/beer/CRw8Gu/upload_nCy0vL-contentAwareLarge.png</contentAwareLarge>
+      </labels>
+      <status>verified</status>
+      <statusDisplay>Verified</statusDisplay>
+      <createDate>2012-01-03 02:42:55</createDate>
+      <updateDate>2018-11-02 02:15:14</updateDate>
+      <glass>
+        <id>5</id>
+        <name>Pint</name>
+        <createDate>2012-01-03 02:41:33</createDate>
+      </glass>
+      <style>
+        <id>30</id>
+        <categoryId>3</categoryId>
+        <category>
+          <id>3</id>
+          <name>North American Origin Ales</name>
+          <createDate>2012-03-21 20:06:45</createDate>
+        </category>
+        <name>American-Style India Pale Ale</name>
+        <shortName>American IPA</shortName>
+        <description>American-style India pale ales are perceived to have medium-high to intense hop bitterness, flavor and aroma with medium-high alcohol content. The style is further characterized by floral, fruity, citrus-like, piney, resinous, or sulfur-like American-variety hop character. Note that one or more of these American-variety hop characters is the perceived end, but the hop characters may be a result of the skillful use of hops of other national origins. The use of water with high mineral content results in a crisp, dry beer. This pale gold to deep copper-colored ale has a full, flowery hop aroma and may have a strong hop flavor (in addition to the perception of hop bitterness). India pale ales possess medium maltiness which contributes to a medium body. Fruity-ester flavors and aromas are moderate to very strong. Diacetyl can be absent or may be perceived at very low levels. Chill and/or hop haze is allowable at cold temperatures. (English and citrus-like American hops are considered enough of a distinction justifying separate American-style IPA and English-style IPA categories or subcategories. Hops of other origins may be used for bitterness or approximating traditional American or English character. See English-style India Pale Ale</description>
+        <ibuMin>50</ibuMin>
+        <ibuMax>70</ibuMax>
+        <abvMin>6.3</abvMin>
+        <abvMax>7.5</abvMax>
+        <srmMin>6</srmMin>
+        <srmMax>14</srmMax>
+        <ogMin>1.06</ogMin>
+        <fgMin>1.012</fgMin>
+        <fgMax>1.018</fgMax>
+        <createDate>2012-03-21 20:06:45</createDate>
+        <updateDate>2015-04-07 15:26:37</updateDate>
+      </style>
+    </item>
+    <item>
+      <id>TpiDMC</id>
+      <name>Brown Shugga&amp;apos;</name>
+      <nameDisplay>Brown Shugga&amp;apos;</nameDisplay>
+      <description>How Come you Taste So Good?? Boatloads of Pure Brown Sugar in Each Batch, That&#8217;s How! The Rich, Roasty and Mysteriously Drinkable Ale might best be described as... Irresponsible. It Leaves a Lot of Stories in it&#8217;s Wake.</description>
+      <abv>9.9</abv>
+      <ibu>51.1</ibu>
+      <glasswareId>5</glasswareId>
+      <srmId>25</srmId>
+      <availableId>4</availableId>
+      <styleId>29</styleId>
+      <isOrganic>N</isOrganic>
+      <isRetired>N</isRetired>
+      <labels>
+        <icon>https://brewerydb-images.s3.amazonaws.com/beer/TpiDMC/upload_bjZMsj-icon.png</icon>
+        <medium>https://brewerydb-images.s3.amazonaws.com/beer/TpiDMC/upload_bjZMsj-medium.png</medium>
+        <large>https://brewerydb-images.s3.amazonaws.com/beer/TpiDMC/upload_bjZMsj-large.png</large>
+        <contentAwareIcon>https://brewerydb-images.s3.amazonaws.com/beer/TpiDMC/upload_bjZMsj-contentAwareIcon.png</contentAwareIcon>
+        <contentAwareMedium>https://brewerydb-images.s3.amazonaws.com/beer/TpiDMC/upload_bjZMsj-contentAwareMedium.png</contentAwareMedium>
+        <contentAwareLarge>https://brewerydb-images.s3.amazonaws.com/beer/TpiDMC/upload_bjZMsj-contentAwareLarge.png</contentAwareLarge>
+      </labels>
+      <status>verified</status>
+      <statusDisplay>Verified</statusDisplay>
+      <servingTemperature>cool</servingTemperature>
+      <servingTemperatureDisplay>Cool - (8-12C/45-54F)</servingTemperatureDisplay>
+      <originalGravity>1.1</originalGravity>
+      <createDate>2012-01-03 02:42:55</createDate>
+      <updateDate>2018-11-02 02:15:14</updateDate>
+      <glass>
+        <id>5</id>
+        <name>Pint</name>
+        <createDate>2012-01-03 02:41:33</createDate>
+      </glass>
+      <srm>
+        <id>25</id>
+        <name>25</name>
+        <hex>7B1A00</hex>
+      </srm>
+      <available>
+        <id>4</id>
+        <name>Seasonal</name>
+        <description>Available at the same time of year, every year.</description>
+      </available>
+      <style>
+        <id>29</id>
+        <categoryId>3</categoryId>
+        <category>
+          <id>3</id>
+          <name>North American Origin Ales</name>
+          <createDate>2012-03-21 20:06:45</createDate>
+        </category>
+        <name>American-Style Strong Pale Ale</name>
+        <shortName>American Strong Pale</shortName>
+        <description>American strong pale ales range from deep golden to copper in color. The style is characterized by floral and citrus-like American-variety hops used to produce high hop bitterness, flavor, and aroma. Note that floral, fruity, citrus-like, piney, resinous, or sulfur-like American-variety hop character is the perceived end, but may be a result of the skillful use of hops of other national origins. American strong pale ales have medium body and low to medium maltiness. Low caramel character is allowable. Fruityester flavor and aroma should be moderate to strong. Diacetyl should be absent or present at very low levels. Chill haze is allowable at cold temperatures.</description>
+        <ibuMin>40</ibuMin>
+        <ibuMax>50</ibuMax>
+        <abvMin>5.5</abvMin>
+        <abvMax>6.3</abvMax>
+        <srmMin>6</srmMin>
+        <srmMax>14</srmMax>
+        <ogMin>1.05</ogMin>
+        <fgMin>1.008</fgMin>
+        <fgMax>1.016</fgMax>
+        <createDate>2012-03-21 20:06:45</createDate>
+        <updateDate>2015-04-07 15:26:32</updateDate>
+      </style>
+    </item>
+    <item>
+      <id>d2nhC0</id>
+      <name>Brown&amp;apos;s Point ESB</name>
+      <nameDisplay>Brown&amp;apos;s Point ESB</nameDisplay>
+      <description>This E.S.B. is definately the house favorite. Exclusively hopped with Fuggles, this full bodied amber ale finishes smooth and clean. 5.6% ABV</description>
+      <abv>5.6</abv>
+      <styleId>5</styleId>
+      <isOrganic>N</isOrganic>
+      <isRetired>N</isRetired>
+      <status>verified</status>
+      <statusDisplay>Verified</statusDisplay>
+      <createDate>2012-01-03 02:42:55</createDate>
+      <updateDate>2018-11-02 02:15:14</updateDate>
+      <style>
+        <id>5</id>
+        <categoryId>1</categoryId>
+        <category>
+          <id>1</id>
+          <name>British Origin Ales</name>
+          <createDate>2012-03-21 20:06:45</createDate>
+        </category>
+        <name>Extra Special Bitter</name>
+        <shortName>ESB</shortName>
+        <description>Extra special bitter possesses medium to strong hop aroma, flavor, and bitterness. The residual malt and defining sweetness of this richly flavored, full-bodied bitter is more pronounced than in other styles of bitter. It is light amber to copper colored with medium to medium-high bitterness. Mild carbonation traditionally characterizes draft-cask versions, but in bottled versions, a slight increase in carbon dioxide content is acceptable. Fruity-ester character is acceptable in aroma and flavor. Diacetyl (butterscotch character) is acceptable and characteristic when at very low levels. The absence of diacetyl is also acceptable. Chill haze is allowable at cold temperatures. English or American hops may be used. (English and American hop character may be specified in subcategories.)</description>
+        <ibuMin>30</ibuMin>
+        <ibuMax>45</ibuMax>
+        <abvMin>4.8</abvMin>
+        <abvMax>5.8</abvMax>
+        <srmMin>8</srmMin>
+        <srmMax>14</srmMax>
+        <ogMin>1.046</ogMin>
+        <fgMin>1.01</fgMin>
+        <fgMax>1.016</fgMax>
+        <createDate>2012-03-21 20:06:45</createDate>
+        <updateDate>2015-04-07 15:19:20</updateDate>
+      </style>
+    </item>
+    <item>
+      <id>GwYXdk</id>
+      <name>Brux</name>
+      <nameDisplay>Brux</nameDisplay>
+      <description>What began as mutual admiration between Sierra Nevada&#8217;s Grossman Family and Russian River&#8217;s Cilurzos has grown and progressed into genuine friendship. Brux began as an idea and has grown into something altogether different: &#13;
+&#13;
+The liquid manifestation of change over time. &#13;
+&#13;
+Refermented in the bottle with Brettanomyces bruxellensis, Brux will change and develop over time. Copper-colored, dry and complex, with slightly tart notes of green grass, pear, spice and lemon - this ale will progress in the bottle for many years.</description>
+      <abv>8.3</abv>
+      <availableId>2</availableId>
+      <styleId>125</styleId>
+      <isOrganic>N</isOrganic>
+      <isRetired>N</isRetired>
+      <labels>
+        <icon>https://brewerydb-images.s3.amazonaws.com/beer/GwYXdk/upload_qAxnUP-icon.png</icon>
+        <medium>https://brewerydb-images.s3.amazonaws.com/beer/GwYXdk/upload_qAxnUP-medium.png</medium>
+        <large>https://brewerydb-images.s3.amazonaws.com/beer/GwYXdk/upload_qAxnUP-large.png</large>
+        <contentAwareIcon>https://brewerydb-images.s3.amazonaws.com/beer/GwYXdk/upload_qAxnUP-contentAwareIcon.png</contentAwareIcon>
+        <contentAwareMedium>https://brewerydb-images.s3.amazonaws.com/beer/GwYXdk/upload_qAxnUP-contentAwareMedium.png</contentAwareMedium>
+        <contentAwareLarge>https://brewerydb-images.s3.amazonaws.com/beer/GwYXdk/upload_qAxnUP-contentAwareLarge.png</contentAwareLarge>
+      </labels>
+      <status>verified</status>
+      <statusDisplay>Verified</statusDisplay>
+      <createDate>2012-07-15 13:13:56</createDate>
+      <updateDate>2018-11-02 02:15:14</updateDate>
+      <available>
+        <id>2</id>
+        <name>Limited</name>
+        <description>Limited availability.</description>
+      </available>
+      <style>
+        <id>125</id>
+        <categoryId>11</categoryId>
+        <category>
+          <id>11</id>
+          <name>Hybrid/mixed Beer</name>
+          <createDate>2012-03-21 20:06:46</createDate>
+        </category>
+        <name>Specialty Beer</name>
+        <shortName>Specialty</shortName>
+        <description>These beers are brewed using unusual fermentable sugars, grains and starches that contribute to alcohol content other than, or in addition to, malted barley. Nuts generally have some degree of fermentables, thus beers brewed with nuts would appropriately be entered in this category. The distinctive characters of these special ingredients should be evident either in the aroma, flavor or overall balance of the beer, but not necessarily in overpowering quantities. For example, maple syrup or potatoes would be considered unusual. Rice, corn, or wheat are not considered unusual. Special ingredients must be listed when competing. A statement by the brewer explaining the special nature of the beer, ingredient(s) and achieved character is essential in order for fair assessment in competitions. If this beer is a classic style with some specialty ingredient(s), the brewer should also specify the classic style. Guidelines for competing: Spiced beers using unusual fermentables should be entered in the experimental category. Fruit beers using unusual fermentables should be entered in the fruit beer category.</description>
+        <ibuMax>100</ibuMax>
+        <abvMin>2.5</abvMin>
+        <abvMax>25</abvMax>
+        <srmMin>1</srmMin>
+        <srmMax>100</srmMax>
+        <ogMin>1.03</ogMin>
+        <fgMin>1.006</fgMin>
+        <fgMax>1.03</fgMax>
+        <createDate>2012-03-21 20:06:46</createDate>
+        <updateDate>2015-04-07 15:44:53</updateDate>
+      </style>
+    </item>
+    <item>
+      <id>P3fflp</id>
+      <name>Bubbly Wit</name>
+      <nameDisplay>Bubbly Wit</nameDisplay>
+      <description>A swanky interpretation of a double strength wheat beer, fermented solely by champagne yeast. Notes of tart citrus and white grape soothe the pallet in this sparkling ale.</description>
+      <abv>7.1</abv>
+      <styleId>61</styleId>
+      <isOrganic>N</isOrganic>
+      <isRetired>N</isRetired>
+      <labels>
+        <icon>https://brewerydb-images.s3.amazonaws.com/beer/P3fflp/upload_7Xhna9-icon.png</icon>
+        <medium>https://brewerydb-images.s3.amazonaws.com/beer/P3fflp/upload_7Xhna9-medium.png</medium>
+        <large>https://brewerydb-images.s3.amazonaws.com/beer/P3fflp/upload_7Xhna9-large.png</large>
+        <contentAwareIcon>https://brewerydb-images.s3.amazonaws.com/beer/P3fflp/upload_7Xhna9-contentAwareIcon.png</contentAwareIcon>
+        <contentAwareMedium>https://brewerydb-images.s3.amazonaws.com/beer/P3fflp/upload_7Xhna9-contentAwareMedium.png</contentAwareMedium>
+        <contentAwareLarge>https://brewerydb-images.s3.amazonaws.com/beer/P3fflp/upload_7Xhna9-contentAwareLarge.png</contentAwareLarge>
+      </labels>
+      <status>verified</status>
+      <statusDisplay>Verified</statusDisplay>
+      <createDate>2012-01-03 02:42:55</createDate>
+      <updateDate>2018-11-02 02:15:14</updateDate>
+      <style>
+        <id>61</id>
+        <categoryId>5</categoryId>
+        <category>
+          <id>5</id>
+          <name>Belgian And French Origin Ales</name>
+          <createDate>2012-03-21 20:06:46</createDate>
+        </category>
+        <name>Belgian-Style Blonde Ale</name>
+        <shortName>Belgian Blonde</shortName>
+        <description>Belgian-style blond ales are characterized by low yet evident hop bitterness, flavor, and sometimes aroma. Light to medium body and low malt aroma with a sweet, spiced and a low to medium fruity-ester character orchestrated in flavor and aroma. Sugar may be used to lighten perceived body. They are blonde to golden in color. Noble-type hops are commonly used. Low levels of phenolic spiciness from yeast byproducts may be perceived. Diacetyl should not be perceived. Acidic character should not be present. Chill haze is allowable at cold temperatures.</description>
+        <ibuMin>15</ibuMin>
+        <ibuMax>30</ibuMax>
+        <abvMin>6</abvMin>
+        <abvMax>7.8</abvMax>
+        <srmMin>4</srmMin>
+        <srmMax>7</srmMax>
+        <ogMin>1.054</ogMin>
+        <fgMin>1.008</fgMin>
+        <fgMax>1.014</fgMax>
+        <createDate>2012-03-21 20:06:46</createDate>
+        <updateDate>2015-04-07 15:32:01</updateDate>
+      </style>
+    </item>
+    <item>
+      <id>8MMa77</id>
+      <name>Bud Dry</name>
+      <nameDisplay>Bud Dry</nameDisplay>
+      <description>Introduced in 1989 Bud Dry is the first dry-brewed beer produced by an American brewer. It is brewed with select hops, grains and barley malt, which results in a lighter body and less-sweet taste. As with all Anheuser-Busch beers, it is cold-filtered for a smooth draft taste, but then goes through a second cold-filtered finishing process to provide its unique taste.</description>
+      <abv>5</abv>
+      <styleId>94</styleId>
+      <isOrganic>N</isOrganic>
+      <isRetired>N</isRetired>
+      <status>verified</status>
+      <statusDisplay>Verified</statusDisplay>
+      <createDate>2012-01-03 02:42:55</createDate>
+      <updateDate>2018-11-02 02:15:14</updateDate>
+      <style>
+        <id>94</id>
+        <categoryId>8</categoryId>
+        <category>
+          <id>8</id>
+          <name>North American Lager</name>
+          <createDate>2012-03-21 20:06:46</createDate>
+        </category>
+        <name>American-Style Light (Low Calorie) Lager</name>
+        <shortName>American Light Lager</shortName>
+        <description>These beers are extremely light colored, light in body, and high in carbonation. Calorie level should not exceed 125 per 12 ounce serving. Corn, rice, or other grain or sugar adjuncts are often used. Flavor is mild and hop bitterness and aroma is negligible to very low. Light fruity esters are acceptable. Chill haze and diacetyl should be absent.</description>
+        <ibuMin>5</ibuMin>
+        <ibuMax>10</ibuMax>
+        <abvMin>3.5</abvMin>
+        <abvMax>4.4</abvMax>
+        <srmMin>2</srmMin>
+        <srmMax>4</srmMax>
+        <ogMin>1.024</ogMin>
+        <fgMin>1.002</fgMin>
+        <fgMax>1.008</fgMax>
+        <createDate>2012-03-21 20:06:46</createDate>
+        <updateDate>2015-04-07 15:39:35</updateDate>
+      </style>
+    </item>
+    <item>
+      <id>W2dlxg</id>
+      <name>Bud Extra</name>
+      <nameDisplay>Bud Extra</nameDisplay>
+      <description>Originally known as B-to-the-E</description>
+      <abv>6.6</abv>
+      <styleId>124</styleId>
+      <isOrganic>N</isOrganic>
+      <isRetired>N</isRetired>
+      <status>verified</status>
+      <statusDisplay>Verified</statusDisplay>
+      <createDate>2012-01-03 02:42:55</createDate>
+      <updateDate>2018-11-02 02:15:14</updateDate>
+      <style>
+        <id>124</id>
+        <categoryId>11</categoryId>
+        <category>
+          <id>11</id>
+          <name>Hybrid/mixed Beer</name>
+          <createDate>2012-03-21 20:06:46</createDate>
+        </category>
+        <name>Herb and Spice Beer</name>
+        <shortName>Spice Beer</shortName>
+        <description>Herb beers use herbs or spices (derived from roots, seeds, fruits, vegetable, flowers, etc.) other than or in addition to hops to create a distinct (ranging from subtle to intense) character, though individual characters of herbs and/or spices used may not always be identifiable. Under hopping often, but not always, allows the spice or herb to contribute to the flavor profile. Positive evaluations are significantly based on perceived balance of flavors. Note: Chili-flavored beers that emphasize heat rather than chili flavor should be entered as a &amp;quot;spiced&amp;quot; beer.  A statement by the brewer explaining what herbs or spices are used is essential in order for fair assessment in competitions. Specifying a style upon which the beer is based may help evaluation. If this beer is a classic style with an herb or spice, the brewer should specify the classic style. If no Chocolate or Coffee category exists in a competition, then chocolate and coffee beers should be entered in this category.</description>
+        <ibuMin>5</ibuMin>
+        <ibuMax>70</ibuMax>
+        <abvMin>2.5</abvMin>
+        <abvMax>12</abvMax>
+        <srmMin>5</srmMin>
+        <srmMax>50</srmMax>
+        <ogMin>1.03</ogMin>
+        <fgMin>1.006</fgMin>
+        <fgMax>1.03</fgMax>
+        <createDate>2012-03-21 20:06:46</createDate>
+        <updateDate>2015-04-07 15:44:45</updateDate>
+      </style>
+    </item>
+    <item>
+      <id>qGhR1j</id>
+      <name>Bud Ice</name>
+      <nameDisplay>Bud Ice</nameDisplay>
+      <description>Bud Ice uses Anheuser-Busch&amp;apos;s exclusive ice-brewing process that takes the beer to a temperature below freezing, which leads to the formation of ice crystals in the finishing process that gives Bud Ice its rich, smooth taste. Bud Ice is America&amp;apos;s first draft beer to be ice brewed.</description>
+      <abv>5.5</abv>
+      <srmId>4</srmId>
+      <availableId>1</availableId>
+      <styleId>97</styleId>
+      <isOrganic>N</isOrganic>
+      <isRetired>N</isRetired>
+      <labels>
+        <icon>https://brewerydb-images.s3.amazonaws.com/beer/qGhR1j/upload_HNwvTX-icon.png</icon>
+        <medium>https://brewerydb-images.s3.amazonaws.com/beer/qGhR1j/upload_HNwvTX-medium.png</medium>
+        <large>https://brewerydb-images.s3.amazonaws.com/beer/qGhR1j/upload_HNwvTX-large.png</large>
+        <contentAwareIcon>https://brewerydb-images.s3.amazonaws.com/beer/qGhR1j/upload_HNwvTX-contentAwareIcon.png</contentAwareIcon>
+        <contentAwareMedium>https://brewerydb-images.s3.amazonaws.com/beer/qGhR1j/upload_HNwvTX-contentAwareMedium.png</contentAwareMedium>
+        <contentAwareLarge>https://brewerydb-images.s3.amazonaws.com/beer/qGhR1j/upload_HNwvTX-contentAwareLarge.png</contentAwareLarge>
+      </labels>
+      <status>verified</status>
+      <statusDisplay>Verified</statusDisplay>
+      <servingTemperature>cold</servingTemperature>
+      <servingTemperatureDisplay>Cold - (4-7C/39-45F)</servingTemperatureDisplay>
+      <createDate>2012-01-03 02:42:55</createDate>
+      <updateDate>2018-11-02 02:15:14</updateDate>
+      <srm>
+        <id>4</id>
+        <name>4</name>
+        <hex>FFBF42</hex>
+      </srm>
+      <available>
+        <id>1</id>
+        <name>Year Round</name>
+        <description>Available year round as a staple beer.</description>
+      </available>
+      <style>
+        <id>97</id>
+        <categoryId>8</categoryId>
+        <category>
+          <id>8</id>
+          <name>North American Lager</name>
+          <createDate>2012-03-21 20:06:46</createDate>
+        </category>
+        <name>American-Style Premium Lager</name>
+        <shortName>American Premium Lager</shortName>
+        <description>This style has low malt (and adjunct) sweetness, is medium bodied, and should contain no or a low percentage (less than 25%) of adjuncts. Color may be light straw to golden. Alcohol content and bitterness may also be greater. Hop aroma and flavor is low or negligible. Light fruity esters are acceptable. Chill haze and diacetyl should be absent. Note: Some beers marketed as &amp;quot;premium&amp;quot; (based on price) may not fit this definition.</description>
+        <ibuMin>6</ibuMin>
+        <ibuMax>15</ibuMax>
+        <abvMin>4.3</abvMin>
+        <abvMax>5</abvMax>
+        <srmMin>2</srmMin>
+        <srmMax>6</srmMax>
+        <ogMin>1.044</ogMin>
+        <fgMin>1.01</fgMin>
+        <fgMax>1.014</fgMax>
+        <createDate>2012-03-21 20:06:46</createDate>
+        <updateDate>2015-04-07 15:40:04</updateDate>
+      </style>
+    </item>
+    <item>
+      <id>SaQFBA</id>
+      <name>Bud Ice Light</name>
+      <nameDisplay>Bud Ice Light</nameDisplay>
+      <description>Introduced in 1994.</description>
+      <abv>4.1</abv>
+      <styleId>97</styleId>
+      <isOrganic>N</isOrganic>
+      <isRetired>N</isRetired>
+      <status>verified</status>
+      <statusDisplay>Verified</statusDisplay>
+      <createDate>2012-01-03 02:42:55</createDate>
+      <updateDate>2018-11-02 02:15:14</updateDate>
+      <style>
+        <id>97</id>
+        <categoryId>8</categoryId>
+        <category>
+          <id>8</id>
+          <name>North American Lager</name>
+          <createDate>2012-03-21 20:06:46</createDate>
+        </category>
+        <name>American-Style Premium Lager</name>
+        <shortName>American Premium Lager</shortName>
+        <description>This style has low malt (and adjunct) sweetness, is medium bodied, and should contain no or a low percentage (less than 25%) of adjuncts. Color may be light straw to golden. Alcohol content and bitterness may also be greater. Hop aroma and flavor is low or negligible. Light fruity esters are acceptable. Chill haze and diacetyl should be absent. Note: Some beers marketed as &amp;quot;premium&amp;quot; (based on price) may not fit this definition.</description>
+        <ibuMin>6</ibuMin>
+        <ibuMax>15</ibuMax>
+        <abvMin>4.3</abvMin>
+        <abvMax>5</abvMax>
+        <srmMin>2</srmMin>
+        <srmMax>6</srmMax>
+        <ogMin>1.044</ogMin>
+        <fgMin>1.01</fgMin>
+        <fgMax>1.014</fgMax>
+        <createDate>2012-03-21 20:06:46</createDate>
+        <updateDate>2015-04-07 15:40:04</updateDate>
+      </style>
+    </item>
+    <item>
+      <id>dimtrs</id>
+      <name>Bud Light</name>
+      <nameDisplay>Bud Light</nameDisplay>
+      <description>Introduced nationally in 1982, Bud Light is brewed using a blend of domestic and imported hops as well as a combination of barley malts and rice.  It contains more malt and hops by ratio of ingredients than Budweiser, which gives the brew a distinctively clean and crisp taste.</description>
+      <abv>4.2</abv>
+      <ibu>10</ibu>
+      <glasswareId>5</glasswareId>
+      <srmId>1</srmId>
+      <availableId>1</availableId>
+      <styleId>94</styleId>
+      <isOrganic>N</isOrganic>
+      <isRetired>N</isRetired>
+      <labels>
+        <icon>https://brewerydb-images.s3.amazonaws.com/beer/dimtrs/upload_794WgV-icon.png</icon>
+        <medium>https://brewerydb-images.s3.amazonaws.com/beer/dimtrs/upload_794WgV-medium.png</medium>
+        <large>https://brewerydb-images.s3.amazonaws.com/beer/dimtrs/upload_794WgV-large.png</large>
+        <contentAwareIcon>https://brewerydb-images.s3.amazonaws.com/beer/dimtrs/upload_794WgV-contentAwareIcon.png</contentAwareIcon>
+        <contentAwareMedium>https://brewerydb-images.s3.amazonaws.com/beer/dimtrs/upload_794WgV-contentAwareMedium.png</contentAwareMedium>
+        <contentAwareLarge>https://brewerydb-images.s3.amazonaws.com/beer/dimtrs/upload_794WgV-contentAwareLarge.png</contentAwareLarge>
+      </labels>
+      <status>verified</status>
+      <statusDisplay>Verified</statusDisplay>
+      <servingTemperature>cold</servingTemperature>
+      <servingTemperatureDisplay>Cold - (4-7C/39-45F)</servingTemperatureDisplay>
+      <createDate>2012-01-03 02:42:55</createDate>
+      <updateDate>2018-11-02 02:15:14</updateDate>
+      <glass>
+        <id>5</id>
+        <name>Pint</name>
+        <createDate>2012-01-03 02:41:33</createDate>
+      </glass>
+      <srm>
+        <id>1</id>
+        <name>1</name>
+        <hex>FFE699</hex>
+      </srm>
+      <available>
+        <id>1</id>
+        <name>Year Round</name>
+        <description>Available year round as a staple beer.</description>
+      </available>
+      <style>
+        <id>94</id>
+        <categoryId>8</categoryId>
+        <category>
+          <id>8</id>
+          <name>North American Lager</name>
+          <createDate>2012-03-21 20:06:46</createDate>
+        </category>
+        <name>American-Style Light (Low Calorie) Lager</name>
+        <shortName>American Light Lager</shortName>
+        <description>These beers are extremely light colored, light in body, and high in carbonation. Calorie level should not exceed 125 per 12 ounce serving. Corn, rice, or other grain or sugar adjuncts are often used. Flavor is mild and hop bitterness and aroma is negligible to very low. Light fruity esters are acceptable. Chill haze and diacetyl should be absent.</description>
+        <ibuMin>5</ibuMin>
+        <ibuMax>10</ibuMax>
+        <abvMin>3.5</abvMin>
+        <abvMax>4.4</abvMax>
+        <srmMin>2</srmMin>
+        <srmMax>4</srmMax>
+        <ogMin>1.024</ogMin>
+        <fgMin>1.002</fgMin>
+        <fgMax>1.008</fgMax>
+        <createDate>2012-03-21 20:06:46</createDate>
+        <updateDate>2015-04-07 15:39:35</updateDate>
+      </style>
+    </item>
+    <item>
+      <id>Abbvjh</id>
+      <name>Bud Light Apple</name>
+      <nameDisplay>Bud Light Apple</nameDisplay>
+      <abv>4.2</abv>
+      <styleId>94</styleId>
+      <isOrganic>N</isOrganic>
+      <isRetired>N</isRetired>
+      <labels>
+        <icon>https://brewerydb-images.s3.amazonaws.com/beer/Abbvjh/upload_mTkDoR-icon.png</icon>
+        <medium>https://brewerydb-images.s3.amazonaws.com/beer/Abbvjh/upload_mTkDoR-medium.png</medium>
+        <large>https://brewerydb-images.s3.amazonaws.com/beer/Abbvjh/upload_mTkDoR-large.png</large>
+        <contentAwareIcon>https://brewerydb-images.s3.amazonaws.com/beer/Abbvjh/upload_mTkDoR-contentAwareIcon.png</contentAwareIcon>
+        <contentAwareMedium>https://brewerydb-images.s3.amazonaws.com/beer/Abbvjh/upload_mTkDoR-contentAwareMedium.png</contentAwareMedium>
+        <contentAwareLarge>https://brewerydb-images.s3.amazonaws.com/beer/Abbvjh/upload_mTkDoR-contentAwareLarge.png</contentAwareLarge>
+      </labels>
+      <status>verified</status>
+      <statusDisplay>Verified</statusDisplay>
+      <createDate>2015-11-06 15:27:52</createDate>
+      <updateDate>2018-11-02 02:15:14</updateDate>
+      <style>
+        <id>94</id>
+        <categoryId>8</categoryId>
+        <category>
+          <id>8</id>
+          <name>North American Lager</name>
+          <createDate>2012-03-21 20:06:46</createDate>
+        </category>
+        <name>American-Style Light (Low Calorie) Lager</name>
+        <shortName>American Light Lager</shortName>
+        <description>These beers are extremely light colored, light in body, and high in carbonation. Calorie level should not exceed 125 per 12 ounce serving. Corn, rice, or other grain or sugar adjuncts are often used. Flavor is mild and hop bitterness and aroma is negligible to very low. Light fruity esters are acceptable. Chill haze and diacetyl should be absent.</description>
+        <ibuMin>5</ibuMin>
+        <ibuMax>10</ibuMax>
+        <abvMin>3.5</abvMin>
+        <abvMax>4.4</abvMax>
+        <srmMin>2</srmMin>
+        <srmMax>4</srmMax>
+        <ogMin>1.024</ogMin>
+        <fgMin>1.002</fgMin>
+        <fgMax>1.008</fgMax>
+        <createDate>2012-03-21 20:06:46</createDate>
+        <updateDate>2015-04-07 15:39:35</updateDate>
+      </style>
+    </item>
+    <item>
+      <id>Dvucvo</id>
+      <name>Bud Light Blends Lemon</name>
+      <nameDisplay>Bud Light Blends Lemon</nameDisplay>
+      <abv>3.5</abv>
+      <styleId>119</styleId>
+      <isOrganic>N</isOrganic>
+      <isRetired>N</isRetired>
+      <labels>
+        <icon>https://brewerydb-images.s3.amazonaws.com/beer/Dvucvo/upload_OjxheQ-icon.png</icon>
+        <medium>https://brewerydb-images.s3.amazonaws.com/beer/Dvucvo/upload_OjxheQ-medium.png</medium>
+        <large>https://brewerydb-images.s3.amazonaws.com/beer/Dvucvo/upload_OjxheQ-large.png</large>
+        <contentAwareIcon>https://brewerydb-images.s3.amazonaws.com/beer/Dvucvo/upload_OjxheQ-contentAwareIcon.png</contentAwareIcon>
+        <contentAwareMedium>https://brewerydb-images.s3.amazonaws.com/beer/Dvucvo/upload_OjxheQ-contentAwareMedium.png</contentAwareMedium>
+        <contentAwareLarge>https://brewerydb-images.s3.amazonaws.com/beer/Dvucvo/upload_OjxheQ-contentAwareLarge.png</contentAwareLarge>
+      </labels>
+      <status>verified</status>
+      <statusDisplay>Verified</statusDisplay>
+      <createDate>2018-08-01 15:05:42</createDate>
+      <updateDate>2018-11-02 02:15:14</updateDate>
+      <style>
+        <id>119</id>
+        <categoryId>11</categoryId>
+        <category>
+          <id>11</id>
+          <name>Hybrid/mixed Beer</name>
+          <createDate>2012-03-21 20:06:46</createDate>
+        </category>
+        <name>Fruit Beer</name>
+        <shortName>Fruit Beer</shortName>
+        <description>Fruit beers are any beers using fruit or fruit extracts as an adjunct in either, the mash, kettle, primary or secondary fermentation providing obvious (ranging from subtle to intense), yet harmonious, fruit qualities. Fruit qualities should not be overpowered by hop character. If a fruit (such as juniper berry) has an herbal or spice quality, it is more appropriate to consider it in the herb and spice beers category. Acidic bacterial (not wild yeast) fermentation characters may be evident (but not necessary) they would contribute to acidity and enhance fruity balance. Clear or hazy beer is acceptable in appearance. A statement by the brewer explaining what fruits are used is essential in order for fair assessment in competitions. If this beer is a classic style with fruit, the brewer should also specify the classic style.</description>
+        <ibuMin>5</ibuMin>
+        <ibuMax>70</ibuMax>
+        <abvMin>2.5</abvMin>
+        <abvMax>12</abvMax>
+        <srmMin>5</srmMin>
+        <srmMax>50</srmMax>
+        <ogMin>1.03</ogMin>
+        <fgMin>1.006</fgMin>
+        <fgMax>1.03</fgMax>
+        <createDate>2012-03-21 20:06:46</createDate>
+        <updateDate>2015-04-07 15:44:21</updateDate>
+      </style>
+    </item>
+    <item>
+      <id>t9aucT</id>
+      <name>Bud Light Chelada</name>
+      <nameDisplay>Bud Light Chelada</nameDisplay>
+      <description>Bud Light &amp; Clamato Chelada, combines Bud Light with the refreshing taste of Clamato, spices and a hint of lime. To best enjoy Bud Light &amp; Clamato Chelada, gently rotate the chilled can once before pouring. Then, serve cold, or pour over ice, into a traditional goblet-style glass and garnish with a slice of lime or celery stalk.</description>
+      <abv>4.2</abv>
+      <glasswareId>5</glasswareId>
+      <availableId>1</availableId>
+      <styleId>94</styleId>
+      <isOrganic>N</isOrganic>
+      <isRetired>N</isRetired>
+      <labels>
+        <icon>https://brewerydb-images.s3.amazonaws.com/beer/t9aucT/upload_GYv6n6-icon.png</icon>
+        <medium>https://brewerydb-images.s3.amazonaws.com/beer/t9aucT/upload_GYv6n6-medium.png</medium>
+        <large>https://brewerydb-images.s3.amazonaws.com/beer/t9aucT/upload_GYv6n6-large.png</large>
+        <contentAwareIcon>https://brewerydb-images.s3.amazonaws.com/beer/t9aucT/upload_GYv6n6-contentAwareIcon.png</contentAwareIcon>
+        <contentAwareMedium>https://brewerydb-images.s3.amazonaws.com/beer/t9aucT/upload_GYv6n6-contentAwareMedium.png</contentAwareMedium>
+        <contentAwareLarge>https://brewerydb-images.s3.amazonaws.com/beer/t9aucT/upload_GYv6n6-contentAwareLarge.png</contentAwareLarge>
+      </labels>
+      <status>verified</status>
+      <statusDisplay>Verified</statusDisplay>
+      <servingTemperature>very_cold</servingTemperature>
+      <servingTemperatureDisplay>Very Cold - (0-4C/32-39F)</servingTemperatureDisplay>
+      <createDate>2012-08-27 20:18:16</createDate>
+      <updateDate>2018-11-02 02:15:14</updateDate>
+      <glass>
+        <id>5</id>
+        <name>Pint</name>
+        <createDate>2012-01-03 02:41:33</createDate>
+      </glass>
+      <available>
+        <id>1</id>
+        <name>Year Round</name>
+        <description>Available year round as a staple beer.</description>
+      </available>
+      <style>
+        <id>94</id>
+        <categoryId>8</categoryId>
+        <category>
+          <id>8</id>
+          <name>North American Lager</name>
+          <createDate>2012-03-21 20:06:46</createDate>
+        </category>
+        <name>American-Style Light (Low Calorie) Lager</name>
+        <shortName>American Light Lager</shortName>
+        <description>These beers are extremely light colored, light in body, and high in carbonation. Calorie level should not exceed 125 per 12 ounce serving. Corn, rice, or other grain or sugar adjuncts are often used. Flavor is mild and hop bitterness and aroma is negligible to very low. Light fruity esters are acceptable. Chill haze and diacetyl should be absent.</description>
+        <ibuMin>5</ibuMin>
+        <ibuMax>10</ibuMax>
+        <abvMin>3.5</abvMin>
+        <abvMax>4.4</abvMax>
+        <srmMin>2</srmMin>
+        <srmMax>4</srmMax>
+        <ogMin>1.024</ogMin>
+        <fgMin>1.002</fgMin>
+        <fgMax>1.008</fgMax>
+        <createDate>2012-03-21 20:06:46</createDate>
+        <updateDate>2015-04-07 15:39:35</updateDate>
+      </style>
+    </item>
+    <item>
+      <id>4zruzt</id>
+      <name>Bud Light Golden Wheat</name>
+      <nameDisplay>Bud Light Golden Wheat</nameDisplay>
+      <abv>4.1</abv>
+      <styleId>61</styleId>
+      <isOrganic>N</isOrganic>
+      <isRetired>N</isRetired>
+      <status>verified</status>
+      <statusDisplay>Verified</statusDisplay>
+      <createDate>2012-01-03 02:42:55</createDate>
+      <updateDate>2018-11-02 02:15:14</updateDate>
+      <style>
+        <id>61</id>
+        <categoryId>5</categoryId>
+        <category>
+          <id>5</id>
+          <name>Belgian And French Origin Ales</name>
+          <createDate>2012-03-21 20:06:46</createDate>
+        </category>
+        <name>Belgian-Style Blonde Ale</name>
+        <shortName>Belgian Blonde</shortName>
+        <description>Belgian-style blond ales are characterized by low yet evident hop bitterness, flavor, and sometimes aroma. Light to medium body and low malt aroma with a sweet, spiced and a low to medium fruity-ester character orchestrated in flavor and aroma. Sugar may be used to lighten perceived body. They are blonde to golden in color. Noble-type hops are commonly used. Low levels of phenolic spiciness from yeast byproducts may be perceived. Diacetyl should not be perceived. Acidic character should not be present. Chill haze is allowable at cold temperatures.</description>
+        <ibuMin>15</ibuMin>
+        <ibuMax>30</ibuMax>
+        <abvMin>6</abvMin>
+        <abvMax>7.8</abvMax>
+        <srmMin>4</srmMin>
+        <srmMax>7</srmMax>
+        <ogMin>1.054</ogMin>
+        <fgMin>1.008</fgMin>
+        <fgMax>1.014</fgMax>
+        <createDate>2012-03-21 20:06:46</createDate>
+        <updateDate>2015-04-07 15:32:01</updateDate>
+      </style>
+    </item>
+    <item>
+      <id>MzoCPz</id>
+      <name>Bud Light Lime</name>
+      <nameDisplay>Bud Light Lime</nameDisplay>
+      <description>Bud Light Lime, introduced in 2008, is a premium light lager that combines the superior drinkability of Bud Light with 100 percent natural lime flavor.</description>
+      <abv>4.2</abv>
+      <glasswareId>5</glasswareId>
+      <srmId>1</srmId>
+      <availableId>1</availableId>
+      <styleId>94</styleId>
+      <isOrganic>N</isOrganic>
+      <isRetired>N</isRetired>
+      <labels>
+        <icon>https://brewerydb-images.s3.amazonaws.com/beer/MzoCPz/upload_bsK4Bh-icon.png</icon>
+        <medium>https://brewerydb-images.s3.amazonaws.com/beer/MzoCPz/upload_bsK4Bh-medium.png</medium>
+        <large>https://brewerydb-images.s3.amazonaws.com/beer/MzoCPz/upload_bsK4Bh-large.png</large>
+        <contentAwareIcon>https://brewerydb-images.s3.amazonaws.com/beer/MzoCPz/upload_bsK4Bh-contentAwareIcon.png</contentAwareIcon>
+        <contentAwareMedium>https://brewerydb-images.s3.amazonaws.com/beer/MzoCPz/upload_bsK4Bh-contentAwareMedium.png</contentAwareMedium>
+        <contentAwareLarge>https://brewerydb-images.s3.amazonaws.com/beer/MzoCPz/upload_bsK4Bh-contentAwareLarge.png</contentAwareLarge>
+      </labels>
+      <status>verified</status>
+      <statusDisplay>Verified</statusDisplay>
+      <servingTemperature>cold</servingTemperature>
+      <servingTemperatureDisplay>Cold - (4-7C/39-45F)</servingTemperatureDisplay>
+      <createDate>2012-01-03 02:42:55</createDate>
+      <updateDate>2018-11-02 02:15:14</updateDate>
+      <glass>
+        <id>5</id>
+        <name>Pint</name>
+        <createDate>2012-01-03 02:41:33</createDate>
+      </glass>
+      <srm>
+        <id>1</id>
+        <name>1</name>
+        <hex>FFE699</hex>
+      </srm>
+      <available>
+        <id>1</id>
+        <name>Year Round</name>
+        <description>Available year round as a staple beer.</description>
+      </available>
+      <style>
+        <id>94</id>
+        <categoryId>8</categoryId>
+        <category>
+          <id>8</id>
+          <name>North American Lager</name>
+          <createDate>2012-03-21 20:06:46</createDate>
+        </category>
+        <name>American-Style Light (Low Calorie) Lager</name>
+        <shortName>American Light Lager</shortName>
+        <description>These beers are extremely light colored, light in body, and high in carbonation. Calorie level should not exceed 125 per 12 ounce serving. Corn, rice, or other grain or sugar adjuncts are often used. Flavor is mild and hop bitterness and aroma is negligible to very low. Light fruity esters are acceptable. Chill haze and diacetyl should be absent.</description>
+        <ibuMin>5</ibuMin>
+        <ibuMax>10</ibuMax>
+        <abvMin>3.5</abvMin>
+        <abvMax>4.4</abvMax>
+        <srmMin>2</srmMin>
+        <srmMax>4</srmMax>
+        <ogMin>1.024</ogMin>
+        <fgMin>1.002</fgMin>
+        <fgMax>1.008</fgMax>
+        <createDate>2012-03-21 20:06:46</createDate>
+        <updateDate>2015-04-07 15:39:35</updateDate>
+      </style>
+    </item>
+    <item>
+      <id>VwOYAS</id>
+      <name>Bud Light Lime Mang-O-Rita</name>
+      <nameDisplay>Bud Light Lime Mang-O-Rita</nameDisplay>
+      <description>Bud Light Lime Mang-O-Rita combines two favorites: the delicious taste of a mango margarita and the refreshment of Bud Light Lime. Best-served over ice, Bud Light Lime Mang-O-Rita is perfect for any outdoor occasion.</description>
+      <abv>8</abv>
+      <srmId>7</srmId>
+      <availableId>1</availableId>
+      <styleId>161</styleId>
+      <isOrganic>N</isOrganic>
+      <isRetired>N</isRetired>
+      <labels>
+        <icon>https://brewerydb-images.s3.amazonaws.com/beer/VwOYAS/upload_EAo5Pg-icon.png</icon>
+        <medium>https://brewerydb-images.s3.amazonaws.com/beer/VwOYAS/upload_EAo5Pg-medium.png</medium>
+        <large>https://brewerydb-images.s3.amazonaws.com/beer/VwOYAS/upload_EAo5Pg-large.png</large>
+        <contentAwareIcon>https://brewerydb-images.s3.amazonaws.com/beer/VwOYAS/upload_EAo5Pg-contentAwareIcon.png</contentAwareIcon>
+        <contentAwareMedium>https://brewerydb-images.s3.amazonaws.com/beer/VwOYAS/upload_EAo5Pg-contentAwareMedium.png</contentAwareMedium>
+        <contentAwareLarge>https://brewerydb-images.s3.amazonaws.com/beer/VwOYAS/upload_EAo5Pg-contentAwareLarge.png</contentAwareLarge>
+      </labels>
+      <status>verified</status>
+      <statusDisplay>Verified</statusDisplay>
+      <servingTemperature>cold</servingTemperature>
+      <servingTemperatureDisplay>Cold - (4-7C/39-45F)</servingTemperatureDisplay>
+      <createDate>2015-01-05 12:59:13</createDate>
+      <updateDate>2018-11-02 02:15:14</updateDate>
+      <srm>
+        <id>7</id>
+        <name>7</name>
+        <hex>F39C00</hex>
+      </srm>
+      <available>
+        <id>1</id>
+        <name>Year Round</name>
+        <description>Available year round as a staple beer.</description>
+      </available>
+      <style>
+        <id>161</id>
+        <categoryId>14</categoryId>
+        <category>
+          <id>14</id>
+          <name>Malternative Beverages</name>
+          <description>Malternative Beverages, also known as &amp;quot;ready-to-drink&amp;quot; beverages, are sweet, sometime carbonated, beverages that are low in alcohol.</description>
+          <createDate>2014-07-10 14:11:26</createDate>
+          <updateDate>2014-07-10 14:20:24</updateDate>
+        </category>
+        <name>Flavored Malt Beverage</name>
+        <shortName>Flavored Malt Beverage</shortName>
+        <description>Flavored malt beverages are brewery products that are different from traditional malt beverages like malt liquor, ales, and lagers in several aspects. Flavored malt beverages exhibit little or no traditional beer or malt beverage flavor characteristics. Their flavor is primarily derived from added flavoring rather than from malt and other materials used in fermentation. However,  flavored malt beverages are marketed in traditional beer bottles and cans and distributed to the alcohol beverage market through beer and malt beverage wholesalers. Their alcohol content is similar to other malt beverages &#8211; in the range of 4-6% alcohol by volume.</description>
+        <abvMin>4</abvMin>
+        <abvMax>6</abvMax>
+        <createDate>2014-07-10 14:15:20</createDate>
+        <updateDate>2015-04-07 15:49:43</updateDate>
+      </style>
+    </item>
+    <item>
+      <id>WQsARu</id>
+      <name>Bud Light Orange</name>
+      <nameDisplay>Bud Light Orange</nameDisplay>
+      <abv>4.2</abv>
+      <styleId>94</styleId>
+      <isOrganic>N</isOrganic>
+      <isRetired>N</isRetired>
+      <labels>
+        <icon>https://brewerydb-images.s3.amazonaws.com/beer/WQsARu/upload_lw8e2e-icon.png</icon>
+        <medium>https://brewerydb-images.s3.amazonaws.com/beer/WQsARu/upload_lw8e2e-medium.png</medium>
+        <large>https://brewerydb-images.s3.amazonaws.com/beer/WQsARu/upload_lw8e2e-large.png</large>
+        <contentAwareIcon>https://brewerydb-images.s3.amazonaws.com/beer/WQsARu/upload_lw8e2e-contentAwareIcon.png</contentAwareIcon>
+        <contentAwareMedium>https://brewerydb-images.s3.amazonaws.com/beer/WQsARu/upload_lw8e2e-contentAwareMedium.png</contentAwareMedium>
+        <contentAwareLarge>https://brewerydb-images.s3.amazonaws.com/beer/WQsARu/upload_lw8e2e-contentAwareLarge.png</contentAwareLarge>
+      </labels>
+      <status>verified</status>
+      <statusDisplay>Verified</statusDisplay>
+      <createDate>2018-04-17 15:00:08</createDate>
+      <updateDate>2018-11-02 02:15:14</updateDate>
+      <style>
+        <id>94</id>
+        <categoryId>8</categoryId>
+        <category>
+          <id>8</id>
+          <name>North American Lager</name>
+          <createDate>2012-03-21 20:06:46</createDate>
+        </category>
+        <name>American-Style Light (Low Calorie) Lager</name>
+        <shortName>American Light Lager</shortName>
+        <description>These beers are extremely light colored, light in body, and high in carbonation. Calorie level should not exceed 125 per 12 ounce serving. Corn, rice, or other grain or sugar adjuncts are often used. Flavor is mild and hop bitterness and aroma is negligible to very low. Light fruity esters are acceptable. Chill haze and diacetyl should be absent.</description>
+        <ibuMin>5</ibuMin>
+        <ibuMax>10</ibuMax>
+        <abvMin>3.5</abvMin>
+        <abvMax>4.4</abvMax>
+        <srmMin>2</srmMin>
+        <srmMax>4</srmMax>
+        <ogMin>1.024</ogMin>
+        <fgMin>1.002</fgMin>
+        <fgMax>1.008</fgMax>
+        <createDate>2012-03-21 20:06:46</createDate>
+        <updateDate>2015-04-07 15:39:35</updateDate>
+      </style>
+    </item>
+    <item>
+      <id>hd8yE8</id>
+      <name>Bud Light Platinum</name>
+      <nameDisplay>Bud Light Platinum</nameDisplay>
+      <description>Bud Light Platinum has reinvented the category of light beer. Within each cobalt blue bottle lies a bold formula that&amp;apos;s triple filtered with a smooth finish to create its top shelf taste. It&amp;apos;s the first of its kind, and the only beer worthy of the name Bud Light Platinum.</description>
+      <abv>6</abv>
+      <glasswareId>5</glasswareId>
+      <srmId>2</srmId>
+      <availableId>1</availableId>
+      <styleId>94</styleId>
+      <isOrganic>N</isOrganic>
+      <isRetired>N</isRetired>
+      <labels>
+        <icon>https://brewerydb-images.s3.amazonaws.com/beer/hd8yE8/upload_tMQsPf-icon.png</icon>
+        <medium>https://brewerydb-images.s3.amazonaws.com/beer/hd8yE8/upload_tMQsPf-medium.png</medium>
+        <large>https://brewerydb-images.s3.amazonaws.com/beer/hd8yE8/upload_tMQsPf-large.png</large>
+        <contentAwareIcon>https://brewerydb-images.s3.amazonaws.com/beer/hd8yE8/upload_tMQsPf-contentAwareIcon.png</contentAwareIcon>
+        <contentAwareMedium>https://brewerydb-images.s3.amazonaws.com/beer/hd8yE8/upload_tMQsPf-contentAwareMedium.png</contentAwareMedium>
+        <contentAwareLarge>https://brewerydb-images.s3.amazonaws.com/beer/hd8yE8/upload_tMQsPf-contentAwareLarge.png</contentAwareLarge>
+      </labels>
+      <status>verified</status>
+      <statusDisplay>Verified</statusDisplay>
+      <servingTemperature>cold</servingTemperature>
+      <servingTemperatureDisplay>Cold - (4-7C/39-45F)</servingTemperatureDisplay>
+      <createDate>2012-03-14 12:22:52</createDate>
+      <updateDate>2018-11-02 02:15:14</updateDate>
+      <glass>
+        <id>5</id>
+        <name>Pint</name>
+        <createDate>2012-01-03 02:41:33</createDate>
+      </glass>
+      <srm>
+        <id>2</id>
+        <name>2</name>
+        <hex>FFD878</hex>
+      </srm>
+      <available>
+        <id>1</id>
+        <name>Year Round</name>
+        <description>Available year round as a staple beer.</description>
+      </available>
+      <style>
+        <id>94</id>
+        <categoryId>8</categoryId>
+        <category>
+          <id>8</id>
+          <name>North American Lager</name>
+          <createDate>2012-03-21 20:06:46</createDate>
+        </category>
+        <name>American-Style Light (Low Calorie) Lager</name>
+        <shortName>American Light Lager</shortName>
+        <description>These beers are extremely light colored, light in body, and high in carbonation. Calorie level should not exceed 125 per 12 ounce serving. Corn, rice, or other grain or sugar adjuncts are often used. Flavor is mild and hop bitterness and aroma is negligible to very low. Light fruity esters are acceptable. Chill haze and diacetyl should be absent.</description>
+        <ibuMin>5</ibuMin>
+        <ibuMax>10</ibuMax>
+        <abvMin>3.5</abvMin>
+        <abvMax>4.4</abvMax>
+        <srmMin>2</srmMin>
+        <srmMax>4</srmMax>
+        <ogMin>1.024</ogMin>
+        <fgMin>1.002</fgMin>
+        <fgMax>1.008</fgMax>
+        <createDate>2012-03-21 20:06:46</createDate>
+        <updateDate>2015-04-07 15:39:35</updateDate>
+      </style>
+    </item>
+    <item>
+      <id>LXWiDB</id>
+      <name>Bud Light Radler - Grapefuit</name>
+      <nameDisplay>Bud Light Radler - Grapefuit</nameDisplay>
+      <description>A perfect mix of light beer and real fruit juice, this favourite combines citrus flavours and grapefruit aroma with a refreshing taste.</description>
+      <abv>2.4</abv>
+      <ibu>8</ibu>
+      <styleId>119</styleId>
+      <isOrganic>N</isOrganic>
+      <isRetired>N</isRetired>
+      <status>verified</status>
+      <statusDisplay>Verified</statusDisplay>
+      <createDate>2018-07-25 18:09:43</createDate>
+      <updateDate>2018-11-02 02:15:14</updateDate>
+      <style>
+        <id>119</id>
+        <categoryId>11</categoryId>
+        <category>
+          <id>11</id>
+          <name>Hybrid/mixed Beer</name>
+          <createDate>2012-03-21 20:06:46</createDate>
+        </category>
+        <name>Fruit Beer</name>
+        <shortName>Fruit Beer</shortName>
+        <description>Fruit beers are any beers using fruit or fruit extracts as an adjunct in either, the mash, kettle, primary or secondary fermentation providing obvious (ranging from subtle to intense), yet harmonious, fruit qualities. Fruit qualities should not be overpowered by hop character. If a fruit (such as juniper berry) has an herbal or spice quality, it is more appropriate to consider it in the herb and spice beers category. Acidic bacterial (not wild yeast) fermentation characters may be evident (but not necessary) they would contribute to acidity and enhance fruity balance. Clear or hazy beer is acceptable in appearance. A statement by the brewer explaining what fruits are used is essential in order for fair assessment in competitions. If this beer is a classic style with fruit, the brewer should also specify the classic style.</description>
+        <ibuMin>5</ibuMin>
+        <ibuMax>70</ibuMax>
+        <abvMin>2.5</abvMin>
+        <abvMax>12</abvMax>
+        <srmMin>5</srmMin>
+        <srmMax>50</srmMax>
+        <ogMin>1.03</ogMin>
+        <fgMin>1.006</fgMin>
+        <fgMax>1.03</fgMax>
+        <createDate>2012-03-21 20:06:46</createDate>
+        <updateDate>2015-04-07 15:44:21</updateDate>
+      </style>
+    </item>
+    <item>
+      <id>YCBXba</id>
+      <name>Bud Light Straw-Ber-Rita</name>
+      <nameDisplay>Bud Light Straw-Ber-Rita</nameDisplay>
+      <abv>8</abv>
+      <styleId>161</styleId>
+      <isOrganic>N</isOrganic>
+      <isRetired>N</isRetired>
+      <labels>
+        <icon>https://brewerydb-images.s3.amazonaws.com/beer/YCBXba/upload_pb1Mv3-icon.png</icon>
+        <medium>https://brewerydb-images.s3.amazonaws.com/beer/YCBXba/upload_pb1Mv3-medium.png</medium>
+        <large>https://brewerydb-images.s3.amazonaws.com/beer/YCBXba/upload_pb1Mv3-large.png</large>
+        <contentAwareIcon>https://brewerydb-images.s3.amazonaws.com/beer/YCBXba/upload_pb1Mv3-contentAwareIcon.png</contentAwareIcon>
+        <contentAwareMedium>https://brewerydb-images.s3.amazonaws.com/beer/YCBXba/upload_pb1Mv3-contentAwareMedium.png</contentAwareMedium>
+        <contentAwareLarge>https://brewerydb-images.s3.amazonaws.com/beer/YCBXba/upload_pb1Mv3-contentAwareLarge.png</contentAwareLarge>
+      </labels>
+      <status>verified</status>
+      <statusDisplay>Verified</statusDisplay>
+      <createDate>2015-01-12 12:55:59</createDate>
+      <updateDate>2018-11-02 02:15:14</updateDate>
+      <style>
+        <id>161</id>
+        <categoryId>14</categoryId>
+        <category>
+          <id>14</id>
+          <name>Malternative Beverages</name>
+          <description>Malternative Beverages, also known as &amp;quot;ready-to-drink&amp;quot; beverages, are sweet, sometime carbonated, beverages that are low in alcohol.</description>
+          <createDate>2014-07-10 14:11:26</createDate>
+          <updateDate>2014-07-10 14:20:24</updateDate>
+        </category>
+        <name>Flavored Malt Beverage</name>
+        <shortName>Flavored Malt Beverage</shortName>
+        <description>Flavored malt beverages are brewery products that are different from traditional malt beverages like malt liquor, ales, and lagers in several aspects. Flavored malt beverages exhibit little or no traditional beer or malt beverage flavor characteristics. Their flavor is primarily derived from added flavoring rather than from malt and other materials used in fermentation. However,  flavored malt beverages are marketed in traditional beer bottles and cans and distributed to the alcohol beverage market through beer and malt beverage wholesalers. Their alcohol content is similar to other malt beverages &#8211; in the range of 4-6% alcohol by volume.</description>
+        <abvMin>4</abvMin>
+        <abvMax>6</abvMax>
+        <createDate>2014-07-10 14:15:20</createDate>
+        <updateDate>2015-04-07 15:49:43</updateDate>
+      </style>
+    </item>
+    <item>
+      <id>doijNb</id>
+      <name>Buddha&amp;apos;s Hand - Mountain Series</name>
+      <nameDisplay>Buddha&amp;apos;s Hand - Mountain Series</nameDisplay>
+      <availableId>2</availableId>
+      <styleId>119</styleId>
+      <isOrganic>N</isOrganic>
+      <isRetired>N</isRetired>
+      <labels>
+        <icon>https://brewerydb-images.s3.amazonaws.com/beer/doijNb/upload_tck7U9-icon.png</icon>
+        <medium>https://brewerydb-images.s3.amazonaws.com/beer/doijNb/upload_tck7U9-medium.png</medium>
+        <large>https://brewerydb-images.s3.amazonaws.com/beer/doijNb/upload_tck7U9-large.png</large>
+        <contentAwareIcon>https://brewerydb-images.s3.amazonaws.com/beer/doijNb/upload_tck7U9-contentAwareIcon.png</contentAwareIcon>
+        <contentAwareMedium>https://brewerydb-images.s3.amazonaws.com/beer/doijNb/upload_tck7U9-contentAwareMedium.png</contentAwareMedium>
+        <contentAwareLarge>https://brewerydb-images.s3.amazonaws.com/beer/doijNb/upload_tck7U9-contentAwareLarge.png</contentAwareLarge>
+      </labels>
+      <status>verified</status>
+      <statusDisplay>Verified</statusDisplay>
+      <createDate>2014-03-17 10:32:46</createDate>
+      <updateDate>2018-11-02 02:15:14</updateDate>
+      <available>
+        <id>2</id>
+        <name>Limited</name>
+        <description>Limited availability.</description>
+      </available>
+      <style>
+        <id>119</id>
+        <categoryId>11</categoryId>
+        <category>
+          <id>11</id>
+          <name>Hybrid/mixed Beer</name>
+          <createDate>2012-03-21 20:06:46</createDate>
+        </category>
+        <name>Fruit Beer</name>
+        <shortName>Fruit Beer</shortName>
+        <description>Fruit beers are any beers using fruit or fruit extracts as an adjunct in either, the mash, kettle, primary or secondary fermentation providing obvious (ranging from subtle to intense), yet harmonious, fruit qualities. Fruit qualities should not be overpowered by hop character. If a fruit (such as juniper berry) has an herbal or spice quality, it is more appropriate to consider it in the herb and spice beers category. Acidic bacterial (not wild yeast) fermentation characters may be evident (but not necessary) they would contribute to acidity and enhance fruity balance. Clear or hazy beer is acceptable in appearance. A statement by the brewer explaining what fruits are used is essential in order for fair assessment in competitions. If this beer is a classic style with fruit, the brewer should also specify the classic style.</description>
+        <ibuMin>5</ibuMin>
+        <ibuMax>70</ibuMax>
+        <abvMin>2.5</abvMin>
+        <abvMax>12</abvMax>
+        <srmMin>5</srmMin>
+        <srmMax>50</srmMax>
+        <ogMin>1.03</ogMin>
+        <fgMin>1.006</fgMin>
+        <fgMax>1.03</fgMax>
+        <createDate>2012-03-21 20:06:46</createDate>
+        <updateDate>2015-04-07 15:44:21</updateDate>
+      </style>
+    </item>
+    <item>
+      <id>1P45iR</id>
+      <name>Budweiser</name>
+      <nameDisplay>Budweiser</nameDisplay>
+      <description>Known as &#8220;The King of Beers&#8221;, Budweiser was first introduced by Adolphus Busch in 1876 and is brewed with the same high quality standards today. Budweiser is a medium-bodied, flavorful, crisp American-style lager, craft brewed with a blend of premium hop varieties, and associated with the core American values of celebration and optimism.</description>
+      <abv>5</abv>
+      <glasswareId>5</glasswareId>
+      <srmId>5</srmId>
+      <availableId>1</availableId>
+      <styleId>93</styleId>
+      <isOrganic>N</isOrganic>
+      <isRetired>N</isRetired>
+      <labels>
+        <icon>https://brewerydb-images.s3.amazonaws.com/beer/1P45iR/upload_Y13vwL-icon.png</icon>
+        <medium>https://brewerydb-images.s3.amazonaws.com/beer/1P45iR/upload_Y13vwL-medium.png</medium>
+        <large>https://brewerydb-images.s3.amazonaws.com/beer/1P45iR/upload_Y13vwL-large.png</large>
+        <contentAwareIcon>https://brewerydb-images.s3.amazonaws.com/beer/1P45iR/upload_Y13vwL-contentAwareIcon.png</contentAwareIcon>
+        <contentAwareMedium>https://brewerydb-images.s3.amazonaws.com/beer/1P45iR/upload_Y13vwL-contentAwareMedium.png</contentAwareMedium>
+        <contentAwareLarge>https://brewerydb-images.s3.amazonaws.com/beer/1P45iR/upload_Y13vwL-contentAwareLarge.png</contentAwareLarge>
+      </labels>
+      <status>verified</status>
+      <statusDisplay>Verified</statusDisplay>
+      <servingTemperature>cold</servingTemperature>
+      <servingTemperatureDisplay>Cold - (4-7C/39-45F)</servingTemperatureDisplay>
+      <createDate>2012-01-03 02:42:55</createDate>
+      <updateDate>2018-11-02 02:15:14</updateDate>
+      <glass>
+        <id>5</id>
+        <name>Pint</name>
+        <createDate>2012-01-03 02:41:33</createDate>
+      </glass>
+      <srm>
+        <id>5</id>
+        <name>5</name>
+        <hex>FBB123</hex>
+      </srm>
+      <available>
+        <id>1</id>
+        <name>Year Round</name>
+        <description>Available year round as a staple beer.</description>
+      </available>
+      <style>
+        <id>93</id>
+        <categoryId>8</categoryId>
+        <category>
+          <id>8</id>
+          <name>North American Lager</name>
+          <createDate>2012-03-21 20:06:46</createDate>
+        </category>
+        <name>American-Style Lager</name>
+        <shortName>American Lager</shortName>
+        <description>Light in body and very light to straw in color, American lagers are very clean and crisp and aggressively carbonated. Flavor components should b e subtle and complex, with no one ingredient dominating the others. Malt sweetness is light to mild. Corn, rice, or other grain or sugar adjuncts are often used. Hop bitterness, flavor and aroma are negligible to very light. Light fruity esters are acceptable. Chill haze and diacetyl should be absent.</description>
+        <ibuMin>5</ibuMin>
+        <ibuMax>13</ibuMax>
+        <abvMin>3.8</abvMin>
+        <abvMax>5</abvMax>
+        <srmMin>2</srmMin>
+        <srmMax>4</srmMax>
+        <ogMin>1.04</ogMin>
+        <fgMin>1.006</fgMin>
+        <fgMax>1.01</fgMax>
+        <createDate>2012-03-21 20:06:46</createDate>
+        <updateDate>2015-04-07 15:39:26</updateDate>
+      </style>
+    </item>
+    <item>
+      <id>ueYGTP</id>
+      <name>Budweiser 1933 Repeal Reserve</name>
+      <nameDisplay>Budweiser 1933 Repeal Reserve</nameDisplay>
+      <abv>6.1</abv>
+      <styleId>101</styleId>
+      <isOrganic>N</isOrganic>
+      <isRetired>N</isRetired>
+      <status>verified</status>
+      <statusDisplay>Verified</statusDisplay>
+      <createDate>2017-11-23 22:37:43</createDate>
+      <updateDate>2018-11-02 02:15:14</updateDate>
+      <style>
+        <id>101</id>
+        <categoryId>8</categoryId>
+        <category>
+          <id>8</id>
+          <name>North American Lager</name>
+          <createDate>2012-03-21 20:06:46</createDate>
+        </category>
+        <name>American-Style Amber Lager</name>
+        <shortName>American Amber Lager</shortName>
+        <description>American-style amber lagers are light amber to amber or copper colored. They are medium bodied. There is a noticeable degree of caramel-type malt character in flavor and often in aroma. This is a broad category in which the hop bitterness, flavor, and aroma may be accentuated or may only be present at relatively low levels, yet noticeable. Fruity esters, diacetyl, and chill haze should be absent.</description>
+        <ibuMin>18</ibuMin>
+        <ibuMax>30</ibuMax>
+        <abvMin>4.8</abvMin>
+        <abvMax>5.4</abvMax>
+        <srmMin>6</srmMin>
+        <srmMax>14</srmMax>
+        <ogMin>1.042</ogMin>
+        <fgMin>1.01</fgMin>
+        <fgMax>1.018</fgMax>
+        <createDate>2012-03-21 20:06:46</createDate>
+        <updateDate>2015-04-07 15:41:26</updateDate>
+      </style>
+    </item>
+    <item>
+      <id>hlynwj</id>
+      <name>Budweiser American Ale</name>
+      <nameDisplay>Budweiser American Ale</nameDisplay>
+      <description>Budweiser American Ale is brewed with barley from America&amp;apos;s heartland and dry hopped with Cascade hops from the Pacific Northwest.&#13;
+&#13;
+Available Fall 2008.</description>
+      <abv>5.1</abv>
+      <styleId>32</styleId>
+      <isOrganic>N</isOrganic>
+      <isRetired>N</isRetired>
+      <status>verified</status>
+      <statusDisplay>Verified</statusDisplay>
+      <createDate>2012-01-03 02:42:55</createDate>
+      <updateDate>2018-11-02 02:15:14</updateDate>
+      <style>
+        <id>32</id>
+        <categoryId>3</categoryId>
+        <category>
+          <id>3</id>
+          <name>North American Origin Ales</name>
+          <createDate>2012-03-21 20:06:45</createDate>
+        </category>
+        <name>American-Style Amber/Red Ale</name>
+        <shortName>Amber</shortName>
+        <description>American amber/red ales range from light copper to light brown in color. They are characterized by American-variety hops used to produce the perception of medium hop bitterness, flavor, and medium aroma. Amber ales have medium-high to high maltiness with medium to low caramel character. They should have medium to medium-high body. The style may have low levels of fruityester flavor and aroma. Diacetyl can be either absent or barely perceived at very low levels. Chill haze is allowable at cold temperatures. Slight yeast haze is acceptable for bottle-conditioned products.</description>
+        <ibuMin>30</ibuMin>
+        <ibuMax>40</ibuMax>
+        <abvMin>4.5</abvMin>
+        <abvMax>6</abvMax>
+        <srmMin>11</srmMin>
+        <srmMax>18</srmMax>
+        <ogMin>1.048</ogMin>
+        <fgMin>1.012</fgMin>
+        <fgMax>1.018</fgMax>
+        <createDate>2012-03-21 20:06:45</createDate>
+        <updateDate>2015-04-07 15:26:52</updateDate>
+      </style>
+    </item>
+    <item>
+      <id>eW9IJb</id>
+      <name>Budweiser Chelada</name>
+      <nameDisplay>Budweiser Chelada</nameDisplay>
+      <description>Budweiser &amp; Clamato Chelada, combines Budweiser with the refreshing taste of Clamato, spices and a hint of lime. To best enjoy Budweiser &amp; Clamato Chelada, gently rotate the chilled can once before pouring. Then, serve cold, or pour over ice, into a traditional goblet-style glass and garnish with a slice of lime or celery stalk.</description>
+      <abv>5</abv>
+      <glasswareId>5</glasswareId>
+      <availableId>1</availableId>
+      <styleId>93</styleId>
+      <isOrganic>N</isOrganic>
+      <isRetired>N</isRetired>
+      <labels>
+        <icon>https://brewerydb-images.s3.amazonaws.com/beer/eW9IJb/upload_BtQ85f-icon.png</icon>
+        <medium>https://brewerydb-images.s3.amazonaws.com/beer/eW9IJb/upload_BtQ85f-medium.png</medium>
+        <large>https://brewerydb-images.s3.amazonaws.com/beer/eW9IJb/upload_BtQ85f-large.png</large>
+        <contentAwareIcon>https://brewerydb-images.s3.amazonaws.com/beer/eW9IJb/upload_BtQ85f-contentAwareIcon.png</contentAwareIcon>
+        <contentAwareMedium>https://brewerydb-images.s3.amazonaws.com/beer/eW9IJb/upload_BtQ85f-contentAwareMedium.png</contentAwareMedium>
+        <contentAwareLarge>https://brewerydb-images.s3.amazonaws.com/beer/eW9IJb/upload_BtQ85f-contentAwareLarge.png</contentAwareLarge>
+      </labels>
+      <status>verified</status>
+      <statusDisplay>Verified</statusDisplay>
+      <servingTemperature>very_cold</servingTemperature>
+      <servingTemperatureDisplay>Very Cold - (0-4C/32-39F)</servingTemperatureDisplay>
+      <createDate>2012-08-27 20:16:28</createDate>
+      <updateDate>2018-11-02 02:15:14</updateDate>
+      <glass>
+        <id>5</id>
+        <name>Pint</name>
+        <createDate>2012-01-03 02:41:33</createDate>
+      </glass>
+      <available>
+        <id>1</id>
+        <name>Year Round</name>
+        <description>Available year round as a staple beer.</description>
+      </available>
+      <style>
+        <id>93</id>
+        <categoryId>8</categoryId>
+        <category>
+          <id>8</id>
+          <name>North American Lager</name>
+          <createDate>2012-03-21 20:06:46</createDate>
+        </category>
+        <name>American-Style Lager</name>
+        <shortName>American Lager</shortName>
+        <description>Light in body and very light to straw in color, American lagers are very clean and crisp and aggressively carbonated. Flavor components should b e subtle and complex, with no one ingredient dominating the others. Malt sweetness is light to mild. Corn, rice, or other grain or sugar adjuncts are often used. Hop bitterness, flavor and aroma are negligible to very light. Light fruity esters are acceptable. Chill haze and diacetyl should be absent.</description>
+        <ibuMin>5</ibuMin>
+        <ibuMax>13</ibuMax>
+        <abvMin>3.8</abvMin>
+        <abvMax>5</abvMax>
+        <srmMin>2</srmMin>
+        <srmMax>4</srmMax>
+        <ogMin>1.04</ogMin>
+        <fgMin>1.006</fgMin>
+        <fgMax>1.01</fgMax>
+        <createDate>2012-03-21 20:06:46</createDate>
+        <updateDate>2015-04-07 15:39:26</updateDate>
+      </style>
+    </item>
+    <item>
+      <id>mobjLC</id>
+      <name>Budweiser Copper Lager</name>
+      <nameDisplay>Budweiser Copper Lager</nameDisplay>
+      <description>This is a flavorful American Copper Lager brewed with two-row barley malt and aged on real Jim Beam bourbon barrel staves for a toasted oak aroma, a deliciously nutty taste with caramel rye and vanilla notes, and a smooth finish.&#13;
+&#13;
+Budweiser Brewmasters and Jim Beam&amp;apos;s Master Distillers have created this brew in honor of the 85th anniversary of the Repeal of Prohibition on December 5, 1933.</description>
+      <abv>6.2</abv>
+      <styleId>101</styleId>
+      <isOrganic>N</isOrganic>
+      <isRetired>N</isRetired>
+      <labels>
+        <icon>https://brewerydb-images.s3.amazonaws.com/beer/mobjLC/upload_ZjqLiJ-icon.png</icon>
+        <medium>https://brewerydb-images.s3.amazonaws.com/beer/mobjLC/upload_ZjqLiJ-medium.png</medium>
+        <large>https://brewerydb-images.s3.amazonaws.com/beer/mobjLC/upload_ZjqLiJ-large.png</large>
+        <contentAwareIcon>https://brewerydb-images.s3.amazonaws.com/beer/mobjLC/upload_ZjqLiJ-contentAwareIcon.png</contentAwareIcon>
+        <contentAwareMedium>https://brewerydb-images.s3.amazonaws.com/beer/mobjLC/upload_ZjqLiJ-contentAwareMedium.png</contentAwareMedium>
+        <contentAwareLarge>https://brewerydb-images.s3.amazonaws.com/beer/mobjLC/upload_ZjqLiJ-contentAwareLarge.png</contentAwareLarge>
+      </labels>
+      <status>verified</status>
+      <statusDisplay>Verified</statusDisplay>
+      <createDate>2018-09-19 14:22:53</createDate>
+      <updateDate>2018-11-02 02:15:14</updateDate>
+      <style>
+        <id>101</id>
+        <categoryId>8</categoryId>
+        <category>
+          <id>8</id>
+          <name>North American Lager</name>
+          <createDate>2012-03-21 20:06:46</createDate>
+        </category>
+        <name>American-Style Amber Lager</name>
+        <shortName>American Amber Lager</shortName>
+        <description>American-style amber lagers are light amber to amber or copper colored. They are medium bodied. There is a noticeable degree of caramel-type malt character in flavor and often in aroma. This is a broad category in which the hop bitterness, flavor, and aroma may be accentuated or may only be present at relatively low levels, yet noticeable. Fruity esters, diacetyl, and chill haze should be absent.</description>
+        <ibuMin>18</ibuMin>
+        <ibuMax>30</ibuMax>
+        <abvMin>4.8</abvMin>
+        <abvMax>5.4</abvMax>
+        <srmMin>6</srmMin>
+        <srmMax>14</srmMax>
+        <ogMin>1.042</ogMin>
+        <fgMin>1.01</fgMin>
+        <fgMax>1.018</fgMax>
+        <createDate>2012-03-21 20:06:46</createDate>
+        <updateDate>2015-04-07 15:41:26</updateDate>
+      </style>
+    </item>
+    <item>
+      <id>bQk5Rn</id>
+      <name>Budweiser Freedom Reserve</name>
+      <nameDisplay>Budweiser Freedom Reserve</nameDisplay>
+      <description>The Freedom Reserve is a specialty red lager brewed with toasted barley grains for a slightly sweet aroma with a touch of hops, a rich caramel malt taste, and a smooth finish with a hint of molasses. Inspired by George Washington&amp;apos;s recipe.</description>
+      <abv>5.4</abv>
+      <availableId>2</availableId>
+      <styleId>101</styleId>
+      <isOrganic>N</isOrganic>
+      <isRetired>N</isRetired>
+      <labels>
+        <icon>https://brewerydb-images.s3.amazonaws.com/beer/bQk5Rn/upload_Mo8mh2-icon.png</icon>
+        <medium>https://brewerydb-images.s3.amazonaws.com/beer/bQk5Rn/upload_Mo8mh2-medium.png</medium>
+        <large>https://brewerydb-images.s3.amazonaws.com/beer/bQk5Rn/upload_Mo8mh2-large.png</large>
+        <contentAwareIcon>https://brewerydb-images.s3.amazonaws.com/beer/bQk5Rn/upload_Mo8mh2-contentAwareIcon.png</contentAwareIcon>
+        <contentAwareMedium>https://brewerydb-images.s3.amazonaws.com/beer/bQk5Rn/upload_Mo8mh2-contentAwareMedium.png</contentAwareMedium>
+        <contentAwareLarge>https://brewerydb-images.s3.amazonaws.com/beer/bQk5Rn/upload_Mo8mh2-contentAwareLarge.png</contentAwareLarge>
+      </labels>
+      <status>verified</status>
+      <statusDisplay>Verified</statusDisplay>
+      <createDate>2018-06-13 14:24:41</createDate>
+      <updateDate>2018-11-02 02:15:14</updateDate>
+      <available>
+        <id>2</id>
+        <name>Limited</name>
+        <description>Limited availability.</description>
+      </available>
+      <style>
+        <id>101</id>
+        <categoryId>8</categoryId>
+        <category>
+          <id>8</id>
+          <name>North American Lager</name>
+          <createDate>2012-03-21 20:06:46</createDate>
+        </category>
+        <name>American-Style Amber Lager</name>
+        <shortName>American Amber Lager</shortName>
+        <description>American-style amber lagers are light amber to amber or copper colored. They are medium bodied. There is a noticeable degree of caramel-type malt character in flavor and often in aroma. This is a broad category in which the hop bitterness, flavor, and aroma may be accentuated or may only be present at relatively low levels, yet noticeable. Fruity esters, diacetyl, and chill haze should be absent.</description>
+        <ibuMin>18</ibuMin>
+        <ibuMax>30</ibuMax>
+        <abvMin>4.8</abvMin>
+        <abvMax>5.4</abvMax>
+        <srmMin>6</srmMin>
+        <srmMax>14</srmMax>
+        <ogMin>1.042</ogMin>
+        <fgMin>1.01</fgMin>
+        <fgMax>1.018</fgMax>
+        <createDate>2012-03-21 20:06:46</createDate>
+        <updateDate>2015-04-07 15:41:26</updateDate>
+      </style>
+    </item>
+    <item>
+      <id>jjIwuS</id>
+      <name>Budweiser Prohibition Brew</name>
+      <nameDisplay>Budweiser Prohibition Brew</nameDisplay>
+      <description>When you need something done right, you have to do it yourself. Budweiser Prohibition Brew is a non-alcoholic beer that actually tastes like beer. All the crisp, clean taste you&#8217;ve come to expect from Budweiser. Brewed to the same standards you&#8217;ve come to expect from Budweiser.</description>
+      <abv>0.5</abv>
+      <styleId>139</styleId>
+      <isOrganic>N</isOrganic>
+      <isRetired>N</isRetired>
+      <status>verified</status>
+      <statusDisplay>Verified</statusDisplay>
+      <createDate>2018-02-19 19:21:18</createDate>
+      <updateDate>2018-11-02 02:15:14</updateDate>
+      <style>
+        <id>139</id>
+        <categoryId>11</categoryId>
+        <category>
+          <id>11</id>
+          <name>Hybrid/mixed Beer</name>
+          <createDate>2012-03-21 20:06:46</createDate>
+        </category>
+        <name>Non-Alcoholic (Beer) Malt Beverages</name>
+        <shortName>Non-Alcoholic</shortName>
+        <description>Non-alcoholic (NA) malt beverages should emulate the character of a previously listed category/subcategory designation but without the alcohol (less than 0.5 percent). Non-alcoholic (beer) malt beverages will inherently have a profile lacking the complexity and balance of flavors which can be attributed to alcohol. They should accordingly not be assessed negatively for reasons related to the absence of alcohol.</description>
+        <createDate>2012-03-21 20:06:46</createDate>
+        <updateDate>2015-04-07 15:47:18</updateDate>
+      </style>
+    </item>
+    <item>
+      <id>G2Vi1J</id>
+      <name>Budweiser Select</name>
+      <nameDisplay>Budweiser Select</nameDisplay>
+      <description>Bud Select is a new beer offering a bold taste with a full and distinct flavor that finishes clean. Budweiser Select was developed using two-row and roasted specialty malts for a rich color. It offers excellent drinkability and a taste that does not linger.</description>
+      <abv>4.3</abv>
+      <glasswareId>5</glasswareId>
+      <styleId>94</styleId>
+      <isOrganic>N</isOrganic>
+      <isRetired>N</isRetired>
+      <labels>
+        <icon>https://brewerydb-images.s3.amazonaws.com/beer/G2Vi1J/upload_2AxUEB-icon.png</icon>
+        <medium>https://brewerydb-images.s3.amazonaws.com/beer/G2Vi1J/upload_2AxUEB-medium.png</medium>
+        <large>https://brewerydb-images.s3.amazonaws.com/beer/G2Vi1J/upload_2AxUEB-large.png</large>
+        <contentAwareIcon>https://brewerydb-images.s3.amazonaws.com/beer/G2Vi1J/upload_2AxUEB-contentAwareIcon.png</contentAwareIcon>
+        <contentAwareMedium>https://brewerydb-images.s3.amazonaws.com/beer/G2Vi1J/upload_2AxUEB-contentAwareMedium.png</contentAwareMedium>
+        <contentAwareLarge>https://brewerydb-images.s3.amazonaws.com/beer/G2Vi1J/upload_2AxUEB-contentAwareLarge.png</contentAwareLarge>
+      </labels>
+      <status>verified</status>
+      <statusDisplay>Verified</statusDisplay>
+      <createDate>2012-01-03 02:42:55</createDate>
+      <updateDate>2018-11-02 02:15:14</updateDate>
+      <glass>
+        <id>5</id>
+        <name>Pint</name>
+        <createDate>2012-01-03 02:41:33</createDate>
+      </glass>
+      <style>
+        <id>94</id>
+        <categoryId>8</categoryId>
+        <category>
+          <id>8</id>
+          <name>North American Lager</name>
+          <createDate>2012-03-21 20:06:46</createDate>
+        </category>
+        <name>American-Style Light (Low Calorie) Lager</name>
+        <shortName>American Light Lager</shortName>
+        <description>These beers are extremely light colored, light in body, and high in carbonation. Calorie level should not exceed 125 per 12 ounce serving. Corn, rice, or other grain or sugar adjuncts are often used. Flavor is mild and hop bitterness and aroma is negligible to very low. Light fruity esters are acceptable. Chill haze and diacetyl should be absent.</description>
+        <ibuMin>5</ibuMin>
+        <ibuMax>10</ibuMax>
+        <abvMin>3.5</abvMin>
+        <abvMax>4.4</abvMax>
+        <srmMin>2</srmMin>
+        <srmMax>4</srmMax>
+        <ogMin>1.024</ogMin>
+        <fgMin>1.002</fgMin>
+        <fgMax>1.008</fgMax>
+        <createDate>2012-03-21 20:06:46</createDate>
+        <updateDate>2015-04-07 15:39:35</updateDate>
+      </style>
+    </item>
+    <item>
+      <id>BbrPm8</id>
+      <name>Buffalo Trace Aged Scotch Ale</name>
+      <nameDisplay>Buffalo Trace Aged Scotch Ale</nameDisplay>
+      <description>Sierra Nevada&#8217;s traditionally styled Scotch Ale is deep red in color, possessing a strong malt flavor with a very light hop character derived from the English hops used. Though medium bodied, this sweet ale is rather potent at 7.3% ABV. To add even more character to this beer, we aged it in bourbon barrels for eight months.</description>
+      <abv>11.1</abv>
+      <styleId>15</styleId>
+      <isOrganic>N</isOrganic>
+      <isRetired>N</isRetired>
+      <status>verified</status>
+      <statusDisplay>Verified</statusDisplay>
+      <createDate>2016-10-19 19:34:12</createDate>
+      <updateDate>2018-11-02 02:15:14</updateDate>
+      <style>
+        <id>15</id>
+        <categoryId>1</categoryId>
+        <category>
+          <id>1</id>
+          <name>British Origin Ales</name>
+          <createDate>2012-03-21 20:06:45</createDate>
+        </category>
+        <name>Scotch Ale</name>
+        <shortName>Scotch Ale</shortName>
+        <description>Scotch ales are overwhelmingly malty and full-bodied. Perception of hop bitterness is very low. Hop flavor and aroma are very low or nonexistent. Color ranges from deep copper to brown. The clean alcohol flavor balances the rich and dominant sweet maltiness in flavor and aroma. A caramel character is often a part of the profile. Dark roasted malt flavors and aroma may be evident at low levels. If present, fruity esters are generally at low aromatic and flavor levels. Low diacetyl levels are acceptable. Chill haze is allowable at cold temperatures. Though there is little evidence suggesting that traditionally made strong Scotch ales exhibited peat smoke character, the current marketplace offers many Scotch Ales with peat or smoke character present at low to medium levels. Thus a peaty/smoky character may be evident at low levels (ales with medium or higher smoke character would be considered a smoke flavored beer and considered in another category). Scotch Ales may be split into two subcategories: Traditional (no smoke character) and Peated (low level of peat smoke character).</description>
+        <ibuMin>25</ibuMin>
+        <ibuMax>35</ibuMax>
+        <abvMin>6.2</abvMin>
+        <abvMax>8</abvMax>
+        <srmMin>15</srmMin>
+        <srmMax>30</srmMax>
+        <ogMin>1.072</ogMin>
+        <fgMin>1.016</fgMin>
+        <fgMax>1.028</fgMax>
+        <createDate>2012-03-21 20:06:45</createDate>
+        <updateDate>2015-04-07 15:21:11</updateDate>
+      </style>
+    </item>
+    <item>
+      <id>jnOm9n</id>
+      <name>Buffalo Trace Barrel-Aged Bearwalker</name>
+      <nameDisplay>Buffalo Trace Barrel-Aged Bearwalker</nameDisplay>
+      <styleId>134</styleId>
+      <isOrganic>Y</isOrganic>
+      <isRetired>N</isRetired>
+      <status>verified</status>
+      <statusDisplay>Verified</statusDisplay>
+      <createDate>2015-07-14 21:24:28</createDate>
+      <updateDate>2018-11-02 02:15:14</updateDate>
+      <style>
+        <id>134</id>
+        <categoryId>11</categoryId>
+        <category>
+          <id>11</id>
+          <name>Hybrid/mixed Beer</name>
+          <createDate>2012-03-21 20:06:46</createDate>
+        </category>
+        <name>Wood- and Barrel-Aged Dark Beer</name>
+        <shortName>BBL Aged Dark</shortName>
+        <description>Any classic style or unique experimental style of dark beer can be wood or barrel-aged for a period of time in a wooden barrel or in contact with wood. This beer is aged with the intention of imparting the particularly unique character of the wood and/or what has previously been in the barrel. New wood character can be characterized as a complex blend of vanillin and/or other unique wood character but wood-aged is not necessarily synonymous with imparting wood-flavors. Used sherry, rum, bourbon, scotch, port, wine and other barrels are often used, imparting complexity and uniqueness to beer. Ultimately a balance of flavor, aroma and mouthfeel are sought with the marriage of new beer with wood and/or barrel flavors. Primary character of the beer style may or may not be apparent. Sour wood-aged beer of any color is outlined in other categories. Dark fruited or spiced beer would also be appropriately entered in this category. Beers in this style may or may not have Brettanomyces character.  The brewer should explain the special nature of the beer to allow for accurate judging. Comments could include: type of wood used (new or old, oak or other wood type), type of barrel used (new, port/ whiskey/ wine/ sherry/ other), base beer style or achieved character. Beer entries not accompanied by this information will be at a disadvantage during judging.</description>
+        <abvMin>3.75</abvMin>
+        <abvMax>6.5</abvMax>
+        <createDate>2012-03-21 20:06:46</createDate>
+        <updateDate>2015-04-07 15:46:44</updateDate>
+      </style>
+    </item>
+    <item>
+      <id>dRIuaV</id>
+      <name>Bulleit Bourbon Ten Fidy</name>
+      <nameDisplay>Bulleit Bourbon Ten Fidy</nameDisplay>
+      <styleId>24</styleId>
+      <isOrganic>N</isOrganic>
+      <isRetired>N</isRetired>
+      <status>verified</status>
+      <statusDisplay>Verified</statusDisplay>
+      <createDate>2016-02-10 22:23:56</createDate>
+      <updateDate>2018-11-02 02:15:14</updateDate>
+      <style>
+        <id>24</id>
+        <categoryId>2</categoryId>
+        <category>
+          <id>2</id>
+          <name>Irish Origin Ales</name>
+          <createDate>2012-03-21 20:06:45</createDate>
+        </category>
+        <name>Foreign (Export)-Style Stout</name>
+        <shortName>Export Stout</shortName>
+        <description>As with classic dry stouts, foreign-style stouts have an initial malt sweetness and caramel flavor with a distinctive dry-roasted bitterness in the finish. Coffee-like roasted barley and roasted malt aromas are prominent. Some slight acidity is permissible and a medium- to full-bodied mouthfeel is appropriate. Bitterness may be high but the perception is often compromised by malt sweetness. Hop aroma and flavor should not be perceived. The perception of fruity esters is low. Diacetyl (butterscotch) should be negligible or not perceived. Head retention is excellent.</description>
+        <ibuMin>30</ibuMin>
+        <ibuMax>60</ibuMax>
+        <abvMin>5.7</abvMin>
+        <abvMax>9.3</abvMax>
+        <srmMin>40</srmMin>
+        <srmMax>40</srmMax>
+        <ogMin>1.052</ogMin>
+        <fgMin>1.008</fgMin>
+        <fgMax>1.02</fgMax>
+        <createDate>2012-03-21 20:06:45</createDate>
+        <updateDate>2015-04-07 15:23:58</updateDate>
+      </style>
+    </item>
+    <item>
+      <id>5ON8OO</id>
+      <name>Bulleit Bourbon Ten Fidy</name>
+      <nameDisplay>Bulleit Bourbon Ten Fidy (2013)</nameDisplay>
+      <abv>11</abv>
+      <availableId>2</availableId>
+      <styleId>24</styleId>
+      <isOrganic>N</isOrganic>
+      <isRetired>N</isRetired>
+      <year>2013</year>
+      <status>verified</status>
+      <statusDisplay>Verified</statusDisplay>
+      <createDate>2016-02-12 01:09:29</createDate>
+      <updateDate>2018-11-02 02:15:14</updateDate>
+      <available>
+        <id>2</id>
+        <name>Limited</name>
+        <description>Limited availability.</description>
+      </available>
+      <style>
+        <id>24</id>
+        <categoryId>2</categoryId>
+        <category>
+          <id>2</id>
+          <name>Irish Origin Ales</name>
+          <createDate>2012-03-21 20:06:45</createDate>
+        </category>
+        <name>Foreign (Export)-Style Stout</name>
+        <shortName>Export Stout</shortName>
+        <description>As with classic dry stouts, foreign-style stouts have an initial malt sweetness and caramel flavor with a distinctive dry-roasted bitterness in the finish. Coffee-like roasted barley and roasted malt aromas are prominent. Some slight acidity is permissible and a medium- to full-bodied mouthfeel is appropriate. Bitterness may be high but the perception is often compromised by malt sweetness. Hop aroma and flavor should not be perceived. The perception of fruity esters is low. Diacetyl (butterscotch) should be negligible or not perceived. Head retention is excellent.</description>
+        <ibuMin>30</ibuMin>
+        <ibuMax>60</ibuMax>
+        <abvMin>5.7</abvMin>
+        <abvMax>9.3</abvMax>
+        <srmMin>40</srmMin>
+        <srmMax>40</srmMax>
+        <ogMin>1.052</ogMin>
+        <fgMin>1.008</fgMin>
+        <fgMax>1.02</fgMax>
+        <createDate>2012-03-21 20:06:45</createDate>
+        <updateDate>2015-04-07 15:23:58</updateDate>
+      </style>
+    </item>
+    <item>
+      <id>QhHBBX</id>
+      <name>Busch</name>
+      <nameDisplay>Busch</nameDisplay>
+      <description>Busch offers a refreshingly smooth taste. Since being introduced regionally in 1955, the Busch beer brand family has grown to become one of the top-selling value beer brand families. Busch also holds a noted place in Anheuser-Busch history as the first new brand after the repeal of Prohibition.</description>
+      <abv>4.6</abv>
+      <glasswareId>5</glasswareId>
+      <srmId>2</srmId>
+      <availableId>1</availableId>
+      <styleId>93</styleId>
+      <isOrganic>N</isOrganic>
+      <isRetired>N</isRetired>
+      <labels>
+        <icon>https://brewerydb-images.s3.amazonaws.com/beer/QhHBBX/upload_4P1h7A-icon.png</icon>
+        <medium>https://brewerydb-images.s3.amazonaws.com/beer/QhHBBX/upload_4P1h7A-medium.png</medium>
+        <large>https://brewerydb-images.s3.amazonaws.com/beer/QhHBBX/upload_4P1h7A-large.png</large>
+        <contentAwareIcon>https://brewerydb-images.s3.amazonaws.com/beer/QhHBBX/upload_4P1h7A-contentAwareIcon.png</contentAwareIcon>
+        <contentAwareMedium>https://brewerydb-images.s3.amazonaws.com/beer/QhHBBX/upload_4P1h7A-contentAwareMedium.png</contentAwareMedium>
+        <contentAwareLarge>https://brewerydb-images.s3.amazonaws.com/beer/QhHBBX/upload_4P1h7A-contentAwareLarge.png</contentAwareLarge>
+      </labels>
+      <status>verified</status>
+      <statusDisplay>Verified</statusDisplay>
+      <servingTemperature>very_cold</servingTemperature>
+      <servingTemperatureDisplay>Very Cold - (0-4C/32-39F)</servingTemperatureDisplay>
+      <createDate>2012-08-29 17:50:28</createDate>
+      <updateDate>2018-11-02 02:15:14</updateDate>
+      <glass>
+        <id>5</id>
+        <name>Pint</name>
+        <createDate>2012-01-03 02:41:33</createDate>
+      </glass>
+      <srm>
+        <id>2</id>
+        <name>2</name>
+        <hex>FFD878</hex>
+      </srm>
+      <available>
+        <id>1</id>
+        <name>Year Round</name>
+        <description>Available year round as a staple beer.</description>
+      </available>
+      <style>
+        <id>93</id>
+        <categoryId>8</categoryId>
+        <category>
+          <id>8</id>
+          <name>North American Lager</name>
+          <createDate>2012-03-21 20:06:46</createDate>
+        </category>
+        <name>American-Style Lager</name>
+        <shortName>American Lager</shortName>
+        <description>Light in body and very light to straw in color, American lagers are very clean and crisp and aggressively carbonated. Flavor components should b e subtle and complex, with no one ingredient dominating the others. Malt sweetness is light to mild. Corn, rice, or other grain or sugar adjuncts are often used. Hop bitterness, flavor and aroma are negligible to very light. Light fruity esters are acceptable. Chill haze and diacetyl should be absent.</description>
+        <ibuMin>5</ibuMin>
+        <ibuMax>13</ibuMax>
+        <abvMin>3.8</abvMin>
+        <abvMax>5</abvMax>
+        <srmMin>2</srmMin>
+        <srmMax>4</srmMax>
+        <ogMin>1.04</ogMin>
+        <fgMin>1.006</fgMin>
+        <fgMax>1.01</fgMax>
+        <createDate>2012-03-21 20:06:46</createDate>
+        <updateDate>2015-04-07 15:39:26</updateDate>
+      </style>
+    </item>
+    <item>
+      <id>fKinUP</id>
+      <name>Busch Ice</name>
+      <nameDisplay>Busch Ice</nameDisplay>
+      <description>Busch Ice has a rich, smooth taste with exceptional drinkability and a slightly sweet finish. Busch Ice undergoes Anheuser-Busch&amp;apos;s exclusive ice-brewing process, which takes the beer to a temperature below freezing. This leads to the formation of ice crystals in the finishing process, which help create its rich, smooth taste.</description>
+      <abv>5.9</abv>
+      <glasswareId>5</glasswareId>
+      <srmId>2</srmId>
+      <availableId>1</availableId>
+      <styleId>99</styleId>
+      <isOrganic>N</isOrganic>
+      <isRetired>N</isRetired>
+      <labels>
+        <icon>https://brewerydb-images.s3.amazonaws.com/beer/fKinUP/upload_18XPpH-icon.png</icon>
+        <medium>https://brewerydb-images.s3.amazonaws.com/beer/fKinUP/upload_18XPpH-medium.png</medium>
+        <large>https://brewerydb-images.s3.amazonaws.com/beer/fKinUP/upload_18XPpH-large.png</large>
+        <contentAwareIcon>https://brewerydb-images.s3.amazonaws.com/beer/fKinUP/upload_18XPpH-contentAwareIcon.png</contentAwareIcon>
+        <contentAwareMedium>https://brewerydb-images.s3.amazonaws.com/beer/fKinUP/upload_18XPpH-contentAwareMedium.png</contentAwareMedium>
+        <contentAwareLarge>https://brewerydb-images.s3.amazonaws.com/beer/fKinUP/upload_18XPpH-contentAwareLarge.png</contentAwareLarge>
+      </labels>
+      <status>verified</status>
+      <statusDisplay>Verified</statusDisplay>
+      <servingTemperature>very_cold</servingTemperature>
+      <servingTemperatureDisplay>Very Cold - (0-4C/32-39F)</servingTemperatureDisplay>
+      <createDate>2012-08-29 17:58:10</createDate>
+      <updateDate>2018-11-02 02:15:14</updateDate>
+      <glass>
+        <id>5</id>
+        <name>Pint</name>
+        <createDate>2012-01-03 02:41:33</createDate>
+      </glass>
+      <srm>
+        <id>2</id>
+        <name>2</name>
+        <hex>FFD878</hex>
+      </srm>
+      <available>
+        <id>1</id>
+        <name>Year Round</name>
+        <description>Available year round as a staple beer.</description>
+      </available>
+      <style>
+        <id>99</id>
+        <categoryId>8</categoryId>
+        <category>
+          <id>8</id>
+          <name>North American Lager</name>
+          <createDate>2012-03-21 20:06:46</createDate>
+        </category>
+        <name>American-Style Ice Lager</name>
+        <shortName>American Ice Lager</shortName>
+        <description>This style is slightly higher in alcohol than most other light-colored, American-style lagers. Its body is low to medium and has low residual malt sweetness. It has few or no adjuncts. Color is very pale to golden. Hop bitterness is low but certainly perceptible. Hop aroma and flavor are low. Chill haze, fruity esters, and diacetyl should not be perceived. Typically these beers are chilled before filtration so that ice crystals (which may or may not be removed) are formed. This can contribute to a higher alcohol content (up to 0.5% more).</description>
+        <ibuMin>7</ibuMin>
+        <ibuMax>20</ibuMax>
+        <abvMin>4.75</abvMin>
+        <abvMax>6.25</abvMax>
+        <srmMin>2</srmMin>
+        <srmMax>8</srmMax>
+        <ogMin>1.04</ogMin>
+        <fgMin>1.006</fgMin>
+        <fgMax>1.014</fgMax>
+        <createDate>2012-03-21 20:06:46</createDate>
+        <updateDate>2015-04-07 15:40:16</updateDate>
+      </style>
+    </item>
+    <item>
+      <id>30zzKy</id>
+      <name>Busch Light</name>
+      <nameDisplay>Busch Light</nameDisplay>
+      <description>Busch Light offers a light, balanced flavor, with fewer calories. It has a pleasant hop aroma and a smooth, slightly sweet finish.</description>
+      <abv>4.1</abv>
+      <glasswareId>5</glasswareId>
+      <srmId>1</srmId>
+      <availableId>1</availableId>
+      <styleId>94</styleId>
+      <isOrganic>N</isOrganic>
+      <isRetired>N</isRetired>
+      <labels>
+        <icon>https://brewerydb-images.s3.amazonaws.com/beer/30zzKy/upload_GD2Jnj-icon.png</icon>
+        <medium>https://brewerydb-images.s3.amazonaws.com/beer/30zzKy/upload_GD2Jnj-medium.png</medium>
+        <large>https://brewerydb-images.s3.amazonaws.com/beer/30zzKy/upload_GD2Jnj-large.png</large>
+        <contentAwareIcon>https://brewerydb-images.s3.amazonaws.com/beer/30zzKy/upload_GD2Jnj-contentAwareIcon.png</contentAwareIcon>
+        <contentAwareMedium>https://brewerydb-images.s3.amazonaws.com/beer/30zzKy/upload_GD2Jnj-contentAwareMedium.png</contentAwareMedium>
+        <contentAwareLarge>https://brewerydb-images.s3.amazonaws.com/beer/30zzKy/upload_GD2Jnj-contentAwareLarge.png</contentAwareLarge>
+      </labels>
+      <status>verified</status>
+      <statusDisplay>Verified</statusDisplay>
+      <servingTemperature>very_cold</servingTemperature>
+      <servingTemperatureDisplay>Very Cold - (0-4C/32-39F)</servingTemperatureDisplay>
+      <createDate>2012-08-29 17:53:58</createDate>
+      <updateDate>2018-11-02 02:15:14</updateDate>
+      <glass>
+        <id>5</id>
+        <name>Pint</name>
+        <createDate>2012-01-03 02:41:33</createDate>
+      </glass>
+      <srm>
+        <id>1</id>
+        <name>1</name>
+        <hex>FFE699</hex>
+      </srm>
+      <available>
+        <id>1</id>
+        <name>Year Round</name>
+        <description>Available year round as a staple beer.</description>
+      </available>
+      <style>
+        <id>94</id>
+        <categoryId>8</categoryId>
+        <category>
+          <id>8</id>
+          <name>North American Lager</name>
+          <createDate>2012-03-21 20:06:46</createDate>
+        </category>
+        <name>American-Style Light (Low Calorie) Lager</name>
+        <shortName>American Light Lager</shortName>
+        <description>These beers are extremely light colored, light in body, and high in carbonation. Calorie level should not exceed 125 per 12 ounce serving. Corn, rice, or other grain or sugar adjuncts are often used. Flavor is mild and hop bitterness and aroma is negligible to very low. Light fruity esters are acceptable. Chill haze and diacetyl should be absent.</description>
+        <ibuMin>5</ibuMin>
+        <ibuMax>10</ibuMax>
+        <abvMin>3.5</abvMin>
+        <abvMax>4.4</abvMax>
+        <srmMin>2</srmMin>
+        <srmMax>4</srmMax>
+        <ogMin>1.024</ogMin>
+        <fgMin>1.002</fgMin>
+        <fgMax>1.008</fgMax>
+        <createDate>2012-03-21 20:06:46</createDate>
+        <updateDate>2015-04-07 15:39:35</updateDate>
+      </style>
+    </item>
+    <item>
+      <id>vNwXnT</id>
+      <name>Busch Signature Copper Lager</name>
+      <nameDisplay>Busch Signature Copper Lager</nameDisplay>
+      <description>Busch Signature Copper Lager satisfies the needs of value consumers who are looking for a beer with slightly more flavor that still finishes smooth for those slightly more special occasions.</description>
+      <abv>5.7</abv>
+      <glasswareId>5</glasswareId>
+      <srmId>15</srmId>
+      <availableId>1</availableId>
+      <styleId>93</styleId>
+      <isOrganic>N</isOrganic>
+      <isRetired>N</isRetired>
+      <labels>
+        <icon>https://brewerydb-images.s3.amazonaws.com/beer/vNwXnT/upload_gMxCM7-icon.png</icon>
+        <medium>https://brewerydb-images.s3.amazonaws.com/beer/vNwXnT/upload_gMxCM7-medium.png</medium>
+        <large>https://brewerydb-images.s3.amazonaws.com/beer/vNwXnT/upload_gMxCM7-large.png</large>
+        <contentAwareIcon>https://brewerydb-images.s3.amazonaws.com/beer/vNwXnT/upload_gMxCM7-contentAwareIcon.png</contentAwareIcon>
+        <contentAwareMedium>https://brewerydb-images.s3.amazonaws.com/beer/vNwXnT/upload_gMxCM7-contentAwareMedium.png</contentAwareMedium>
+        <contentAwareLarge>https://brewerydb-images.s3.amazonaws.com/beer/vNwXnT/upload_gMxCM7-contentAwareLarge.png</contentAwareLarge>
+      </labels>
+      <status>verified</status>
+      <statusDisplay>Verified</statusDisplay>
+      <servingTemperature>cold</servingTemperature>
+      <servingTemperatureDisplay>Cold - (4-7C/39-45F)</servingTemperatureDisplay>
+      <createDate>2013-11-26 13:07:23</createDate>
+      <updateDate>2018-11-02 02:15:14</updateDate>
+      <glass>
+        <id>5</id>
+        <name>Pint</name>
+        <createDate>2012-01-03 02:41:33</createDate>
+      </glass>
+      <srm>
+        <id>15</id>
+        <name>15</name>
+        <hex>BB5100</hex>
+      </srm>
+      <available>
+        <id>1</id>
+        <name>Year Round</name>
+        <description>Available year round as a staple beer.</description>
+      </available>
+      <style>
+        <id>93</id>
+        <categoryId>8</categoryId>
+        <category>
+          <id>8</id>
+          <name>North American Lager</name>
+          <createDate>2012-03-21 20:06:46</createDate>
+        </category>
+        <name>American-Style Lager</name>
+        <shortName>American Lager</shortName>
+        <description>Light in body and very light to straw in color, American lagers are very clean and crisp and aggressively carbonated. Flavor components should b e subtle and complex, with no one ingredient dominating the others. Malt sweetness is light to mild. Corn, rice, or other grain or sugar adjuncts are often used. Hop bitterness, flavor and aroma are negligible to very light. Light fruity esters are acceptable. Chill haze and diacetyl should be absent.</description>
+        <ibuMin>5</ibuMin>
+        <ibuMax>13</ibuMax>
+        <abvMin>3.8</abvMin>
+        <abvMax>5</abvMax>
+        <srmMin>2</srmMin>
+        <srmMax>4</srmMax>
+        <ogMin>1.04</ogMin>
+        <fgMin>1.006</fgMin>
+        <fgMax>1.01</fgMax>
+        <createDate>2012-03-21 20:06:46</createDate>
+        <updateDate>2015-04-07 15:39:26</updateDate>
+      </style>
+    </item>
+    <item>
+      <id>zYJxUM</id>
+      <name>Cabin Fever</name>
+      <nameDisplay>Cabin Fever</nameDisplay>
+      <description>Cabin Fever is a roasty brown ale and a hearty, comforting companion for long, mind-bending winters.</description>
+      <abv>6.5</abv>
+      <ibu>25</ibu>
+      <glasswareId>5</glasswareId>
+      <srmId>40</srmId>
+      <availableId>4</availableId>
+      <styleId>37</styleId>
+      <isOrganic>N</isOrganic>
+      <isRetired>N</isRetired>
+      <labels>
+        <icon>https://brewerydb-images.s3.amazonaws.com/beer/zYJxUM/upload_aNOpoi-icon.png</icon>
+        <medium>https://brewerydb-images.s3.amazonaws.com/beer/zYJxUM/upload_aNOpoi-medium.png</medium>
+        <large>https://brewerydb-images.s3.amazonaws.com/beer/zYJxUM/upload_aNOpoi-large.png</large>
+        <contentAwareIcon>https://brewerydb-images.s3.amazonaws.com/beer/zYJxUM/upload_aNOpoi-contentAwareIcon.png</contentAwareIcon>
+        <contentAwareMedium>https://brewerydb-images.s3.amazonaws.com/beer/zYJxUM/upload_aNOpoi-contentAwareMedium.png</contentAwareMedium>
+        <contentAwareLarge>https://brewerydb-images.s3.amazonaws.com/beer/zYJxUM/upload_aNOpoi-contentAwareLarge.png</contentAwareLarge>
+      </labels>
+      <status>verified</status>
+      <statusDisplay>Verified</statusDisplay>
+      <foodPairings>Roasted meats, dried fruits, gruyere and smoked cheese.</foodPairings>
+      <servingTemperature>cold</servingTemperature>
+      <servingTemperatureDisplay>Cold - (4-7C/39-45F)</servingTemperatureDisplay>
+      <originalGravity>1.065</originalGravity>
+      <createDate>2012-01-03 02:42:56</createDate>
+      <updateDate>2018-11-02 02:15:14</updateDate>
+      <glass>
+        <id>5</id>
+        <name>Pint</name>
+        <createDate>2012-01-03 02:41:33</createDate>
+      </glass>
+      <srm>
+        <id>40</id>
+        <name>40</name>
+        <hex>36080A</hex>
+      </srm>
+      <available>
+        <id>4</id>
+        <name>Seasonal</name>
+        <description>Available at the same time of year, every year.</description>
+      </available>
+      <style>
+        <id>37</id>
+        <categoryId>3</categoryId>
+        <category>
+          <id>3</id>
+          <name>North American Origin Ales</name>
+          <createDate>2012-03-21 20:06:45</createDate>
+        </category>
+        <name>American-Style Brown Ale</name>
+        <shortName>American Brown</shortName>
+        <description>American brown ales range from deep copper to brown in color. Roasted malt caramel-like and chocolate-like characters should be of medium intensity in both flavor and aroma. American brown ales have evident low to medium hop flavor and aroma, medium to high hop bitterness, and a medium body. Estery and fruity-ester characters should be subdued. Diacetyl should not be perceived. Chill haze is allowable at cold temperatures.</description>
+        <ibuMin>25</ibuMin>
+        <ibuMax>45</ibuMax>
+        <abvMin>4</abvMin>
+        <abvMax>6.4</abvMax>
+        <srmMin>15</srmMin>
+        <srmMax>26</srmMax>
+        <ogMin>1.04</ogMin>
+        <fgMin>1.01</fgMin>
+        <fgMax>1.018</fgMax>
+        <createDate>2012-03-21 20:06:46</createDate>
+        <updateDate>2015-04-07 15:27:35</updateDate>
+      </style>
+    </item>
+    <item>
+      <id>9OyQXs</id>
+      <name>California Black Beer</name>
+      <nameDisplay>California Black Beer</nameDisplay>
+      <description>A deceptively light bodied dark beer.  This is a refreshing beer with a macho color.  The emphasis is on the malts: light caramel notes with a finish that hints at chocolate and coffee. Ends dry in the mouth.</description>
+      <abv>4.9</abv>
+      <ibu>10</ibu>
+      <glasswareId>5</glasswareId>
+      <srmId>19</srmId>
+      <availableId>1</availableId>
+      <styleId>103</styleId>
+      <isOrganic>N</isOrganic>
+      <isRetired>N</isRetired>
+      <labels>
+        <icon>https://brewerydb-images.s3.amazonaws.com/beer/9OyQXs/upload_zYaABP-icon.png</icon>
+        <medium>https://brewerydb-images.s3.amazonaws.com/beer/9OyQXs/upload_zYaABP-medium.png</medium>
+        <large>https://brewerydb-images.s3.amazonaws.com/beer/9OyQXs/upload_zYaABP-large.png</large>
+        <contentAwareIcon>https://brewerydb-images.s3.amazonaws.com/beer/9OyQXs/upload_zYaABP-contentAwareIcon.png</contentAwareIcon>
+        <contentAwareMedium>https://brewerydb-images.s3.amazonaws.com/beer/9OyQXs/upload_zYaABP-contentAwareMedium.png</contentAwareMedium>
+        <contentAwareLarge>https://brewerydb-images.s3.amazonaws.com/beer/9OyQXs/upload_zYaABP-contentAwareLarge.png</contentAwareLarge>
+      </labels>
+      <status>verified</status>
+      <statusDisplay>Verified</statusDisplay>
+      <foodPairings>BBQ and red meats, cheeses.</foodPairings>
+      <servingTemperature>cold</servingTemperature>
+      <servingTemperatureDisplay>Cold - (4-7C/39-45F)</servingTemperatureDisplay>
+      <originalGravity>1.05</originalGravity>
+      <createDate>2014-09-10 16:30:18</createDate>
+      <updateDate>2018-11-02 02:15:14</updateDate>
+      <glass>
+        <id>5</id>
+        <name>Pint</name>
+        <createDate>2012-01-03 02:41:33</createDate>
+      </glass>
+      <srm>
+        <id>19</id>
+        <name>19</name>
+        <hex>A13700</hex>
+      </srm>
+      <available>
+        <id>1</id>
+        <name>Year Round</name>
+        <description>Available year round as a staple beer.</description>
+      </available>
+      <style>
+        <id>103</id>
+        <categoryId>8</categoryId>
+        <category>
+          <id>8</id>
+          <name>North American Lager</name>
+          <createDate>2012-03-21 20:06:46</createDate>
+        </category>
+        <name>American-Style Dark Lager</name>
+        <shortName>American Dark Lager</shortName>
+        <description>This beer&amp;apos;s malt aroma and flavor are low but notable. Its color ranges from a very deep copper to a deep, dark brown. It has a clean, light body with discreet contributions from caramel and roasted malts. Non-malt adjuncts are often used, and hop rates are low. Hop bitterness is clean and has a short duration of impact. Hop flavor, and aroma are low. Carbonation is high. Fruity esters, diacetyl, and chill haze should not be perceived.</description>
+        <ibuMin>14</ibuMin>
+        <ibuMax>20</ibuMax>
+        <abvMin>4</abvMin>
+        <abvMax>5.5</abvMax>
+        <srmMin>14</srmMin>
+        <srmMax>25</srmMax>
+        <ogMin>1.04</ogMin>
+        <fgMin>1.008</fgMin>
+        <fgMax>1.012</fgMax>
+        <createDate>2012-03-21 20:06:46</createDate>
+        <updateDate>2015-04-07 15:41:42</updateDate>
+      </style>
+    </item>
+  </data>
+  <status>success</status>
+</root>
