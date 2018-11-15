@@ -19,7 +19,7 @@ the beer, the IBU of the beer, and the style of the beer.
 */
 
 // Functions from DataParse.cu
-std::map<std::string, std::vector<float> > dataConversion(std::map<std::string, std::vector<std::string> > rawData);
+std::map<std::string, std::vector<float> > dataConversion(std::map<std::string, std::vector<std::string> > rawData, std::vector<std::string> tags_internal);
 
 class Data {
 public:

@@ -49,6 +49,7 @@ Data::Data(bool refresh) {
         //printf("Found %s\n", ent->d_name);
         dirs.push_back(ent->d_name);
     }
+    closedir(dir);
 
     std::map<std::string, std::vector<std::string> > rawData;
     for (uint i = 0; i < dirs.size(); i++) {
@@ -95,10 +96,20 @@ Data::Data(bool refresh) {
         }
     }
 
+    
+    std::vector<std::string> tags_internal;
+    std::ifstream file("tags.csv");
+    if (file.is_open()) {
+        std::string line;
+        while (getline(file, line)) {
+            tags_internal.push_back(line);
+        }
+        file.close();
+    }
+
     // char** tags and char** rawData
-    std::map<std::string, std::vector<float> > convertedData = dataConversion(rawData);
+    std::map<std::string, std::vector<float> > convertedData = dataConversion(rawData, tags_internal);
 }
 
 Data::~Data() {
-
 }

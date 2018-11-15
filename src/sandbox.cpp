@@ -4,5 +4,5 @@
 
 int main(int argc, char *argv[]) {
 	Data* data = new Data();
-
+	delete data;
 }
