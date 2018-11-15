@@ -46,18 +46,18 @@ Data::Data(bool refresh) {
     struct dirent * ent;
     dir = opendir(DATACACHEDIRECTORY);
     while ((ent = readdir(dir)) != NULL) {
-        printf("Found %s\n", ent->d_name);
+        //printf("Found %s\n", ent->d_name);
         dirs.push_back(ent->d_name);
     }
 
     std::map<std::string, std::vector<std::string> > rawData;
-    for (int i = 0; i < dirs.size(); i++) {
+    for (uint i = 0; i < dirs.size(); i++) {
         if (dirs[i].find(".xml") == std::string::npos)
             continue;
         pugi::xml_document doc;
         std::stringstream fileName;
         fileName << DATACACHEDIRECTORY << "/" << dirs[i].c_str();
-        printf("Getting beers from file: %s\n", dirs[i].c_str());
+        //printf("Getting beers from file: %s\n", dirs[i].c_str());
         pugi::xml_parse_result result = doc.load_file(fileName.str().c_str());
         if (!result) {
             printf("Failed to read xml\n");
@@ -67,10 +67,8 @@ Data::Data(bool refresh) {
         pugi::xml_node data = doc.child("root").child("data");
         for (pugi::xml_node beerNode = data.first_child(); beerNode; beerNode = beerNode.next_sibling()) {
             std::vector<std::string> data;
-            if (beerNode.child("name") != NULL) {
-                printf("We found name: %s\n", beerNode.child("name").child_value());
+            if (beerNode.child("name") != NULL)
                 data.push_back(std::string(beerNode.child("name").child_value()));
-            }
             else
                 data.push_back("No Name Found");
             if (beerNode.child("description") != NULL)
@@ -97,7 +95,8 @@ Data::Data(bool refresh) {
         }
     }
 
-    descriptionToTags(rawData);
+    // char** tags and char** rawData
+    std::map<std::string, std::vector<float> > convertedData = dataConversion(rawData);
 }
 
 Data::~Data() {
