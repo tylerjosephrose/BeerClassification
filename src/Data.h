@@ -26,7 +26,12 @@ public:
     Data(bool refresh = false);
     ~Data();
 
+    void print();
+
 private:
     const char* DATACACHEDIRECTORY = "data_cache";
     std::map<std::string, std::string> beerData;
+    std::vector<std::string> y;
+    std::vector< std::vector<float> >x;
+    int numEntries = 0;
 };

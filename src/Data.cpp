@@ -109,7 +109,25 @@ Data::Data(bool refresh) {
 
     // char** tags and char** rawData
     std::map<std::string, std::vector<float> > convertedData = dataConversion(rawData, tags_internal);
+
+    for (std::map<std::string, std::vector<float> >::iterator it = convertedData.begin(); it != convertedData.end(); it++) {
+        y.push_back(it->first);
+        x.push_back(it->second);
+        numEntries++;
+    }
 }
 
 Data::~Data() {
+}
+
+void Data::print() {
+    for (int i = 0; i < numEntries; i++) {
+        printf("%s:", y[i].c_str());
+        for (int j = 0; j < 88; j++) {
+            if (j % 8 == 0)
+                printf(" ");
+            printf("%.0f", x[i][j]);
+        }
+        printf(" %.1f%% ABV %.1f IBU \n", x[i][88], x[i][89]);
+    }
 }
