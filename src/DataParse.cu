@@ -5,6 +5,7 @@
 #include <string>
 #include <vector>
 
+<<<<<<< HEAD
 #define CUDA_ERROR_CHECK
 
 #define CudaSafeCall( err ) __cudaSafeCall( err, __FILE__, __LINE__ )
@@ -24,6 +25,9 @@ inline void __cudaSafeCall( cudaError err, const char *file, const int line )
 }
 
 int getBit(unsigned char *bytes, int bit) {
+=======
+/*int getBit(unsigned char *bytes, int bit) {
+>>>>>>> parent of 65dde08... Added idea to get tags to constant memory
     return ((bytes[(bit/8)] >> (bit % 8)) & 1);
 }
 
@@ -199,6 +203,7 @@ std::map<std::string, std::vector<float> > dataConversion(std::map<std::string, 
 
     // Copy tags to global memory
     CudaSafeCall(cudaMalloc(&d_tags, tags_internal.size()*sizeof(char*)));
+
     char **d_temp_tags;
     d_temp_tags = (char **)malloc(tags_internal.size()*sizeof(char*));
     for (int i = 0; i < tags_internal.size(); i++) {
