@@ -167,14 +167,9 @@ std::map<std::string, std::vector<float> > dataConversion(std::map<std::string, 
     }
 
     // Get Tag data
-    const char* tags = (char*) malloc(sizeof(char) * 20 * tags_internal.size());
-    memset(tags, '\0', 20*tags_internal.size());
-    int i = 0;
-    for (std::set<std::string>::iterator it = tags_internal.begin(); it != tags_internal.end(); ++it) {
-        for (int j = 0; j < 20; j++) {
-            tags[i*20+j] = (*it)[j];
-        }
-        i++;
+    const char** tags = (const char**) malloc(sizeof(char) * 20 * tags_internal.size());
+    for (i = 0; i < tags_internal.size(); i++) {
+        tags[i] = tags_internal[i].c_str();
     }
 
     std::map<std::string, std::vector<float> > results;
@@ -213,10 +208,6 @@ std::map<std::string, std::vector<float> > dataConversion(std::map<std::string, 
         CudaSafeCall(cudaMemcpy(d_tags+i, &(d_temp_tags[i]), sizeof(char *), cudaMemcpyHostToDevice));
     }
     free(d_temp_tags);
-    
-    // Copy tags to constant memory
-    
-    cudaMemcpyToSymbol(c_tags, tags, tags_internal.size()*20, 0, cudaMemcpyHostToDevice);
 
     description_to_tags<<<gridSize, blockSize>>>(d_descs, d_results, rawData.size(), d_tags, tags_internal.size());
 
