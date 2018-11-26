@@ -131,3 +131,42 @@ void Data::print() {
         printf(" %.1f%% ABV %.1f IBU \n", x[i][88], x[i][89]);
     }
 }
+
+float Data::train() {
+    // Split into train and test sets
+    int pctTrain = 80;
+    std::vector<std::string> yTrain;
+    std::vector<std::string> yTest;
+    std::vector< std::vector<std::string> > xTrain;
+    std::vector< std::vector<std::string> > xTest;
+    srand(time(NULL));
+    for (int i = 0; i < numEntries; i++) {
+        if (rand() % 100 < pctTrain) {
+            yTrain.push_back(y[i]);
+            xTrain.push_back(x[i]);
+        } else {
+            yTest.push_back(y[i]);
+            xTest.push_back(x[i]);
+        }
+    }
+
+    // Now use tensorflow for training...following guide at
+    // https://matrices.io/training-a-deep-neural-network-using-only-tensorflow-c/
+    // Create our Tensors
+
+    /*DataSet data_set("/path/normalized_car_features.csv");
+    Tensor x_data(DataTypeToEnum<float>::v(), 
+                TensorShape{static_cast<int>(data_set.x().size())/3, 3});
+    copy_n(data_set.x().begin(), data_set.x().size(),
+        x_data.flat<float>().data());
+
+    Tensor y_data(DataTypeToEnum<float>::v(), 
+                TensorShape{static_cast<int>(data_set.y().size()), 1});
+    copy_n(data_set.y().begin(), data_set.y().size(), 
+        y_data.flat<float>().data());*/
+    Tensor x_data(DataTypeToEnum<float>::v(), TensorShape{xTrain.size(), 90});
+    std::copy_n(xTrain.begin(), xTrain.size(), x_data.flat<float>().data())
+    Tensor y_data(DataTypeToEnum<std::string>::v(), TensorShape{yTrain.size(), 1});
+    std::copy_n(yTrain.begin(), yTrain.size(), y_data.flat<std::string>().data());
+
+}

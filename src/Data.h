@@ -5,11 +5,16 @@
 #include <map>
 #include <sstream>
 #include <stdio.h>
+#include <stdlib.h>
 #include <string.h>
 #include <sys/stat.h>
+#include <time.h>
 #include <vector>
 
 #include "../pugixml/src/pugixml.hpp"
+#include "tensorflow/cc/client/client_session.h"
+#include "tensorflow/cc/ops/standard_ops.h"
+#include "tensorflow/core/framework/tensor.h"
 
 /*
 Data is all the beer data we have stored which contains a map of beers with their data. The key 
@@ -26,6 +31,7 @@ public:
     Data(bool refresh = false);
     ~Data();
 
+    float train();
     void print();
 
 private:
