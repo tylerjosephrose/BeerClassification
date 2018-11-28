@@ -1,0 +1,21 @@
+Sequential Results:
+Pulling useful information from the xml response
+Parsing data into something useful
+Putting 1109 entries into the file
+Calling python to do the actual training
+Training the Network
+2018-11-28 15:30:31.497962: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+loss (hidden nodes: 5, iterations: 2000): 766.28
+loss (hidden nodes: 10, iterations: 2000): 775.63
+loss (hidden nodes: 20, iterations: 2000): 739.92
+Checking accuracy
+Network architecture 4-5-3, accuracy: 13.06%
+Network architecture 4-10-3, accuracy: 14.86%
+Network architecture 4-20-3, accuracy: 10.81%
+Timing Data Sequential:
+	Parsing - 16.000000 seconds
+	Training - 32.000000 seconds
+	Total - 48.000000 seconds
+
+
+

@@ -1,3 +1,6 @@
+#ifndef DATA_H
+#define DATA_H
+
 #include <curl/curl.h>
 #include <dirent.h>
 #include <fstream>
@@ -12,9 +15,7 @@
 #include <vector>
 
 #include "../pugixml/src/pugixml.hpp"
-#include "tensorflow/cc/client/client_session.h"
-#include "tensorflow/cc/ops/standard_ops.h"
-#include "tensorflow/core/framework/tensor.h"
+#include "BeerEntry.h"
 
 /*
 Data is all the beer data we have stored which contains a map of beers with their data. The key 
@@ -24,14 +25,14 @@ the beer, the IBU of the beer, and the style of the beer.
 */
 
 // Functions from DataParse.cu
-std::map<std::string, std::vector<float> > dataConversion(std::map<std::string, std::vector<std::string> > rawData, std::vector<std::string> tags_internal);
+std::vector<BeerEntry> dataConversion(std::map<std::string, std::vector<std::string> > rawData, std::vector<std::string> tags_internal);
 
 class Data {
 public:
     Data(bool refresh = false);
     ~Data();
 
-    float train();
+    void train();
     void print();
 
 private:
@@ -41,3 +42,5 @@ private:
     std::vector< std::vector<float> >x;
     int numEntries = 0;
 };
+
+#endif

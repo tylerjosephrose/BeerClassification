@@ -5,6 +5,8 @@
 #include <string>
 #include <vector>
 
+#include "BeerEntry.h"
+
 #define CUDA_ERROR_CHECK
 
 #define CudaSafeCall( err ) __cudaSafeCall( err, __FILE__, __LINE__ )
@@ -149,12 +151,12 @@ __global__ void description_to_tags(char **d_descs, unsigned char *d_results, in
     }
 }
 
-std::map<std::string, std::vector<float> > dataConversion(std::map<std::string, std::vector<std::string> > rawData, std::vector<std::string> tags_internal) {
+std::vector<BeerEntry> dataConversion(std::map<std::string, std::vector<std::string> > rawData, std::vector<std::string> tags_internal) {
     const char** descData = (const char**) malloc(sizeof(char)*2000*rawData.size());
     // Collected data is other data that we need to return we collect it so we don't need to iterate through the map again and worry about order.
     // The data is the style of the beer, abv, ibu
     std::vector< std::vector<std::string> > collectedData;
-    int i = 0;
+    unsigned int i = 0;
     // Put desc data into char**
     for (std::map<std::string, std::vector<std::string> >::iterator it = rawData.begin(); it != rawData.end(); it++) {
         descData[i] = it->second[1].c_str();
@@ -172,7 +174,7 @@ std::map<std::string, std::vector<float> > dataConversion(std::map<std::string, 
         tags[i] = tags_internal[i].c_str();
     }
 
-    std::map<std::string, std::vector<float> > results;
+    std::vector<BeerEntry> results;
     
     /* Since we have 11Gb of memory on my GPU we don't need to worry about memory...at 
     85*20 bytes for the tags, 2000 bytes per beer for description, 11 bytes per beer for results
@@ -190,7 +192,7 @@ std::map<std::string, std::vector<float> > dataConversion(std::map<std::string, 
     CudaSafeCall(cudaMalloc(&d_descs, rawData.size()*sizeof(char*)));
     char **d_temp_desc;
     d_temp_desc = (char **)malloc(rawData.size()*sizeof(char *));
-    for (int i = 0; i < rawData.size(); i++){
+    for (unsigned int i = 0; i < rawData.size(); i++){
         CudaSafeCall(cudaMalloc(&(d_temp_desc[i]), 2000*sizeof(char)));
         CudaSafeCall(cudaMemcpy(d_temp_desc[i], descData[i], 2000*sizeof(char), cudaMemcpyHostToDevice));
         CudaSafeCall(cudaMemcpy(d_descs+i, &(d_temp_desc[i]), sizeof(char *), cudaMemcpyHostToDevice));
@@ -202,7 +204,7 @@ std::map<std::string, std::vector<float> > dataConversion(std::map<std::string, 
 
     char **d_temp_tags;
     d_temp_tags = (char **)malloc(tags_internal.size()*sizeof(char*));
-    for (int i = 0; i < tags_internal.size(); i++) {
+    for (unsigned int i = 0; i < tags_internal.size(); i++) {
         CudaSafeCall(cudaMalloc(&(d_temp_tags[i]), 20*sizeof(char)));
         CudaSafeCall(cudaMemcpy(d_temp_tags[i], tags[i], 20*sizeof(char), cudaMemcpyHostToDevice));
         CudaSafeCall(cudaMemcpy(d_tags+i, &(d_temp_tags[i]), sizeof(char *), cudaMemcpyHostToDevice));
@@ -213,17 +215,20 @@ std::map<std::string, std::vector<float> > dataConversion(std::map<std::string, 
 
     CudaSafeCall(cudaMemcpy(parsedResults, d_results, 11*rawData.size(), cudaMemcpyDeviceToHost));
 
-    for (int i = 0; i < rawData.size(); i++) {
-        std::vector<float> entry;
+    for (unsigned int i = 0; i < rawData.size(); i++) {
+        BeerEntry entry;
+        std::vector<float> values;
         // Put tag results into vector
         for (int j = 0; j < 88; j++) {
-            entry.push_back((float) getBit(parsedResults, i*88 + j));
+            values.push_back((float) getBit(parsedResults, i*88 + j));
             //printf("entry[-1]);
         }
         // Add abv and ibu
-        entry.push_back(atof(collectedData[i][1].c_str()));
-        entry.push_back(atof(collectedData[i][2].c_str()));
-        results[collectedData[i][0]] = entry;
+        values.push_back(atof(collectedData[i][1].c_str()));
+        values.push_back(atof(collectedData[i][2].c_str()));
+        entry.values = values;
+        entry.style = collectedData[i][0];
+        results.push_back(entry);
     }
     
     CudaSafeCall(cudaFree(d_descs));

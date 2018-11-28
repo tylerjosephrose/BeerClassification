@@ -46,11 +46,11 @@ Data::Data(bool refresh) {
     struct dirent * ent;
     dir = opendir(DATACACHEDIRECTORY);
     while ((ent = readdir(dir)) != NULL) {
-        //printf("Found %s\n", ent->d_name);
         dirs.push_back(ent->d_name);
     }
     closedir(dir);
 
+    printf("Pulling useful information from the xml response\n");
     std::map<std::string, std::vector<std::string> > rawData;
     for (uint i = 0; i < dirs.size(); i++) {
         if (dirs[i].find(".xml") == std::string::npos)
@@ -58,7 +58,6 @@ Data::Data(bool refresh) {
         pugi::xml_document doc;
         std::stringstream fileName;
         fileName << DATACACHEDIRECTORY << "/" << dirs[i].c_str();
-        //printf("Getting beers from file: %s\n", dirs[i].c_str());
         pugi::xml_parse_result result = doc.load_file(fileName.str().c_str());
         if (!result) {
             printf("Failed to read xml\n");
@@ -108,11 +107,12 @@ Data::Data(bool refresh) {
     }
 
     // char** tags and char** rawData
-    std::map<std::string, std::vector<float> > convertedData = dataConversion(rawData, tags_internal);
+    printf("Parsing data into something useful\n");
+    std::vector<BeerEntry> convertedData = dataConversion(rawData, tags_internal);
 
-    for (std::map<std::string, std::vector<float> >::iterator it = convertedData.begin(); it != convertedData.end(); it++) {
-        y.push_back(it->first);
-        x.push_back(it->second);
+    for (auto entry : convertedData) {
+        y.push_back(entry.style);
+        x.push_back(entry.values);
         numEntries++;
     }
 }
@@ -132,41 +132,24 @@ void Data::print() {
     }
 }
 
-float Data::train() {
-    // Split into train and test sets
-    int pctTrain = 80;
-    std::vector<std::string> yTrain;
-    std::vector<std::string> yTest;
-    std::vector< std::vector<std::string> > xTrain;
-    std::vector< std::vector<std::string> > xTest;
-    srand(time(NULL));
+void Data::train() {
+    // Put the data into a file
+    printf("Putting %d entries into the file\n", numEntries);
+    std::ofstream file;
+    std::string fileName = "parsedData.csv";
+    file.open(fileName);
     for (int i = 0; i < numEntries; i++) {
-        if (rand() % 100 < pctTrain) {
-            yTrain.push_back(y[i]);
-            xTrain.push_back(x[i]);
-        } else {
-            yTest.push_back(y[i]);
-            xTest.push_back(x[i]);
+        file << y[i].c_str() << "\t";
+        for (int j = 0; j < 85; j++) {
+            file << x[i][j] << "\t";
         }
+        file << x[i][88] << "\t";
+        file << x[i][89] << "\n";
     }
+    file.close();
+    
 
-    // Now use tensorflow for training...following guide at
-    // https://matrices.io/training-a-deep-neural-network-using-only-tensorflow-c/
-    // Create our Tensors
-
-    /*DataSet data_set("/path/normalized_car_features.csv");
-    Tensor x_data(DataTypeToEnum<float>::v(), 
-                TensorShape{static_cast<int>(data_set.x().size())/3, 3});
-    copy_n(data_set.x().begin(), data_set.x().size(),
-        x_data.flat<float>().data());
-
-    Tensor y_data(DataTypeToEnum<float>::v(), 
-                TensorShape{static_cast<int>(data_set.y().size()), 1});
-    copy_n(data_set.y().begin(), data_set.y().size(), 
-        y_data.flat<float>().data());*/
-    Tensor x_data(DataTypeToEnum<float>::v(), TensorShape{xTrain.size(), 90});
-    std::copy_n(xTrain.begin(), xTrain.size(), x_data.flat<float>().data())
-    Tensor y_data(DataTypeToEnum<std::string>::v(), TensorShape{yTrain.size(), 1});
-    std::copy_n(yTrain.begin(), yTrain.size(), y_data.flat<std::string>().data());
+    printf("Calling python to do the actual training\n");
+    system("python3 src/beerClassifier.py parsedData.csv");
 
 }
