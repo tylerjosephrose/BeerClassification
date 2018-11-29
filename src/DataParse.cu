@@ -44,111 +44,112 @@ void printBits(unsigned char *ptr, int sizeInBytes) {
 }*/
 
 __global__ void description_to_tags(char **d_descs, unsigned char *d_results, int sizeEntries, char **d_tags, int sizeTags) {
-    if (threadIdx.x > 0) 
+    /*if (threadIdx.x > 0) 
         return;
-    for (int num = 0; num < sizeTags; num++) {
-        for (int i = 0; i < sizeEntries; i++) {
-            int spacing = sizeEntries/sizeTags;
-            int idx = (i + threadIdx.x*spacing) % sizeEntries;
+    for (int num = 0; num < sizeTags; num++) {*/
+    int num = threadIdx.x;
+    for (int i = 0; i < sizeEntries; i++) {
+        int spacing = sizeEntries/sizeTags;
+        int idx = (i + threadIdx.x*spacing) % sizeEntries;
 
-            // Copy the desc locally so we don't have read conflicts
-            int j = 0;
-            char desc[2000];
-            while (d_descs[idx][j] != '\0') {
-                desc[j] = d_descs[idx][j];
-                j++;
-            }
-            desc[j] = '\0';
-
-            //char* tag = d_tags[threadIdx.x];
-            char* tag = d_tags[num];
-            int tagLength = 0;
-            while (tag[tagLength] != '\0')
-                tagLength++;
-            
-            int match = 0;
-            bool positiveMatch = false;
-            j = 0;
-            while (desc[j] != '\0') {
-                char descLetter = desc[j];
-                if ('A'<=descLetter && descLetter<='Z'){
-                    descLetter=char(((int)descLetter)+32);
-                }
-
-                if (descLetter == tag[match]) {
-                    match++;
-                    if (match == tagLength) {
-                        positiveMatch = true;
-                        break;
-                    }
-                }
-                else
-                    match = 0;
-                j++;
-            }
-            
-            if (positiveMatch) {
-                //printf("Thread %d:%d is looking for %s\t%s\n", threadIdx.x, idx, tag, "True!");
-                // Since 11 bytes are given for each entry we need to find the byte that we are in and add the specific flag we need
-                switch (num % 8) {
-                    case 0:
-                        d_results[(num/8) * i] |= 0b10000000;
-                        break;
-                    case 1:
-                        d_results[(num/8) * i] |= 0b01000000;
-                        break;
-                    case 2:
-                        d_results[(num/8) * i] |= 0b00100000;
-                        break;
-                    case 3:
-                        d_results[(num/8) * i] |= 0b00010000;
-                        break;
-                    case 4:
-                        d_results[(num/8) * i] |= 0b00001000;
-                        break;
-                    case 5:
-                        d_results[(num/8) * i] |= 0b00000100;
-                        break;
-                    case 6:
-                        d_results[(num/8) * i] |= 0b00000010;
-                        break;
-                    case 7:
-                        d_results[(num/8) * i] |= 0b00000001;
-                        break;
-                }
-            }
-            else {
-                //printf("Thread %d:%d is looking for %s\t%s\n", threadIdx.x, idx, tag, "False");
-                switch (num % 8) {
-                    case 0:
-                        d_results[(num/8) * i] &= ~0b10000000;
-                        break;
-                    case 1:
-                        d_results[(num/8) * i] &= ~0b01000000;
-                        break;
-                    case 2:
-                        d_results[(num/8) * i] &= ~0b00100000;
-                        break;
-                    case 3:
-                        d_results[(num/8) * i] &= ~0b00010000;
-                        break;
-                    case 4:
-                        d_results[(num/8) * i] &= ~0b00001000;
-                        break;
-                    case 5:
-                        d_results[(num/8) * i] &= ~0b00000100;
-                        break;
-                    case 6:
-                        d_results[(num/8) * i] &= ~0b00000010;
-                        break;
-                    case 7:
-                        d_results[(num/8) * i] &= ~0b00000001;
-                        break;
-                }
-            }
-            __syncthreads();
+        // Copy the desc locally so we don't have read conflicts
+        int j = 0;
+        char desc[2000];
+        while (d_descs[idx][j] != '\0') {
+            desc[j] = d_descs[idx][j];
+            j++;
         }
+        desc[j] = '\0';
+
+        //char* tag = d_tags[threadIdx.x];
+        char* tag = d_tags[num];
+        int tagLength = 0;
+        while (tag[tagLength] != '\0')
+            tagLength++;
+        
+        int match = 0;
+        bool positiveMatch = false;
+        j = 0;
+        while (desc[j] != '\0') {
+            char descLetter = desc[j];
+            if ('A'<=descLetter && descLetter<='Z'){
+                descLetter=char(((int)descLetter)+32);
+            }
+
+            if (descLetter == tag[match]) {
+                match++;
+                if (match == tagLength) {
+                    positiveMatch = true;
+                    break;
+                }
+            }
+            else
+                match = 0;
+            j++;
+        }
+        
+        if (positiveMatch) {
+            //printf("Thread %d:%d is looking for %s\t%s\n", threadIdx.x, idx, tag, "True!");
+            // Since 11 bytes are given for each entry we need to find the byte that we are in and add the specific flag we need
+            switch (num % 8) {
+                case 0:
+                    d_results[(num/8) * i] |= 0b10000000;
+                    break;
+                case 1:
+                    d_results[(num/8) * i] |= 0b01000000;
+                    break;
+                case 2:
+                    d_results[(num/8) * i] |= 0b00100000;
+                    break;
+                case 3:
+                    d_results[(num/8) * i] |= 0b00010000;
+                    break;
+                case 4:
+                    d_results[(num/8) * i] |= 0b00001000;
+                    break;
+                case 5:
+                    d_results[(num/8) * i] |= 0b00000100;
+                    break;
+                case 6:
+                    d_results[(num/8) * i] |= 0b00000010;
+                    break;
+                case 7:
+                    d_results[(num/8) * i] |= 0b00000001;
+                    break;
+            }
+        }
+        else {
+            //printf("Thread %d:%d is looking for %s\t%s\n", threadIdx.x, idx, tag, "False");
+            switch (num % 8) {
+                case 0:
+                    d_results[(num/8) * i] &= ~0b10000000;
+                    break;
+                case 1:
+                    d_results[(num/8) * i] &= ~0b01000000;
+                    break;
+                case 2:
+                    d_results[(num/8) * i] &= ~0b00100000;
+                    break;
+                case 3:
+                    d_results[(num/8) * i] &= ~0b00010000;
+                    break;
+                case 4:
+                    d_results[(num/8) * i] &= ~0b00001000;
+                    break;
+                case 5:
+                    d_results[(num/8) * i] &= ~0b00000100;
+                    break;
+                case 6:
+                    d_results[(num/8) * i] &= ~0b00000010;
+                    break;
+                case 7:
+                    d_results[(num/8) * i] &= ~0b00000001;
+                    break;
+            }
+        }
+        __syncthreads();
     }
+    //}
 }
 
 std::vector<BeerEntry> dataConversion(std::map<std::string, std::vector<std::string> > rawData, std::vector<std::string> tags_internal) {
@@ -186,7 +187,8 @@ std::vector<BeerEntry> dataConversion(std::map<std::string, std::vector<std::str
     unsigned char *d_results;
     
     unsigned char *parsedResults = (unsigned char*) malloc(11*rawData.size());
-    CudaSafeCall(cudaMalloc(&d_results, 11*rawData.size()));
+    size_t size = 11*rawData.size();
+    CudaSafeCall(cudaMalloc(&d_results, size));
 
     // Copy descs to device
     CudaSafeCall(cudaMalloc(&d_descs, rawData.size()*sizeof(char*)));

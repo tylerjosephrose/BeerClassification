@@ -16,7 +16,7 @@ NVCC=nvcc
 #OPENCV_INCLUDEPATH=/usr/local/include
 
 #OPENCV_LIBS=-lopencv_core -lopencv_imgproc -lopencv_highgui -lopencv_imgcodecs
-CUDA_INCLUDEPATH=/usr/local/cuda-10.0/include
+CUDA_INCLUDEPATH=/usr/local/cuda/include
 
 ######################################################
 # On Macs the default install locations are below    #

@@ -117,7 +117,7 @@ def main(dataFile):
   # Start the actual machine learning
   # Train it over 2000 iterations
   num_hidden_nodes = [5, 10, 20]  
-  num_iters = 2000
+  num_iters = 5000
 
   plt.figure(figsize=(12,8))  
   for hidden_nodes in num_hidden_nodes:  
@@ -127,6 +127,8 @@ def main(dataFile):
   plt.xlabel('Iteration', fontsize=12)  
   plt.ylabel('Loss', fontsize=12)  
   plt.legend(fontsize=12)  
+
+  plt.savefig('LossGraph.png')
 
   # Check our results
   print('Checking accuracy')
