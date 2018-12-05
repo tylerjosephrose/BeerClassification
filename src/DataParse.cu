@@ -29,21 +29,75 @@ int getBit(unsigned char *bytes, int bit) {
     return ((bytes[(bit/8)] >> (bit % 8)) & 1);
 }
 
-/*__device__ void setBit(unsigned char *bytes, int bit, int val) {
-    if (val == 1)
-        bytes[(bit/8)] |= (1 << (bit % 8));
-    else
-        bytes [(bit/8)] &= ~(1 << (bit % 8));
+__global__ void description_to_tags_optimized(char **d_descs, unsigned char *d_results, int sizeEntries, char **d_tags, int sizeTags) {
+    int idx = threadIdx.x + blockIdx.x * blockDim.x;
+    int descNum = idx/sizeTags;
+    int tagNum = idx%sizeTags;
+    __shared__ char* tags[85];
+    if (threadIdx.x < sizeTags) {
+        char tag[20];
+        for (int i = 0; i < 20; i++) {
+            tag[i] = d_tags[threadIdx.x][i];
+        }
+        tags[threadIdx.x] = tag;
+    }
+
+    __syncthreads();
+
+    if (idx >= (sizeEntries * sizeTags))
+        return;
+
+    int i = 0;
+    int match = 0;
+    char descLetter = d_descs[descNum][i];
+    char tagLetter = tags[tagNum][match];
+    while (descLetter != '\0') {
+        // Convert desc letter to lowercase for matching
+        if ('A'<=descLetter && descLetter<='Z'){
+            descLetter=char(((int)descLetter)+32);
+        }
+        if (descLetter == tagLetter) {
+            match++;
+            tagLetter = tags[tagNum][match];
+            if (tagLetter == '\0') {
+                // We have a match so put it in the results
+                switch (tagNum % 8) {
+                    case 0:
+                        d_results[descNum] |= 0b10000000;
+                        break;
+                    case 1:
+                        d_results[descNum] |= 0b01000000;
+                        break;
+                    case 2:
+                        d_results[descNum] |= 0b00100000;
+                        break;
+                    case 3:
+                        d_results[descNum] |= 0b00010000;
+                        break;
+                    case 4:
+                        d_results[descNum] |= 0b00001000;
+                        break;
+                    case 5:
+                        d_results[descNum] |= 0b00000100;
+                        break;
+                    case 6:
+                        d_results[descNum] |= 0b00000010;
+                        break;
+                    case 7:
+                        d_results[descNum] |= 0b00000001;
+                        break;
+                }
+            }
+        } else {
+            match = 0;
+            tagLetter = tags[tagNum][match];
+        }
+        i++;
+        descLetter = d_descs[descNum][i];
+    }
 }
 
-void printBits(unsigned char *ptr, int sizeInBytes) {
-    for (int i = 0; i < sizeInBytes * 8; i++) {
-        printf("%d", getBit(ptr, i));
-    }
-    printf("\n");
-}*/
-
-__global__ void description_to_tags(char **d_descs, unsigned char *d_results, int sizeEntries, char **d_tags, int sizeTags) {
+__global__ void description_to_tags_original(char **d_descs, unsigned char *d_results, int sizeEntries, char **d_tags, int sizeTags) {
     /*if (threadIdx.x > 0) 
         return;
     for (int num = 0; num < sizeTags; num++) {*/
@@ -180,8 +234,8 @@ std::vector<BeerEntry> dataConversion(std::map<std::string, std::vector<std::str
     /* Since we have 11Gb of memory on my GPU we don't need to worry about memory...at 
     85*20 bytes for the tags, 2000 bytes per beer for description, 11 bytes per beer for results
     it would take around 5.5 million beers to run out of memory...We don't have that*/
-    const dim3 blockSize(tags_internal.size(), 1, 1);
-    const dim3 gridSize(1, 1, 1);
+    //const dim3 blockSize(tags_internal.size(), 1, 1);
+    //const dim3 gridSize(1, 1, 1);
     
     char **d_descs, **d_tags;
     unsigned char *d_results;
@@ -213,7 +267,10 @@ std::vector<BeerEntry> dataConversion(std::map<std::string, std::vector<std::str
     }
     free(d_temp_tags);
 
-    description_to_tags<<<gridSize, blockSize>>>(d_descs, d_results, rawData.size(), d_tags, tags_internal.size());
+    //description_to_tags_original<<<gridSize, blockSize>>>(d_descs, d_results, rawData.size(), d_tags, tags_internal.size());
+    const dim3 blockSizeOptimized(1024, 1, 1);
+    const dim3 gridSizeOptimized(ceil((rawData.size()*tags_internal.size())/1024.0), 1, 1);
+    description_to_tags_optimized<<<gridSizeOptimized, blockSizeOptimized>>>(d_descs, d_results, rawData.size(), d_tags, tags_internal.size());
 
     CudaSafeCall(cudaMemcpy(parsedResults, d_results, 11*rawData.size(), cudaMemcpyDeviceToHost));
 
@@ -223,7 +280,6 @@ std::vector<BeerEntry> dataConversion(std::map<std::string, std::vector<std::str
         // Put tag results into vector
         for (int j = 0; j < 88; j++) {
             values.push_back((float) getBit(parsedResults, i*88 + j));
-            //printf("entry[-1]);
         }
         // Add abv and ibu
         values.push_back(atof(collectedData[i][1].c_str()));
